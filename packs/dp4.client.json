@@ -4028,9 +4028,290 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T15:11:38.358Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "R2OftAxM",
+        "NTi7d3Xc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ickBpNUE",
+      "slug": "farmers-cutting-oh-the-biomes-weve-gone",
+      "name": "Farmer's Cutting: Oh The Biomes We've Gone",
+      "summary": "Adds Farmer's Delight cutting recipes for Oh The Biomes We've Gone",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ickBpNUE/905b55e6e4ee7f8303c780ca5ff9650f5216c06a.png",
+      "versionId": "HxjFzjdy",
+      "versionNumber": "1.21.1-2.1-neoforge+mod",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/ickBpNUE/versions/HxjFzjdy/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+      "size": 100636,
+      "hashes": {
+        "sha1": "add7e0e1a8dd747ada512c8d0763ef952e962bcc",
+        "sha512": "2448f3db7a67bc0fdf8a1bd809a12cba4f2d1dc4f12aa8430f3e8977421bcb8ac871b19ca9041fbcfc16f499f08bc21ac8a7da5964b9f81554c71a6d25f8fb27"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:12:16.195Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "R2OftAxM",
+        "Tkikq67H"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "lFKDc2ny",
+      "slug": "farmers-cutting-regions-unexplored",
+      "name": "Farmer's Cutting: Regions Unexplored",
+      "summary": "Adds Farmer's Delight cutting recipes for Regions Unexplored",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/lFKDc2ny/8153a4c7df4a716bc54925c544aa3cfc5b0ae261.png",
+      "versionId": "HjwPIJ3o",
+      "versionNumber": "1.21.1-1.1b-neoforge+mod",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/lFKDc2ny/versions/HjwPIJ3o/farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar",
+      "size": 113172,
+      "hashes": {
+        "sha1": "1c3c1f0bba76a3e7722c1e6f117ad66e21ef6fe6",
+        "sha512": "42f40dd95aaf30d642d18615c6fe8dbc271a0e9182beec26ed9e0d2113d25d6e281f04183ba9fb5323742c44a50e8dd4c979985fc31d45b4ad3814cb9f8c6cec"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:12:29.945Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc",
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "CxjQ2P6f",
+      "slug": "farmers-delight-extended",
+      "name": "Farmer's Delight: Extended",
+      "summary": "Adds a variety of new food recipes that seamlessly fills the gap between Create and Farmer's Delight—no new crops or mobs required.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/CxjQ2P6f/9c2ba908b7d838237d0792a0f5c1f4b2f5fb5b14_96.webp",
+      "versionId": "3zUEyjxn",
+      "versionNumber": "1.21.1-0.2.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "farmersdelight_extended-1.21.1-0.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/CxjQ2P6f/versions/3zUEyjxn/farmersdelight_extended-1.21.1-0.2.2.jar",
+      "size": 142253,
+      "hashes": {
+        "sha1": "45200860ea91640de38abb059e950f8abed5f055",
+        "sha512": "6cfe7093c1e1ee9ee798087658e5f43005dff7e3c8fd91f86f56ba2010c309ee923ff6cd1842737a6f882ef97881ef8260f396f36cf3b222d2e67bee5d84803c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:12:52.315Z"
+    },
+    {
+      "group": "gepvdav",
+      "requires": [
+        "LNytGWDc",
+        "ordsPcFz"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "GmjmRQ0A",
+      "slug": "slice-and-dice",
+      "name": "Create Slice & Dice",
+      "summary": "Making automation for Farmers Delight more sensible",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/GmjmRQ0A/d2d4a1a5cfc7f1ececf50dc977021c62654ccdc8_96.webp",
+      "versionId": "cV2GZBSJ",
+      "versionNumber": "4.3.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "sliceanddice-neoforge-4.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/cV2GZBSJ/sliceanddice-neoforge-4.3.2.jar",
+      "size": 1353585,
+      "hashes": {
+        "sha1": "ba4a47438623e78739d125b733971121ad14915e",
+        "sha512": "5093797c46be646a9af44aace05e43a5705a3bd59927c0fa0e6a3e0e00fdf4222d85eca06d4be6381915f87a064488174fa690218f380c156ae46d0b725b0cc4"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:13:07.313Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "e9V6wFcR",
+      "slug": "expanded-delight",
+      "name": "Expanded Delight",
+      "summary": "An addon mod for Farmer's Delight\nthat adds many more crops and functionality to the base mod",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/e9V6wFcR/4cbbace573b20628290929948a77c74d95ed7a70.png",
+      "versionId": "RTRYPIJp",
+      "versionNumber": "0.1.4-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "expandeddelight-0.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/RTRYPIJp/expandeddelight-0.1.4.jar",
+      "size": 547554,
+      "hashes": {
+        "sha1": "cf26fe18c3a9deec525fe0f0e7c2d3b9f4e9f484",
+        "sha512": "13a2bd17c5c184902da9eb78ce9b993073864301e8cb4a038f7fd7e596188826ef13381cf615533286f53eaeaabfc4c8b27ab91113a15ea68e4bd9f84ca16b8b"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:13:13.898Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "yHN0njMr",
+      "slug": "ends-delight",
+      "name": "End's Delight",
+      "summary": "End's Delight is an addon mod for Farmer's Delight based around adding culinary content to the end!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/yHN0njMr/bc333fa34161b1e4d3c2e185210bb558aa1d480a.png",
+      "versionId": "YTApg6Hl",
+      "versionNumber": "2.6.1+neoforge.1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "ends_delight-2.6.1+neoforge.1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yHN0njMr/versions/YTApg6Hl/ends_delight-2.6.1%2Bneoforge.1.21.1.jar",
+      "size": 258124,
+      "hashes": {
+        "sha1": "0613a535d82b7a3d51d0caf0e04b082cb4c062e9",
+        "sha512": "1cb6893f285ce3bc3b2ab19e355ca14bb409e2b078e202ee273e722357494a68b156be097cbd3ceae860e985787fe37b053446bc1258884e831d7b01b4ad76a9"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:13:24.855Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hIu9KJTT",
+      "slug": "brewin-and-chewin",
+      "name": "Brewin' And Chewin'",
+      "summary": "Fermenting addon for Farmer's Delight.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hIu9KJTT/f7c591a80046859d3d45c04ecbbc54d264483d5e.png",
+      "versionId": "MbcR48Ou",
+      "versionNumber": "4.5.0+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/MbcR48Ou/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar",
+      "size": 1575450,
+      "hashes": {
+        "sha1": "bc86c776779b16dec386f4b667ff46d9e2ecb88d",
+        "sha512": "2d4d264564d12784f5425177fb1b88b5ec0d1672c0957d6a78eb1e12ffa5e0e31a7f85f8beb9c02df0489043f5d2ae5889fc3f589e8e5f8ee7971a458ba0f34d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:13:36.423Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "foa4fGIH",
+      "slug": "rustic-delight",
+      "name": "Rustic Delight",
+      "summary": "An add-on for Farmer's Delight that adds Pancakes, Cotton, Coffee, Bell Peppers, fried foods and more!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/foa4fGIH/eecc99e281522f2291081c48176f0faa84c107bc.png",
+      "versionId": "pTszhct3",
+      "versionNumber": "1.7.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "rusticdelight-neoforge-1.21-1.7.0.jar",
+      "url": "https://cdn.modrinth.com/data/foa4fGIH/versions/pTszhct3/rusticdelight-neoforge-1.21-1.7.0.jar",
+      "size": 1031188,
+      "hashes": {
+        "sha1": "4e9cd8dfc6c49a31b9fec9b3e03b93e5ffdb6d5d",
+        "sha512": "4c16efe988bbe72fb931c2b399b00330d549e4116b0ca7909a500b0b133c4b80f3c785b960c63007410a6d6dd8c67272eb89cb70519d3b8a22a8426cb6215b13"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:13:44.393Z"
     }
   ],
-  "updatedAt": "2026-07-30T15:11:44.167Z",
+  "updatedAt": "2026-07-30T15:14:32.985Z",
   "side": "client",
-  "generatedAt": "2026-07-30T15:11:44.169Z"
+  "generatedAt": "2026-07-30T15:14:32.987Z"
 }
