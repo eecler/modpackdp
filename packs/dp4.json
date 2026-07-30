@@ -7115,7 +7115,255 @@
       "autoSide": "server",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:05:42.392Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "h0bu4oDk",
+      "slug": "create-train-parts",
+      "name": "Create Train Parts",
+      "summary": "Adds functional blocks as decoration",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/h0bu4oDk/d82223b3d90585d9aac0b3b734f68d00d3cf18ea_96.webp",
+      "versionId": "wSuDZsee",
+      "versionNumber": "0.5.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
+      "url": "https://cdn.modrinth.com/data/h0bu4oDk/versions/wSuDZsee/create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
+      "size": 3699282,
+      "hashes": {
+        "sha1": "2d0dc7d7838f5bdaabdd96080b1e4b950bfd3306",
+        "sha512": "73b4aaee6d94431811dc9826e3aaa0665f393a6753a06379b5a0633f8a6f1070d0c54417cd8e4a2134634c732fc8edfe4d91cbd225ba763ea63500f84a3e2dba"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:33.372Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "QMGO17gm",
+      "slug": "create_factory_logistics",
+      "name": "Create Factory Logistics",
+      "summary": "Ever wondered why there are logistics packages, but no logistics jars? Let's fix this!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/QMGO17gm/3d589caa87d966371fc1787b57d1bc5f397b5407_96.webp",
+      "versionId": "4Drrlfu3",
+      "versionNumber": "1.6.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "create_factory_logistics-1.21.1-1.6.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/QMGO17gm/versions/4Drrlfu3/create_factory_logistics-1.21.1-1.6.0-all.jar",
+      "size": 1301344,
+      "hashes": {
+        "sha1": "6fa309de537afe6a29cb724ed063b5b0cfc2bcb5",
+        "sha512": "aeb3c3c25d8584ed6d1bb431b5090c7da6f2e0fb2119eb8b0113f4fac5d59d18879290474c84994f5e713c45a75d532b7949609c8bea50044188b2fb889950d0"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:33.914Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "5jfUeix5",
+      "slug": "create-more-parallel-pipes",
+      "name": "Create More: Parallel Pipes",
+      "summary": "Allows you to have pipes that don't automatically connect with each other akin to encased pipes.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/5jfUeix5/601b562fe9173fd5914de6d0b5600f7e387bb0f3_96.webp",
+      "versionId": "aYrPugrv",
+      "versionNumber": "2.0.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "cmparallelpipes-neoforge-2.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/5jfUeix5/versions/aYrPugrv/cmparallelpipes-neoforge-2.0.2.jar",
+      "size": 28606,
+      "hashes": {
+        "sha1": "8d6c6653ef9a3b373132fb4e42a7b007111c2998",
+        "sha512": "1a08dba7a1cef3d9e4aedbdb3616eac6c1d2f0b3f77aa936c5a293e6099f40bb7805b1f53461feb9bd8a9196cf10dd8fbd27de35dd9fd5bc48a7a9de1158b072"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:45.752Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "zvaHXgQz",
+      "slug": "create-trimmed",
+      "name": "Create: Trimmed",
+      "summary": "A mod that allows Create's materials to be used as armour trim materials.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/zvaHXgQz/6402174e45c47abd56a5ee9a11d793b33f26af0e_96.webp",
+      "versionId": "P1pdTwvn",
+      "versionNumber": "1.0.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt"
+      ],
+      "filename": "create_trimmed.jar",
+      "url": "https://cdn.modrinth.com/data/zvaHXgQz/versions/P1pdTwvn/create_trimmed.jar",
+      "size": 505421,
+      "hashes": {
+        "sha1": "2a7e00032f611c06f9e5fa2e743052552f5cb5c9",
+        "sha512": "bc1e2515975122fa888595427ca0381a1a4f6f117b88d14b4d3c260a4e6b1cfc0f8113c01074e472fb52a35cdaf8bbab45ebf89baa4ce49ff42567c25a43c0cb"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:46.286Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "WPE5gRs9",
+      "slug": "create-confectionery",
+      "name": "Create Confectionery",
+      "summary": "🍫 Create your own Chocolate Factory !",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp",
+      "versionId": "m9KI739R",
+      "versionNumber": "1.1.2",
+      "gameVersions": [
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "create-confectionery1.21.1_v1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/WPE5gRs9/versions/m9KI739R/create-confectionery1.21.1_v1.1.2.jar",
+      "size": 2126985,
+      "hashes": {
+        "sha1": "03110e94c56c74118d1fdd7c463f0e18e32a1a37",
+        "sha512": "2ea7f9e0114c5a22f0c1795b1a6fdd841e4b1d7faaaf5795f923b3fcf7d2de0c0841fdfa37ade711a68e1cd7cedb1576d29113bf14b012929e3aca6f336bfec9"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:48.028Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hddN8ksR",
+      "slug": "create-vibrant-vaults",
+      "name": "Create: Vibrant Vaults",
+      "summary": "A Create mod addon that adds more item vaults.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hddN8ksR/105d3ab0a1f101ba6b34685501d6df6bb4ab5fa4_96.webp",
+      "versionId": "t17qYXjn",
+      "versionNumber": "0.3.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "create_vibrant_vaults-0.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
+      "size": 2687938,
+      "hashes": {
+        "sha1": "d0dbdde6318c4dd4ede1d2c091f1a64896ba872a",
+        "sha512": "3bd53097482e614dc4e5e635778af25020fa27c1c453d4928d1d8baa6767c93cb300810a5ac0c49af86813749a180e3f092ab2e65b07e7741c2b12aaebd47006"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:54.681Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "z611fdf7",
+      "slug": "createnuclear",
+      "name": "Create Nuclear",
+      "summary": "A Create addon that adds nuclear reactors to Create, along with all the dangers associated with radiation!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/z611fdf7/100fd84c2390fd4bde548e30b9624ee1fa32c018_96.webp",
+      "versionId": "waO2BSHO",
+      "versionNumber": "1.3.2-beta.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "createnuclear-1.3.2-beta.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/z611fdf7/versions/waO2BSHO/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "size": 1842160,
+      "hashes": {
+        "sha1": "c4349006fd07e614b0de3c5982d7f0d0a818c98c",
+        "sha512": "39d9691d8f00f375a438193139c30fe60032cf04cd99d83fa428fefef5c8ed79d49d8f09b5f0e57fb4b2c4058fc4c2bad942a0913dd885f701a5e9f0d9d2f36f"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:06:55.084Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:05:51.550Z"
+  "updatedAt": "2026-07-30T16:07:27.487Z"
 }
