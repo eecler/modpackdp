@@ -5667,9 +5667,75 @@
       "autoSide": "both",
       "addedBy": "KukikOfficial",
       "addedAt": "2026-07-30T16:06:55.084Z"
+    },
+    {
+      "group": "gscw41m",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "DGiq4ZSW",
+      "slug": "oceans-delight",
+      "name": "Ocean's Delight",
+      "summary": "Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
+      "versionId": "ja5Qg1xw",
+      "versionNumber": "1.0.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "size": 117108,
+      "hashes": {
+        "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9",
+        "sha512": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:08:53.292Z"
+    },
+    {
+      "group": "gr522fl",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "qwvI41y9",
+      "slug": "sparsestructures",
+      "name": "Sparse Structures",
+      "summary": "A simple and configurable mod that makes all (even datapacks and modded) structures more spread out (or more common!), essentially making them rarer/easier to find. Useful in big modpacks with a lot of structures mods to encourage exploration",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/qwvI41y9/d43aa4806e99283b3bcee05005f7cdc86b63e59e.png",
+      "versionId": "MoJZpi20",
+      "versionNumber": "3.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "sparsestructures-neoforge-1.21.1-3.0.jar",
+      "url": "https://cdn.modrinth.com/data/qwvI41y9/versions/MoJZpi20/sparsestructures-neoforge-1.21.1-3.0.jar",
+      "size": 117743,
+      "hashes": {
+        "sha1": "daa7235c52c822524e9a4edd8b382a68ec78b1f8",
+        "sha512": "adef915104fe7a010b7e3305f3bb85c3336cc764fb2b8c6dfec3b749e08d0d0b7d36b6ca470699ec85ba2474d6c726d96a2bb9c1952668202d9dfe0382fbdae9"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:09:15.810Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:07:27.487Z",
+  "updatedAt": "2026-07-30T16:09:17.921Z",
   "side": "server",
-  "generatedAt": "2026-07-30T16:07:27.490Z"
+  "generatedAt": "2026-07-30T16:09:17.925Z"
 }

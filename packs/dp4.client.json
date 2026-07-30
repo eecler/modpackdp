@@ -6804,9 +6804,182 @@
       "autoSide": "both",
       "addedBy": "KukikOfficial",
       "addedAt": "2026-07-30T16:06:55.084Z"
+    },
+    {
+      "group": "gscw41m",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "DGiq4ZSW",
+      "slug": "oceans-delight",
+      "name": "Ocean's Delight",
+      "summary": "Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
+      "versionId": "ja5Qg1xw",
+      "versionNumber": "1.0.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "size": 117108,
+      "hashes": {
+        "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9",
+        "sha512": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:08:53.292Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "5faXoLqX",
+        "1OE8wbN0"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "b1fMg6sH",
+      "slug": "item-borders",
+      "name": "Item Borders",
+      "summary": "Add colored borders to inventory slots to make your rare items stand out!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/b1fMg6sH/8d57c0d614101a1ebaa9c6cebb90bd1940fb1083.png",
+      "versionId": "WjErgKWV",
+      "versionNumber": "1.2.5",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "ItemBorders-1.21-neoforge-1.2.5.jar",
+      "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/WjErgKWV/ItemBorders-1.21-neoforge-1.2.5.jar",
+      "size": 23511,
+      "hashes": {
+        "sha1": "b5ae56007c0bbb86b9a05f9f12b522ed485d7884",
+        "sha512": "050917782aba18d6f5bd9cc71462e96195d2124e8a99f538ac40c45e38de69e0f95fce4efa3835b6df364ac543ede7a5ec6084b78e03fe15a072ed3cee05e4f5"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:08:57.910Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "1OE8wbN0",
+      "slug": "prism-lib",
+      "name": "Prism",
+      "summary": "A library all about color! Provides lots of color-related functionality for dependent mods.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp",
+      "versionId": "kMcz2lDj",
+      "versionNumber": "1.0.11",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+      "size": 62031,
+      "hashes": {
+        "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+        "sha512": "b3539b5dba6414b5f6db126dd703a0923984c1fa11a53e50090eb1b03ec3ef3a09fc048ae2d03b8241e4d182ec4e942cc905d0f3e7366608fd8a0bb2509f55f4"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:08:58.370Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "fRiHVvU7"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "wbWoo11W",
+      "slug": "emi-enchanting",
+      "name": "EMI Enchanting",
+      "summary": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png",
+      "versionId": "ZyJ6TKvh",
+      "versionNumber": "0.1.2+1.21+neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
+      "size": 15680,
+      "hashes": {
+        "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+        "sha512": "90944c8ff897fa98d0323fe94e4053fb89f43cbaf4fd28d6ad58134cea1469c9398e0c0edd4328a5530e1578ad2286ec5822292bf9c587182e5606dbfff218be"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:09:04.324Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "9Pk89J3g",
+      "slug": "justenoughbreeding",
+      "name": "Just Enough Breeding (JEBr)",
+      "summary": "JEI/REI/EMI plugin that displays breeding information",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png",
+      "versionId": "lVl2kVwh",
+      "versionNumber": "3.2.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/lVl2kVwh/justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "size": 593705,
+      "hashes": {
+        "sha1": "9b2bfac5e7aa0952dfb3da18936c0ece4beeae21",
+        "sha512": "d1e9970f615d7a0986f030259d7d16cc4ba8cbd89bb81d1a1fbf6da2d3a9c7a0376957e1b418bcd82c9e45dcbdb6eb05fde2e20cc3f5225db33d0436759baee6"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:09:10.895Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:07:27.487Z",
+  "updatedAt": "2026-07-30T16:09:17.921Z",
   "side": "client",
-  "generatedAt": "2026-07-30T16:07:27.489Z"
+  "generatedAt": "2026-07-30T16:09:17.923Z"
 }
