@@ -27,29 +27,33 @@
     {
       "id": "lib",
       "name": "Библиотеки"
+    },
+    {
+      "id": "gaipg5h",
+      "name": "Твики"
     }
   ],
   "mods": [
     {
-      "group": "g0ableu",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "uXXizFIs",
-      "slug": "ferrite-core",
-      "name": "FerriteCore",
       "summary": "Memory usage optimizations",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
-      "versionId": "x7kQWVju",
-      "versionNumber": "7.0.3-neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g0ableu",
+      "projectId": "uXXizFIs",
+      "slug": "ferrite-core",
+      "name": "FerriteCore",
+      "icon": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+      "versionId": "x7kQWVju",
+      "versionNumber": "7.0.3-neoforge",
       "filename": "ferritecore-7.0.3-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
       "size": 121559,
@@ -64,25 +68,25 @@
       "addedAt": "2026-07-30T13:32:47.250Z"
     },
     {
-      "group": "g0ableu",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "gvQqBUqZ",
-      "slug": "lithium",
-      "name": "Lithium",
       "summary": "No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
-      "versionId": "DDUrRVCA",
-      "versionNumber": "mc1.21.1-0.15.4-neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g0ableu",
+      "projectId": "gvQqBUqZ",
+      "slug": "lithium",
+      "name": "Lithium",
+      "icon": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+      "versionId": "DDUrRVCA",
+      "versionNumber": "mc1.21.1-0.15.4-neoforge",
       "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
       "size": 774220,
@@ -97,19 +101,8 @@
       "addedAt": "2026-07-30T13:33:10.599Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "EsAfCjCV",
-      "slug": "appleskin",
-      "name": "AppleSkin",
       "summary": "Food/hunger-related HUD improvements",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
-      "versionId": "uAKA6Laj",
-      "versionNumber": "3.0.9+mc1.21",
       "gameVersions": [
         "1.21",
         "1.21.1",
@@ -118,6 +111,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "EsAfCjCV",
+      "slug": "appleskin",
+      "name": "AppleSkin",
+      "icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+      "versionId": "uAKA6Laj",
+      "versionNumber": "3.0.9+mc1.21",
       "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
       "size": 75804,
@@ -132,25 +136,25 @@
       "addedAt": "2026-07-30T13:33:46.149Z"
     },
     {
-      "group": "g0ableu",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "nmDcB62a",
-      "slug": "modernfix",
-      "name": "ModernFix",
       "summary": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/nmDcB62a/2af94de5e08ae54567ee86b968fc7ce076d9fee5_96.webp",
-      "versionId": "VsJnrw8k",
-      "versionNumber": "5.27.20+mc1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g0ableu",
+      "projectId": "nmDcB62a",
+      "slug": "modernfix",
+      "name": "ModernFix",
+      "icon": "https://cdn.modrinth.com/data/nmDcB62a/2af94de5e08ae54567ee86b968fc7ce076d9fee5_96.webp",
+      "versionId": "VsJnrw8k",
+      "versionNumber": "5.27.20+mc1.21.1",
       "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
       "size": 599474,
@@ -165,27 +169,27 @@
       "addedAt": "2026-07-30T13:33:53.864Z"
     },
     {
-      "group": "gg5k2nb",
-      "requires": [
-        "Aqlf1Shp"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "u58R1TMW",
-      "slug": "connector",
-      "name": "Sinytra Connector",
       "summary": "Lets you play Fabric mods on NeoForge",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/u58R1TMW/cc0775e1d038b26b7c91144fe4c5ee3b21d3a6a3_96.webp",
-      "versionId": "kDbM9LpX",
-      "versionNumber": "2.0.0-beta.15+1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "Aqlf1Shp"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "u58R1TMW",
+      "slug": "connector",
+      "name": "Sinytra Connector",
+      "icon": "https://cdn.modrinth.com/data/u58R1TMW/cc0775e1d038b26b7c91144fe4c5ee3b21d3a6a3_96.webp",
+      "versionId": "kDbM9LpX",
+      "versionNumber": "2.0.0-beta.15+1.21.1",
       "filename": "connector-2.0.0-beta.15+1.21.1-full.jar",
       "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/kDbM9LpX/connector-2.0.0-beta.15%2B1.21.1-full.jar",
       "size": 4527056,
@@ -201,25 +205,25 @@
       "isDependency": true
     },
     {
-      "group": "lib",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "Aqlf1Shp",
-      "slug": "forgified-fabric-api",
-      "name": "Forgified Fabric API",
       "summary": "Fabric API implemented on top of NeoForge",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/Aqlf1Shp/bcdcfed483b0365807f75181eea89b7960cd3b1b_96.webp",
-      "versionId": "L9bk5uA9",
-      "versionNumber": "0.116.15+2.3.1+1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "Aqlf1Shp",
+      "slug": "forgified-fabric-api",
+      "name": "Forgified Fabric API",
+      "icon": "https://cdn.modrinth.com/data/Aqlf1Shp/bcdcfed483b0365807f75181eea89b7960cd3b1b_96.webp",
+      "versionId": "L9bk5uA9",
+      "versionNumber": "0.116.15+2.3.1+1.21.1",
       "filename": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
       "size": 5590061,
@@ -233,9 +237,111 @@
       "addedBy": "eecler",
       "addedAt": "2026-07-30T13:34:40.310Z",
       "isDependency": true
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "1bokaNcj",
+      "slug": "xaeros-minimap",
+      "name": "Xaero's Minimap",
+      "summary": "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+      "versionId": "JXvcT1hp",
+      "versionNumber": "neoforge-1.21.1-26.4.2",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "size": 2185409,
+      "hashes": {
+        "sha1": "21b3232e62dabcbb5bf28866481e8de2c0ccb780",
+        "sha512": "7ece42b6665cb3a83d77bca1ae9ab31e9f418a7e0ee73f4be1839b62a8dde7e2727d554b6ed056ca4e7510c1aaa6603e5caaa62355bca9ff202171df73ac49ee"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:39:08.709Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "NcUtCpym",
+      "slug": "xaeros-world-map",
+      "name": "Xaero's World Map",
+      "summary": "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+      "versionId": "55gtOc9Y",
+      "versionNumber": "neoforge-1.21.1-1.44.2",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/55gtOc9Y/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "size": 1418918,
+      "hashes": {
+        "sha1": "beea95c1a2ca78e1a6ca0a0ddc7770672101fb60",
+        "sha512": "4a6b128ca0a07290ad62bab03e98c2ed5c7b37014bb3a3e8e74e7422429ca2cad225c045f9f8f9681662dfda29809dd9cdb2701ba4774a3a57e2fc84eb497fa8"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:39:10.973Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "qQyHxfxd",
+      "slug": "no-chat-reports",
+      "name": "No Chat Reports",
+      "summary": "Makes chat unreportable (where possible)",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/qQyHxfxd/icon.png",
+      "versionId": "ZV8eL55E",
+      "versionNumber": "NeoForge-1.21.1-v2.9.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "size": 306668,
+      "hashes": {
+        "sha1": "9edfc7861277ff661141304dc8216f83eacdd9af",
+        "sha512": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:39:55.707Z"
     }
   ],
-  "updatedAt": "2026-07-30T13:35:21.931Z",
+  "updatedAt": "2026-07-30T13:40:04.314Z",
   "side": "server",
-  "generatedAt": "2026-07-30T13:35:21.932Z"
+  "generatedAt": "2026-07-30T13:40:04.315Z"
 }
