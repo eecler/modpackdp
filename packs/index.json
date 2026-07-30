@@ -1,0 +1,12 @@
+{
+  "modpacked": 1,
+  "updatedAt": "2026-07-30T13:31:58.698Z",
+  "packs": [
+    {
+      "id": "dp4",
+      "url": "dp4.json",
+      "client": "dp4.client.json",
+      "server": "dp4.server.json"
+    }
+  ]
+}

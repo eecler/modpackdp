@@ -1,0 +1,24 @@
+{
+  "modpacked": 1,
+  "id": "dp4",
+  "name": "dodo pizza seasons 4",
+  "summary": "",
+  "description": "hi",
+  "version": "1",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": ""
+  },
+  "author": "eecler",
+  "groups": [
+    {
+      "id": "all",
+      "name": "Все моды"
+    }
+  ],
+  "mods": [],
+  "updatedAt": "2026-07-30T13:31:58.402Z",
+  "side": "server",
+  "generatedAt": "2026-07-30T13:31:58.403Z"
+}
