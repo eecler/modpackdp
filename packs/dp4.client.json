@@ -5845,25 +5845,25 @@
       "addedAt": "2026-07-30T15:54:36.771Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "r4Knci2k",
-      "slug": "interiors",
-      "name": "Create: Interiors",
       "summary": "A complement to the Create mod that adds new furniture.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/r4Knci2k/d0dd0604c63c68eaaf9ab5aa0a7166e9904412a8_96.webp",
-      "versionId": "gBrfZy6S",
-      "versionNumber": "0.6.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "r4Knci2k",
+      "slug": "interiors",
+      "name": "Create: Interiors",
+      "icon": "https://cdn.modrinth.com/data/r4Knci2k/d0dd0604c63c68eaaf9ab5aa0a7166e9904412a8_96.webp",
+      "versionId": "gBrfZy6S",
+      "versionNumber": "0.6.1",
       "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
       "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
       "size": 486912,
@@ -5878,28 +5878,28 @@
       "addedAt": "2026-07-30T15:56:24.028Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc",
-        "lhGA9TYQ"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "L1RT5SJc",
-      "slug": "create-goggles",
-      "name": "Create Goggles",
       "summary": "Adds Goggle Helmets and Armored Backtanks for Create Mod",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/L1RT5SJc/b06854807a8f2de721be7484c3777c8ef8d616ee_96.webp",
-      "versionId": "Co24W2FL",
-      "versionNumber": "6.1.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "L1RT5SJc",
+      "slug": "create-goggles",
+      "name": "Create Goggles",
+      "icon": "https://cdn.modrinth.com/data/L1RT5SJc/b06854807a8f2de721be7484c3777c8ef8d616ee_96.webp",
+      "versionId": "Co24W2FL",
+      "versionNumber": "6.1.1",
       "filename": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
       "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Co24W2FL/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar",
       "size": 180932,
@@ -5914,27 +5914,27 @@
       "addedAt": "2026-07-30T15:56:25.548Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "ZM3tt6p1",
-      "slug": "create-diesel-generators",
-      "name": "Create: Diesel Generators",
       "summary": "A Create addon that adds compact diesel generators (engines), simple industrial features and crude oil refinery",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/ZM3tt6p1/53719ad7b62929d86b6b02bd8f54d15da0217885_96.webp",
-      "versionId": "Kijd1iDy",
-      "versionNumber": "1.21.1-1.3.14",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "ZM3tt6p1",
+      "slug": "create-diesel-generators",
+      "name": "Create: Diesel Generators",
+      "icon": "https://cdn.modrinth.com/data/ZM3tt6p1/53719ad7b62929d86b6b02bd8f54d15da0217885_96.webp",
+      "versionId": "Kijd1iDy",
+      "versionNumber": "1.21.1-1.3.14",
       "filename": "createdieselgenerators-1.21.1-1.3.14.jar",
       "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/Kijd1iDy/createdieselgenerators-1.21.1-1.3.14.jar",
       "size": 3143118,
@@ -5949,25 +5949,25 @@
       "addedAt": "2026-07-30T15:57:00.503Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "ktbI68Ct",
-      "slug": "create-smart-diesel-generator-addon",
-      "name": "Create: Smart Diesel Generator Addon",
       "summary": "An addon for Create Diesel Generators that adds a smart engine with adjustable speed, direction control, and manual bucket refueling.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/ktbI68Ct/a39bfdf56c8174d2f4ca3cb78f86142864579529_96.webp",
-      "versionId": "1HUGCkxD",
-      "versionNumber": "1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "ktbI68Ct",
+      "slug": "create-smart-diesel-generator-addon",
+      "name": "Create: Smart Diesel Generator Addon",
+      "icon": "https://cdn.modrinth.com/data/ktbI68Ct/a39bfdf56c8174d2f4ca3cb78f86142864579529_96.webp",
+      "versionId": "1HUGCkxD",
+      "versionNumber": "1.21.1",
       "filename": "create_smart_diesel_generator-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/ktbI68Ct/versions/1HUGCkxD/create_smart_diesel_generator-1.21.1.jar",
       "size": 21231,
@@ -5982,25 +5982,25 @@
       "addedAt": "2026-07-30T15:57:07.016Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "UBPNaDVx",
-      "slug": "create-gas-canisters",
-      "name": "Create: Gas canisters",
       "summary": "Create Canisters is an addon for Create: Diesel Generators. It adds canisters that let you store and transport fuels in your inventory, such as gas, oil, ethanol, and more.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/UBPNaDVx/af63b09dae98cfb6573cc22fbbc781c78beb47a2_96.webp",
-      "versionId": "e9Hazjqx",
-      "versionNumber": "2.0.0",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "UBPNaDVx",
+      "slug": "create-gas-canisters",
+      "name": "Create: Gas canisters",
+      "icon": "https://cdn.modrinth.com/data/UBPNaDVx/af63b09dae98cfb6573cc22fbbc781c78beb47a2_96.webp",
+      "versionId": "e9Hazjqx",
+      "versionNumber": "2.0.0",
       "filename": "oilcanister-2.0.0.jar",
       "url": "https://cdn.modrinth.com/data/UBPNaDVx/versions/e9Hazjqx/oilcanister-2.0.0.jar",
       "size": 91438,
@@ -6015,19 +6015,8 @@
       "addedAt": "2026-07-30T15:57:25.284Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "fUa6OtBG",
-      "slug": "create-let-the-adventure-begin",
-      "name": "Create: Let The Adventure Begin",
       "summary": "A addon that implements many unique and balanced, create themed structures",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif",
-      "versionId": "hQILBaAG",
-      "versionNumber": "4.0.3",
       "gameVersions": [
         "1.20.1",
         "1.21.1"
@@ -6038,6 +6027,17 @@
         "neoforge",
         "quilt"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "fUa6OtBG",
+      "slug": "create-let-the-adventure-begin",
+      "name": "Create: Let The Adventure Begin",
+      "icon": "https://cdn.modrinth.com/data/fUa6OtBG/49089716b624e50307da0d7a23d019d300682e40.gif",
+      "versionId": "hQILBaAG",
+      "versionNumber": "4.0.3",
       "filename": "create_ltab-4.0.3.jar",
       "url": "https://cdn.modrinth.com/data/fUa6OtBG/versions/hQILBaAG/create_ltab-4.0.3.jar",
       "size": 2857558,
@@ -6052,25 +6052,25 @@
       "addedAt": "2026-07-30T15:58:28.993Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "BLu2Yqfq",
-      "slug": "create-radars",
-      "name": "Create: Radars",
       "summary": "Adding Radars (& more) to Create!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp",
-      "versionId": "AntNFNAx",
-      "versionNumber": "0.4.9.4-1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "BLu2Yqfq",
+      "slug": "create-radars",
+      "name": "Create: Radars",
+      "icon": "https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp",
+      "versionId": "AntNFNAx",
+      "versionNumber": "0.4.9.4-1.21.1",
       "filename": "create_radar-0.4.9.4-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar",
       "size": 2990812,
@@ -6085,21 +6085,8 @@
       "addedAt": "2026-07-30T15:58:29.764Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "USgVjXsk",
-      "slug": "create-tfmg",
-      "name": "Create: The Factory Must Grow",
       "summary": "Heavy Engineering & Oil For The Create Mod",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/USgVjXsk/a8150331e2257d66e03e09478f17e121fcd3fdea_96.webp",
-      "versionId": "uDi14nbt",
-      "versionNumber": "1.2.0",
       "gameVersions": [
         "1.21",
         "1.21.1",
@@ -6117,6 +6104,19 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "USgVjXsk",
+      "slug": "create-tfmg",
+      "name": "Create: The Factory Must Grow",
+      "icon": "https://cdn.modrinth.com/data/USgVjXsk/a8150331e2257d66e03e09478f17e121fcd3fdea_96.webp",
+      "versionId": "uDi14nbt",
+      "versionNumber": "1.2.0",
       "filename": "tfmg-1.2.0.jar",
       "url": "https://cdn.modrinth.com/data/USgVjXsk/versions/uDi14nbt/tfmg-1.2.0.jar",
       "size": 4924243,
@@ -6131,19 +6131,8 @@
       "addedAt": "2026-07-30T15:59:37.874Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "E6GusVzz",
-      "slug": "chemica",
-      "name": "Chemica",
       "summary": "Create & The Factory Must Grow addon implementing real-world chemistry and industrial processes",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/E6GusVzz/9591f40147323c74b8f03ebde968978361048eee_96.webp",
-      "versionId": "hzLufTiW",
-      "versionNumber": "0.6.0",
       "gameVersions": [
         "1.21.1",
         "1.21.2",
@@ -6160,6 +6149,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "E6GusVzz",
+      "slug": "chemica",
+      "name": "Chemica",
+      "icon": "https://cdn.modrinth.com/data/E6GusVzz/9591f40147323c74b8f03ebde968978361048eee_96.webp",
+      "versionId": "hzLufTiW",
+      "versionNumber": "0.6.0",
       "filename": "chemica-0.6.0.jar",
       "url": "https://cdn.modrinth.com/data/E6GusVzz/versions/hzLufTiW/chemica-0.6.0.jar",
       "size": 748556,
@@ -6174,25 +6174,25 @@
       "addedAt": "2026-07-30T16:00:06.098Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "nvQzSEkH",
-      "slug": "jade",
-      "name": "Jade 🔍",
       "summary": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
-      "versionId": "yd8FKCmx",
-      "versionNumber": "15.10.5+neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "nvQzSEkH",
+      "slug": "jade",
+      "name": "Jade 🔍",
+      "icon": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+      "versionId": "yd8FKCmx",
+      "versionNumber": "15.10.5+neoforge",
       "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
       "size": 725742,
@@ -6207,27 +6207,27 @@
       "addedAt": "2026-07-30T16:00:59.973Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "nvQzSEkH"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "xuDOzCLy",
-      "slug": "jade-addons-forge",
-      "name": "Jade Addons (Neo/Forge)",
       "summary": "Jade 🔍's additional mod supports for Neo/Forge",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/xuDOzCLy/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
-      "versionId": "Z9s9lM56",
-      "versionNumber": "6.1.0+neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "nvQzSEkH"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "xuDOzCLy",
+      "slug": "jade-addons-forge",
+      "name": "Jade Addons (Neo/Forge)",
+      "icon": "https://cdn.modrinth.com/data/xuDOzCLy/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+      "versionId": "Z9s9lM56",
+      "versionNumber": "6.1.0+neoforge",
       "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
       "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
       "size": 74419,
@@ -6242,27 +6242,27 @@
       "addedAt": "2026-07-30T16:01:03.129Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "T9PomCSv"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "jCrJ4iGH",
-      "slug": "jade-sable-compat",
-      "name": "Jade Sable Compat",
       "summary": "Jade Sable Compat (Create Aeronautics) is a NeoForge client compatibility mod for Minecraft 1.21.1.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/jCrJ4iGH/8936840e90b55d0f8a1553b58320b72bbf6c87c6_96.webp",
-      "versionId": "7HFg7hFp",
-      "versionNumber": "1.2.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "T9PomCSv"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "jCrJ4iGH",
+      "slug": "jade-sable-compat",
+      "name": "Jade Sable Compat",
+      "icon": "https://cdn.modrinth.com/data/jCrJ4iGH/8936840e90b55d0f8a1553b58320b72bbf6c87c6_96.webp",
+      "versionId": "7HFg7hFp",
+      "versionNumber": "1.2.1",
       "filename": "sablejade-1.2.1.jar",
       "url": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/7HFg7hFp/sablejade-1.2.1.jar",
       "size": 299390,
@@ -6277,27 +6277,27 @@
       "addedAt": "2026-07-30T16:01:06.012Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "nvQzSEkH"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "GAJkSU0A",
-      "slug": "jade-modded-entities",
-      "name": "Jade Modded Entities",
       "summary": "An addon mod for Jade that expands to modded entities highlighting relevant information",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/GAJkSU0A/38ee611da99c5df77cc1d17d3f963550ace9b52c_96.webp",
-      "versionId": "uOr842aM",
-      "versionNumber": "1.3.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "nvQzSEkH"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "GAJkSU0A",
+      "slug": "jade-modded-entities",
+      "name": "Jade Modded Entities",
+      "icon": "https://cdn.modrinth.com/data/GAJkSU0A/38ee611da99c5df77cc1d17d3f963550ace9b52c_96.webp",
+      "versionId": "uOr842aM",
+      "versionNumber": "1.3.1",
       "filename": "jademoddedentities-neoforge-1.21.1-1.3.1.jar",
       "url": "https://cdn.modrinth.com/data/GAJkSU0A/versions/uOr842aM/jademoddedentities-neoforge-1.21.1-1.3.1.jar",
       "size": 123091,
@@ -6312,27 +6312,27 @@
       "addedAt": "2026-07-30T16:01:08.214Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "nvQzSEkH"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "LUl8Wtd9",
-      "slug": "jade-trades",
-      "name": "Jade Trades",
       "summary": "A Jade addon that shows villager trades and marks bed/work POIs and more info with a toggle keybind.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/LUl8Wtd9/73472d961c7a0a4cfc1483c57a65e2015d64902f_96.webp",
-      "versionId": "AFtKJr6s",
-      "versionNumber": "1.0.0",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "nvQzSEkH"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "LUl8Wtd9",
+      "slug": "jade-trades",
+      "name": "Jade Trades",
+      "icon": "https://cdn.modrinth.com/data/LUl8Wtd9/73472d961c7a0a4cfc1483c57a65e2015d64902f_96.webp",
+      "versionId": "AFtKJr6s",
+      "versionNumber": "1.0.0",
       "filename": "jade-trades-1.0.0.jar",
       "url": "https://cdn.modrinth.com/data/LUl8Wtd9/versions/AFtKJr6s/jade-trades-1.0.0.jar",
       "size": 26477,
@@ -6347,28 +6347,28 @@
       "addedAt": "2026-07-30T16:01:18.637Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "sbIsGaOV",
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "Dq3STxps",
-      "slug": "create-railways-navigator",
-      "name": "Create Railways Navigator",
       "summary": "A Minecraft Create Mod addon that adds several new features related to train navigation, such as improved display boards, a navigator for searching routes, new schedule entries, and more.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp",
-      "versionId": "hjpv7klQ",
-      "versionNumber": "1.21.1-beta-0.9.1-C6",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "sbIsGaOV",
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "Dq3STxps",
+      "slug": "create-railways-navigator",
+      "name": "Create Railways Navigator",
+      "icon": "https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp",
+      "versionId": "hjpv7klQ",
+      "versionNumber": "1.21.1-beta-0.9.1-C6",
       "filename": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
       "url": "https://cdn.modrinth.com/data/Dq3STxps/versions/hjpv7klQ/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
       "size": 2071249,
@@ -6383,25 +6383,25 @@
       "addedAt": "2026-07-30T16:01:52.423Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "sbIsGaOV",
-      "slug": "dragonlib",
-      "name": "DragonLib",
       "summary": "DragonLib is a small and simple library mod which contains code that is used by most of my mods.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/sbIsGaOV/5d4f1cd7b034f0e40cdd37096f2bf40c739db800_96.webp",
-      "versionId": "x376YU9w",
-      "versionNumber": "1.21.1-beta-3.0.28",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "sbIsGaOV",
+      "slug": "dragonlib",
+      "name": "DragonLib",
+      "icon": "https://cdn.modrinth.com/data/sbIsGaOV/5d4f1cd7b034f0e40cdd37096f2bf40c739db800_96.webp",
+      "versionId": "x376YU9w",
+      "versionNumber": "1.21.1-beta-3.0.28",
       "filename": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
       "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/x376YU9w/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
       "size": 2107270,
@@ -6417,27 +6417,27 @@
       "isDependency": true
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "cpqKG67r",
-      "slug": "create-pattern-schematics",
-      "name": "Create: Pattern Schematics",
       "summary": "Build with repeating schematics!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/cpqKG67r/31f1d6d6ea7036ef303af5b401944c94c38045de_96.webp",
-      "versionId": "VSJhIkG2",
-      "versionNumber": "2.0.10",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "cpqKG67r",
+      "slug": "create-pattern-schematics",
+      "name": "Create: Pattern Schematics",
+      "icon": "https://cdn.modrinth.com/data/cpqKG67r/31f1d6d6ea7036ef303af5b401944c94c38045de_96.webp",
+      "versionId": "VSJhIkG2",
+      "versionNumber": "2.0.10",
       "filename": "create_pattern_schematics-2.0.10.jar",
       "url": "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar",
       "size": 221764,
@@ -6452,21 +6452,8 @@
       "addedAt": "2026-07-30T16:01:56.549Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "N9QToVpw",
-      "slug": "create-ultimate-factory",
-      "name": "Create: Ultimate Factory",
       "summary": "An addon for the Create mod developed to increase automation possibilities, adding 30 (reasonably) balanced recipes to the game.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/N9QToVpw/973e6f8a59b52aa91236d2fd54dd92d953148a5f_96.webp",
-      "versionId": "AEMRNsNS",
-      "versionNumber": "2.2.4",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6474,6 +6461,19 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "N9QToVpw",
+      "slug": "create-ultimate-factory",
+      "name": "Create: Ultimate Factory",
+      "icon": "https://cdn.modrinth.com/data/N9QToVpw/973e6f8a59b52aa91236d2fd54dd92d953148a5f_96.webp",
+      "versionId": "AEMRNsNS",
+      "versionNumber": "2.2.4",
       "filename": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "size": 235239,
@@ -6488,25 +6488,25 @@
       "addedAt": "2026-07-30T16:02:23.687Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "jv0UKGOX",
-      "slug": "big-contraptions",
-      "name": "Create: Big Contraptions",
       "summary": "Lets you carry and render contraptions with lots of data",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/jv0UKGOX/97b04ccf285a7920e4072bd8be760cdd06ce55c1_96.webp",
-      "versionId": "F92BjGXG",
-      "versionNumber": "1.0",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "jv0UKGOX",
+      "slug": "big-contraptions",
+      "name": "Create: Big Contraptions",
+      "icon": "https://cdn.modrinth.com/data/jv0UKGOX/97b04ccf285a7920e4072bd8be760cdd06ce55c1_96.webp",
+      "versionId": "F92BjGXG",
+      "versionNumber": "1.0",
       "filename": "bigcontraptions-neoforge-1.0.jar",
       "url": "https://cdn.modrinth.com/data/jv0UKGOX/versions/F92BjGXG/bigcontraptions-neoforge-1.0.jar",
       "size": 5861,
@@ -6521,29 +6521,29 @@
       "addedAt": "2026-07-30T16:02:36.806Z"
     },
     {
-      "group": "gepvdav",
-      "requires": [
-        "LNytGWDc",
-        "nmoqTijg",
-        "TyCTlI4b"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "s85zLEDe",
-      "slug": "sophisticated-backpacks-create-integration",
-      "name": "Sophisticated Backpacks Create Integration",
       "summary": "Sophisticated Backpacks on create contraptions",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/s85zLEDe/63fd83994b39feceeec20241531d0f31cd096182_96.webp",
-      "versionId": "ljF9gEMb",
-      "versionNumber": "1.21.1-0.1.8.134",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc",
+        "nmoqTijg",
+        "TyCTlI4b"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gepvdav",
+      "projectId": "s85zLEDe",
+      "slug": "sophisticated-backpacks-create-integration",
+      "name": "Sophisticated Backpacks Create Integration",
+      "icon": "https://cdn.modrinth.com/data/s85zLEDe/63fd83994b39feceeec20241531d0f31cd096182_96.webp",
+      "versionId": "ljF9gEMb",
+      "versionNumber": "1.21.1-0.1.8.134",
       "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
       "url": "https://cdn.modrinth.com/data/s85zLEDe/versions/ljF9gEMb/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
       "size": 82627,
@@ -6558,27 +6558,27 @@
       "addedAt": "2026-07-30T16:03:17.210Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "h0bu4oDk",
-      "slug": "create-train-parts",
-      "name": "Create Train Parts",
       "summary": "Adds functional blocks as decoration",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/h0bu4oDk/d82223b3d90585d9aac0b3b734f68d00d3cf18ea_96.webp",
-      "versionId": "wSuDZsee",
-      "versionNumber": "0.5.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "h0bu4oDk",
+      "slug": "create-train-parts",
+      "name": "Create Train Parts",
+      "icon": "https://cdn.modrinth.com/data/h0bu4oDk/d82223b3d90585d9aac0b3b734f68d00d3cf18ea_96.webp",
+      "versionId": "wSuDZsee",
+      "versionNumber": "0.5.2",
       "filename": "create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
       "url": "https://cdn.modrinth.com/data/h0bu4oDk/versions/wSuDZsee/create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
       "size": 3699282,
@@ -6593,25 +6593,25 @@
       "addedAt": "2026-07-30T16:06:33.372Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "QMGO17gm",
-      "slug": "create_factory_logistics",
-      "name": "Create Factory Logistics",
       "summary": "Ever wondered why there are logistics packages, but no logistics jars? Let's fix this!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/QMGO17gm/3d589caa87d966371fc1787b57d1bc5f397b5407_96.webp",
-      "versionId": "4Drrlfu3",
-      "versionNumber": "1.6.0",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "QMGO17gm",
+      "slug": "create_factory_logistics",
+      "name": "Create Factory Logistics",
+      "icon": "https://cdn.modrinth.com/data/QMGO17gm/3d589caa87d966371fc1787b57d1bc5f397b5407_96.webp",
+      "versionId": "4Drrlfu3",
+      "versionNumber": "1.6.0",
       "filename": "create_factory_logistics-1.21.1-1.6.0-all.jar",
       "url": "https://cdn.modrinth.com/data/QMGO17gm/versions/4Drrlfu3/create_factory_logistics-1.21.1-1.6.0-all.jar",
       "size": 1301344,
@@ -6626,27 +6626,27 @@
       "addedAt": "2026-07-30T16:06:33.914Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "5jfUeix5",
-      "slug": "create-more-parallel-pipes",
-      "name": "Create More: Parallel Pipes",
       "summary": "Allows you to have pipes that don't automatically connect with each other akin to encased pipes.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/5jfUeix5/601b562fe9173fd5914de6d0b5600f7e387bb0f3_96.webp",
-      "versionId": "aYrPugrv",
-      "versionNumber": "2.0.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "5jfUeix5",
+      "slug": "create-more-parallel-pipes",
+      "name": "Create More: Parallel Pipes",
+      "icon": "https://cdn.modrinth.com/data/5jfUeix5/601b562fe9173fd5914de6d0b5600f7e387bb0f3_96.webp",
+      "versionId": "aYrPugrv",
+      "versionNumber": "2.0.2",
       "filename": "cmparallelpipes-neoforge-2.0.2.jar",
       "url": "https://cdn.modrinth.com/data/5jfUeix5/versions/aYrPugrv/cmparallelpipes-neoforge-2.0.2.jar",
       "size": 28606,
@@ -6661,19 +6661,8 @@
       "addedAt": "2026-07-30T16:06:45.752Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "zvaHXgQz",
-      "slug": "create-trimmed",
-      "name": "Create: Trimmed",
       "summary": "A mod that allows Create's materials to be used as armour trim materials.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/zvaHXgQz/6402174e45c47abd56a5ee9a11d793b33f26af0e_96.webp",
-      "versionId": "P1pdTwvn",
-      "versionNumber": "1.0.1",
       "gameVersions": [
         "1.21.1"
       ],
@@ -6683,6 +6672,17 @@
         "neoforge",
         "quilt"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "zvaHXgQz",
+      "slug": "create-trimmed",
+      "name": "Create: Trimmed",
+      "icon": "https://cdn.modrinth.com/data/zvaHXgQz/6402174e45c47abd56a5ee9a11d793b33f26af0e_96.webp",
+      "versionId": "P1pdTwvn",
+      "versionNumber": "1.0.1",
       "filename": "create_trimmed.jar",
       "url": "https://cdn.modrinth.com/data/zvaHXgQz/versions/P1pdTwvn/create_trimmed.jar",
       "size": 505421,
@@ -6697,21 +6697,8 @@
       "addedAt": "2026-07-30T16:06:46.286Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "WPE5gRs9",
-      "slug": "create-confectionery",
-      "name": "Create Confectionery",
       "summary": "🍫 Create your own Chocolate Factory !",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp",
-      "versionId": "m9KI739R",
-      "versionNumber": "1.1.2",
       "gameVersions": [
         "1.21.1",
         "1.21.2",
@@ -6722,6 +6709,19 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "WPE5gRs9",
+      "slug": "create-confectionery",
+      "name": "Create Confectionery",
+      "icon": "https://cdn.modrinth.com/data/WPE5gRs9/1775c489db990d4c47fa946d6fef9f2479b6ff77_96.webp",
+      "versionId": "m9KI739R",
+      "versionNumber": "1.1.2",
       "filename": "create-confectionery1.21.1_v1.1.2.jar",
       "url": "https://cdn.modrinth.com/data/WPE5gRs9/versions/m9KI739R/create-confectionery1.21.1_v1.1.2.jar",
       "size": 2126985,
@@ -6736,27 +6736,27 @@
       "addedAt": "2026-07-30T16:06:48.028Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "hddN8ksR",
-      "slug": "create-vibrant-vaults",
-      "name": "Create: Vibrant Vaults",
       "summary": "A Create mod addon that adds more item vaults.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/hddN8ksR/105d3ab0a1f101ba6b34685501d6df6bb4ab5fa4_96.webp",
-      "versionId": "t17qYXjn",
-      "versionNumber": "0.3.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "hddN8ksR",
+      "slug": "create-vibrant-vaults",
+      "name": "Create: Vibrant Vaults",
+      "icon": "https://cdn.modrinth.com/data/hddN8ksR/105d3ab0a1f101ba6b34685501d6df6bb4ab5fa4_96.webp",
+      "versionId": "t17qYXjn",
+      "versionNumber": "0.3.2",
       "filename": "create_vibrant_vaults-0.3.2.jar",
       "url": "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
       "size": 2687938,
@@ -6771,27 +6771,27 @@
       "addedAt": "2026-07-30T16:06:54.681Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "z611fdf7",
-      "slug": "createnuclear",
-      "name": "Create Nuclear",
       "summary": "A Create addon that adds nuclear reactors to Create, along with all the dangers associated with radiation!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/z611fdf7/100fd84c2390fd4bde548e30b9624ee1fa32c018_96.webp",
-      "versionId": "waO2BSHO",
-      "versionNumber": "1.3.2-beta.3",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "z611fdf7",
+      "slug": "createnuclear",
+      "name": "Create Nuclear",
+      "icon": "https://cdn.modrinth.com/data/z611fdf7/100fd84c2390fd4bde548e30b9624ee1fa32c018_96.webp",
+      "versionId": "waO2BSHO",
+      "versionNumber": "1.3.2-beta.3",
       "filename": "createnuclear-1.3.2-beta.3-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/z611fdf7/versions/waO2BSHO/createnuclear-1.3.2-beta.3-neoforge.jar",
       "size": 1842160,
@@ -6806,25 +6806,25 @@
       "addedAt": "2026-07-30T16:06:55.084Z"
     },
     {
-      "group": "gscw41m",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "DGiq4ZSW",
-      "slug": "oceans-delight",
-      "name": "Ocean's Delight",
       "summary": "Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
-      "versionId": "ja5Qg1xw",
-      "versionNumber": "1.0.4",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gscw41m",
+      "projectId": "DGiq4ZSW",
+      "slug": "oceans-delight",
+      "name": "Ocean's Delight",
+      "icon": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
+      "versionId": "ja5Qg1xw",
+      "versionNumber": "1.0.4",
       "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "size": 117108,
@@ -6839,22 +6839,8 @@
       "addedAt": "2026-07-30T16:08:53.292Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "5faXoLqX",
-        "1OE8wbN0"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "b1fMg6sH",
-      "slug": "item-borders",
-      "name": "Item Borders",
       "summary": "Add colored borders to inventory slots to make your rare items stand out!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/b1fMg6sH/8d57c0d614101a1ebaa9c6cebb90bd1940fb1083.png",
-      "versionId": "WjErgKWV",
-      "versionNumber": "1.2.5",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6862,6 +6848,20 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "5faXoLqX",
+        "1OE8wbN0"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "b1fMg6sH",
+      "slug": "item-borders",
+      "name": "Item Borders",
+      "icon": "https://cdn.modrinth.com/data/b1fMg6sH/8d57c0d614101a1ebaa9c6cebb90bd1940fb1083.png",
+      "versionId": "WjErgKWV",
+      "versionNumber": "1.2.5",
       "filename": "ItemBorders-1.21-neoforge-1.2.5.jar",
       "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/WjErgKWV/ItemBorders-1.21-neoforge-1.2.5.jar",
       "size": 23511,
@@ -6876,25 +6876,25 @@
       "addedAt": "2026-07-30T16:08:57.910Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "1OE8wbN0",
-      "slug": "prism-lib",
-      "name": "Prism",
       "summary": "A library all about color! Provides lots of color-related functionality for dependent mods.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp",
-      "versionId": "kMcz2lDj",
-      "versionNumber": "1.0.11",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "1OE8wbN0",
+      "slug": "prism-lib",
+      "name": "Prism",
+      "icon": "https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp",
+      "versionId": "kMcz2lDj",
+      "versionNumber": "1.0.11",
       "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
       "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
       "size": 62031,
@@ -6910,21 +6910,8 @@
       "isDependency": true
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "fRiHVvU7"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "wbWoo11W",
-      "slug": "emi-enchanting",
-      "name": "EMI Enchanting",
       "summary": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png",
-      "versionId": "ZyJ6TKvh",
-      "versionNumber": "0.1.2+1.21+neoforge",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6932,6 +6919,19 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "fRiHVvU7"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "wbWoo11W",
+      "slug": "emi-enchanting",
+      "name": "EMI Enchanting",
+      "icon": "https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png",
+      "versionId": "ZyJ6TKvh",
+      "versionNumber": "0.1.2+1.21+neoforge",
       "filename": "emi_enchanting-0.1.2+1.21+neoforge.jar",
       "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
       "size": 15680,
@@ -6946,25 +6946,25 @@
       "addedAt": "2026-07-30T16:09:04.324Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "9Pk89J3g",
-      "slug": "justenoughbreeding",
-      "name": "Just Enough Breeding (JEBr)",
       "summary": "JEI/REI/EMI plugin that displays breeding information",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png",
-      "versionId": "lVl2kVwh",
-      "versionNumber": "3.2.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "9Pk89J3g",
+      "slug": "justenoughbreeding",
+      "name": "Just Enough Breeding (JEBr)",
+      "icon": "https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png",
+      "versionId": "lVl2kVwh",
+      "versionNumber": "3.2.1",
       "filename": "justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
       "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/lVl2kVwh/justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
       "size": 593705,
@@ -6979,27 +6979,27 @@
       "addedAt": "2026-07-30T16:09:10.895Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "fRiHVvU7"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "sG4TqDb8",
-      "slug": "emi-ores",
-      "name": "EMI Ores",
       "summary": "Easily view ore generation information from inside EMI.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/sG4TqDb8/c5e85bcf5c2ac92ebffbd01f0e97c38fd9bc9743.png",
-      "versionId": "V2MXZKsX",
-      "versionNumber": "1.3+1.21.1+neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "fRiHVvU7"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "sG4TqDb8",
+      "slug": "emi-ores",
+      "name": "EMI Ores",
+      "icon": "https://cdn.modrinth.com/data/sG4TqDb8/c5e85bcf5c2ac92ebffbd01f0e97c38fd9bc9743.png",
+      "versionId": "V2MXZKsX",
+      "versionNumber": "1.3+1.21.1+neoforge",
       "filename": "emi_ores-1.3+1.21.1+neoforge.jar",
       "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/V2MXZKsX/emi_ores-1.3%2B1.21.1%2Bneoforge.jar",
       "size": 116663,
@@ -7014,27 +7014,27 @@
       "addedAt": "2026-07-30T16:09:36.413Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "SQoni9E3"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "A4YQgwzz",
-      "slug": "music-notification",
-      "name": "Music Notification",
       "summary": "Configure visual notifications when music is played in-game",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/A4YQgwzz/cb98214bb1f4ecb2bcb2072759b4ab4a76ec0deb.png",
-      "versionId": "OgVx9Ubh",
-      "versionNumber": "3.2.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "SQoni9E3"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "A4YQgwzz",
+      "slug": "music-notification",
+      "name": "Music Notification",
+      "icon": "https://cdn.modrinth.com/data/A4YQgwzz/cb98214bb1f4ecb2bcb2072759b4ab4a76ec0deb.png",
+      "versionId": "OgVx9Ubh",
+      "versionNumber": "3.2.1",
       "filename": "musicnotification-neoforge-3.2.1+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/A4YQgwzz/versions/OgVx9Ubh/musicnotification-neoforge-3.2.1%2Bmc1.21.1.jar",
       "size": 144469,
@@ -7049,25 +7049,25 @@
       "addedAt": "2026-07-30T16:09:55.808Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "TaSmHw8V",
-      "slug": "immersive-melodies",
-      "name": "Immersive Melodies",
       "summary": "Play custom melodies on various instruments and annoy your friends!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/TaSmHw8V/0a6a64c671e15a657e18d623f2912a9b0a058809_96.webp",
-      "versionId": "FRJWinhs",
-      "versionNumber": "0.6.4+1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "TaSmHw8V",
+      "slug": "immersive-melodies",
+      "name": "Immersive Melodies",
+      "icon": "https://cdn.modrinth.com/data/TaSmHw8V/0a6a64c671e15a657e18d623f2912a9b0a058809_96.webp",
+      "versionId": "FRJWinhs",
+      "versionNumber": "0.6.4+1.21.1",
       "filename": "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar",
       "size": 5521192,
@@ -7082,25 +7082,25 @@
       "addedAt": "2026-07-30T16:10:56.418Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "eE2Db4YU",
-      "slug": "immersive-armors",
-      "name": "Immersive Armors",
       "summary": "A lot of unique and vanilla-faithful armor sets.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/eE2Db4YU/8a30c83db6807164aba7df207c921379eff894c2_96.webp",
-      "versionId": "B2YtQYCh",
-      "versionNumber": "1.7.6+1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "eE2Db4YU",
+      "slug": "immersive-armors",
+      "name": "Immersive Armors",
+      "icon": "https://cdn.modrinth.com/data/eE2Db4YU/8a30c83db6807164aba7df207c921379eff894c2_96.webp",
+      "versionId": "B2YtQYCh",
+      "versionNumber": "1.7.6+1.21.1",
       "filename": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/B2YtQYCh/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
       "size": 1274167,
@@ -7115,22 +7115,8 @@
       "addedAt": "2026-07-30T16:11:02.444Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "8BmcQJ2H",
-        "Ua7DFN59"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "8YcE8y4T",
-      "slug": "ribbits",
-      "name": "Ribbits",
       "summary": "Swamp villages and musical frogs!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/8YcE8y4T/3ce5ca40bdbae97978c5950a8be3222c97ac0c35_96.webp",
-      "versionId": "XrUKaWrw",
-      "versionNumber": "4.1.6",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -7138,6 +7124,20 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "8BmcQJ2H",
+        "Ua7DFN59"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "8YcE8y4T",
+      "slug": "ribbits",
+      "name": "Ribbits",
+      "icon": "https://cdn.modrinth.com/data/8YcE8y4T/3ce5ca40bdbae97978c5950a8be3222c97ac0c35_96.webp",
+      "versionId": "XrUKaWrw",
+      "versionNumber": "4.1.6",
       "filename": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
       "url": "https://cdn.modrinth.com/data/8YcE8y4T/versions/XrUKaWrw/Ribbits-1.21.1-NeoForge-4.1.6.jar",
       "size": 2215572,
@@ -7152,25 +7152,25 @@
       "addedAt": "2026-07-30T16:11:29.097Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "qQpWCN75",
-      "slug": "music-maker-mod",
-      "name": "Music Maker",
       "summary": "Music Maker adds music sheets, instruments and other devices to the game for creating and playing music.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/qQpWCN75/5651c74521ed00c9d586f81f81cdecb099307291.png",
-      "versionId": "SuWiRk2o",
-      "versionNumber": "1.21.1-1.2.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "qQpWCN75",
+      "slug": "music-maker-mod",
+      "name": "Music Maker",
+      "icon": "https://cdn.modrinth.com/data/qQpWCN75/5651c74521ed00c9d586f81f81cdecb099307291.png",
+      "versionId": "SuWiRk2o",
+      "versionNumber": "1.21.1-1.2.1",
       "filename": "xercamusic-neoforge-1.21.1-1.2.1.jar",
       "url": "https://cdn.modrinth.com/data/qQpWCN75/versions/SuWiRk2o/xercamusic-neoforge-1.21.1-1.2.1.jar",
       "size": 9736521,
@@ -7185,25 +7185,25 @@
       "addedAt": "2026-07-30T16:11:31.919Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "yv3OK08E",
-      "slug": "selfexpression",
-      "name": "Selfexpression",
       "summary": "A mod with which you can create a lot of clothes!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/yv3OK08E/6275aa667b4420dca7a737e35f11c61f97a1f9bd_96.webp",
-      "versionId": "rkbv62gk",
-      "versionNumber": "2.22a",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "yv3OK08E",
+      "slug": "selfexpression",
+      "name": "Selfexpression",
+      "icon": "https://cdn.modrinth.com/data/yv3OK08E/6275aa667b4420dca7a737e35f11c61f97a1f9bd_96.webp",
+      "versionId": "rkbv62gk",
+      "versionNumber": "2.22a",
       "filename": "selfexpression-2.22a-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/yv3OK08E/versions/rkbv62gk/selfexpression-2.22a-neoforge-1.21.1.jar",
       "size": 6806565,
@@ -7218,19 +7218,8 @@
       "addedAt": "2026-07-30T16:12:16.173Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "QVhoLdVI",
-      "slug": "selfexpression-slim",
-      "name": "Selfexpression: Slim",
       "summary": "Create clothes that will suit not only Steve, but now Alex!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/QVhoLdVI/d7fc882417abd75217e10747ec388f2ef249cd38.png",
-      "versionId": "nJAQTba3",
-      "versionNumber": "1.5",
       "gameVersions": [
         "1.21.1",
         "1.21.2",
@@ -7240,6 +7229,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "QVhoLdVI",
+      "slug": "selfexpression-slim",
+      "name": "Selfexpression: Slim",
+      "icon": "https://cdn.modrinth.com/data/QVhoLdVI/d7fc882417abd75217e10747ec388f2ef249cd38.png",
+      "versionId": "nJAQTba3",
+      "versionNumber": "1.5",
       "filename": "selfexpression_slim-1.5-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/QVhoLdVI/versions/nJAQTba3/selfexpression_slim-1.5-neoforge-1.21.1.jar",
       "size": 1305972,
@@ -7254,19 +7254,8 @@
       "addedAt": "2026-07-30T16:12:20.339Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "FCFcFw09",
-      "slug": "attributes",
-      "name": "Pufferfish's Attributes",
       "summary": "A Minecraft mod that adds more attributes to the game.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/FCFcFw09/f25e0000aca9f043997af84f44d33099f7c6b8ef.png",
-      "versionId": "Fl3WeKhH",
-      "versionNumber": "0.8.2",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -7274,6 +7263,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "FCFcFw09",
+      "slug": "attributes",
+      "name": "Pufferfish's Attributes",
+      "icon": "https://cdn.modrinth.com/data/FCFcFw09/f25e0000aca9f043997af84f44d33099f7c6b8ef.png",
+      "versionId": "Fl3WeKhH",
+      "versionNumber": "0.8.2",
       "filename": "puffish_attributes-0.8.2-1.21-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/Fl3WeKhH/puffish_attributes-0.8.2-1.21-neoforge.jar",
       "size": 235521,
@@ -7286,9 +7286,215 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:12:49.256Z"
+    },
+    {
+      "summary": "Places a gravestone with your inventory items inside when you die",
+      "notes": "",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "RYtXKJPr",
+      "slug": "gravestone-mod",
+      "name": "GraveStone Mod",
+      "icon": "https://cdn.modrinth.com/data/RYtXKJPr/ee9d4610b3892547c20ac61bcdb2517d1b3a4649_96.webp",
+      "versionId": "3a6KIbgL",
+      "versionNumber": "neoforge-1.21.1-1.0.38",
+      "filename": "gravestone-neoforge-1.21.1-1.0.38.jar",
+      "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/3a6KIbgL/gravestone-neoforge-1.21.1-1.0.38.jar",
+      "size": 321850,
+      "hashes": {
+        "sha1": "2b6d5ff95bb80d811eac78d0556ee384125bca9d",
+        "sha512": "ee97b54ab9c33cafbe236c7a9805298dfab2004b9f94144ce656e9929839ee9a50f29cdfb4dffde85b64faa5e3c0f989aacee4204c2d0f0ca9b80bfdffe5d12e"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:16:07.789Z"
+    },
+    {
+      "summary": "Adds 13 new armor trims to discover and collect",
+      "notes": "",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "FGNYBAJ6",
+      "slug": "more-armor-trims",
+      "name": "More Armor Trims",
+      "icon": "https://cdn.modrinth.com/data/FGNYBAJ6/b1f3040a60407c173d63438dcb8128b85e1e6fb9_96.webp",
+      "versionId": "OzLL4h40",
+      "versionNumber": "1.5.3-1.21.1",
+      "filename": "more_armor_trims-neoforge-1.5.3-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/FGNYBAJ6/versions/OzLL4h40/more_armor_trims-neoforge-1.5.3-1.21.1.jar",
+      "size": 164084,
+      "hashes": {
+        "sha1": "caee04506da774f0cedc961b4eac4960cdd7df64",
+        "sha512": "04370973874ca71646c6d1f1d1da19f5bd5148640e5268502e123fa531f8ef6a748c2539380fb15a5c15ac04b7eaf67075964e2503092fcc30cc0a2ddfe264b3"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:16:08.316Z"
+    },
+    {
+      "summary": "Craft and replicate music discs through elegant automation with Create's mechanical wonders.",
+      "notes": "",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "DR43yPHa",
+      "slug": "create-melodies-mechanisms",
+      "name": "Create: Melodies & Mechanisms",
+      "icon": "https://cdn.modrinth.com/data/DR43yPHa/26a333bf8b5d9a392d570fbfc9d74e7768aec2a4_96.webp",
+      "versionId": "NY3R6lho",
+      "versionNumber": "1.2.2",
+      "filename": "create_melodies_mechanisms-1.2.2-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/DR43yPHa/versions/NY3R6lho/create_melodies_mechanisms-1.2.2-1.21.1.jar",
+      "size": 384656,
+      "hashes": {
+        "sha1": "8b9e0641996054482c8a6dbf99628b7e2ef94d01",
+        "sha512": "741498b6b5e06ed3d2683f15f984e969cb059542e878cae4e871da273ed18cf8dd999240185d88d64e3f24b63c2d3f3eabfc1aac2eb2f066a74fb4b4b41bcfd2"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:16:09.465Z"
+    },
+    {
+      "summary": "Unlock the full potential of armor stands! Works on vanilla servers, too.",
+      "notes": "",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [
+        "QAGBst4M"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "bbGCtEvb",
+      "slug": "armor-statues",
+      "name": "Armor Statues",
+      "icon": "https://cdn.modrinth.com/data/bbGCtEvb/005eb8a0a3b751e6a595757743a7032353776f44_96.webp",
+      "versionId": "SGpwIu7v",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "filename": "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/bbGCtEvb/versions/SGpwIu7v/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "size": 263404,
+      "hashes": {
+        "sha1": "ea74e8434f23b618d3298afda8cad1ccb76f0a94",
+        "sha512": "4160dd026b9dc03fb9c24cf8b1cac421f4393e2360862fe482ca182a3f379b70f92c0bc16bd5d8abdea826388a507fe9c9b2cd014e983ef4b2f97f276f3adc1a"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:16:46.337Z"
+    },
+    {
+      "summary": "Timestamp, translators, notifier, macros, chat bubbles, chat filter; everything you need is here!",
+      "notes": "",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [
+        "9s6osm5g"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "pbnlOdwp",
+      "slug": "chat-tools",
+      "name": "Chat Tools",
+      "icon": "https://cdn.modrinth.com/data/pbnlOdwp/0272277afa5420e498db2e23fa327e80541b1150_96.webp",
+      "versionId": "eeIatIOA",
+      "versionNumber": "2.4.3.1",
+      "filename": "chattools-v2.4.3.1+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/pbnlOdwp/versions/eeIatIOA/chattools-v2.4.3.1%2B1.21.1-neoforge.jar",
+      "size": 674432,
+      "hashes": {
+        "sha1": "54d67af432504d0f51c46a3c53b9023b4c7f6eae",
+        "sha512": "a0cb87908aafdebf8791f067a1cf4ce9c4353c7b00f514f88edd427b53502639049691dfff7b3b25a207d0dc35107658d275f1629d68e3571e08e72b5d06319c"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:21:06.510Z"
+    },
+    {
+      "summary": "A mod designed to improve the chunk performance of Minecraft.",
+      "notes": "",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "COlSi5iR",
+      "slug": "c2me-neoforge",
+      "name": "Concurrent Chunk Management Engine (NeoForge)",
+      "icon": "https://cdn.modrinth.com/data/COlSi5iR/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
+      "versionId": "5Q757s3v",
+      "versionNumber": "0.4.0-alpha.0.116+1.21.1",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar",
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/5Q757s3v/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar",
+      "size": 3662294,
+      "hashes": {
+        "sha1": "ed43c962c5162ffc660e61329a65ad6a46da1884",
+        "sha512": "54b5b8026484bf44dc79f46b61965c2d45f4733bb6b580a59d2268c5d4dc11e8ae3fe9238d4ee045292cc3adc80ec9bcfd2e21a4b7433e31dbf1344a52b932f2"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:21:22.436Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:15:48.822Z",
+  "updatedAt": "2026-07-30T16:21:31.209Z",
   "side": "client",
-  "generatedAt": "2026-07-30T16:15:48.827Z"
+  "generatedAt": "2026-07-30T16:21:31.211Z"
 }
