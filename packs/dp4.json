@@ -2149,40 +2149,6 @@
       "addedAt": "2026-07-30T13:48:44.837Z"
     },
     {
-      "summary": "Modern desktop graphics application framework and low-level 3D graphics engine",
-      "notes": "",
-      "gameVersions": [
-        "1.21",
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "g2tmky8",
-      "projectId": "3sjzyvGR",
-      "slug": "modern-ui",
-      "name": "Modern UI",
-      "icon": "https://cdn.modrinth.com/data/3sjzyvGR/7967a20b1dc7e7bfd63aced5a2a20d8fde812c78_96.webp",
-      "versionId": "eMf1VSQd",
-      "versionNumber": "3.13.0.1",
-      "filename": "ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar",
-      "url": "https://cdn.modrinth.com/data/3sjzyvGR/versions/eMf1VSQd/ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar",
-      "size": 25228113,
-      "hashes": {
-        "sha1": "d6dc4131595f6b38274e5c16ef13895ab2125010",
-        "sha512": "6a6177ba866a1d5b3b3ed41b02f024b9783ab7b80c11d449093b802b79dc38863187b53be1bcb734c682f36bad1c164d1ee58d7b02cfd5336c5bedcff9501ac4"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T13:48:59.406Z"
-    },
-    {
       "summary": "Edit recipes, add new custom items, script world events, all in JavaScript!",
       "notes": "",
       "gameVersions": [
@@ -9020,7 +8986,47 @@
       "autoSide": "server",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:56:24.101Z"
+    },
+    {
+      "group": "gr522fl",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Bh37bMuy",
+      "slug": "reeses-sodium-options",
+      "name": "Reese's Sodium Options",
+      "summary": "Alternative Options Menu for Sodium",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
+      "versionId": "xAiCe6w8",
+      "versionNumber": "mc1.21.4-1.8.3+neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+      "size": 78451,
+      "hashes": {
+        "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+        "sha512": "d66b5d30e1bb8316cb75d52ba8485c6c1cfb0d03624288f39c1826b92de9da9c3d79351be9d7303ca3226176255921f35063139da118c755cf9a709186129744"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:58:33.071Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:56:26.288Z"
+  "updatedAt": "2026-07-30T17:11:54.132Z"
 }
