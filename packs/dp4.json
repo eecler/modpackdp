@@ -6123,29 +6123,29 @@
       "addedAt": "2026-07-30T15:39:37.890Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "1eAoo2KR",
-        "8BmcQJ2H",
-        "lhGA9TYQ"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "Yd4wb5wZ",
-      "slug": "critters-and-companions",
-      "name": "Critters and Companions",
       "summary": "Adds a few new friends to your world!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/Yd4wb5wZ/6a54e2ebabb89763669ba56c76a3514ca5605d3e_96.webp",
-      "versionId": "kGomvo87",
-      "versionNumber": "2.6.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "1eAoo2KR",
+        "8BmcQJ2H",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "Yd4wb5wZ",
+      "slug": "critters-and-companions",
+      "name": "Critters and Companions",
+      "icon": "https://cdn.modrinth.com/data/Yd4wb5wZ/6a54e2ebabb89763669ba56c76a3514ca5605d3e_96.webp",
+      "versionId": "kGomvo87",
+      "versionNumber": "2.6.2",
       "filename": "crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
       "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/kGomvo87/crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
       "size": 1865180,
@@ -6160,27 +6160,27 @@
       "addedAt": "2026-07-30T15:51:55.476Z"
     },
     {
-      "group": "gr522fl",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "RYJzdkDr",
-      "slug": "create-threaded-trains",
-      "name": "Create: Threaded Trains",
       "summary": "A mod that runs all calculations of the railway network on a separate thread parallel to the server tick, which greatly improves performance, especially in large networks.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/RYJzdkDr/d854e5be85b0a8125bafa4d2fd675cb7a7cad51f_96.webp",
-      "versionId": "ry1hvo4l",
-      "versionNumber": "1.21.1-1.0.0",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gr522fl",
+      "projectId": "RYJzdkDr",
+      "slug": "create-threaded-trains",
+      "name": "Create: Threaded Trains",
+      "icon": "https://cdn.modrinth.com/data/RYJzdkDr/d854e5be85b0a8125bafa4d2fd675cb7a7cad51f_96.webp",
+      "versionId": "ry1hvo4l",
+      "versionNumber": "1.21.1-1.0.0",
       "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "size": 77249,
@@ -6195,27 +6195,27 @@
       "addedAt": "2026-07-30T15:53:31.734Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "gJ5afkVv",
-      "slug": "bellsandwhistles",
-      "name": "Create: Bells & Whistles",
       "summary": "Additions and adornments for the modern Create engineer. Available for both Fabric & Forge!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/gJ5afkVv/56ec1e3caca241855a19b65ad391aa20a79259f5_96.webp",
-      "versionId": "w0mifib8",
-      "versionNumber": "v0.4.7-1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "gJ5afkVv",
+      "slug": "bellsandwhistles",
+      "name": "Create: Bells & Whistles",
+      "icon": "https://cdn.modrinth.com/data/gJ5afkVv/56ec1e3caca241855a19b65ad391aa20a79259f5_96.webp",
+      "versionId": "w0mifib8",
+      "versionNumber": "v0.4.7-1.21.1",
       "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
       "size": 193619,
@@ -6230,27 +6230,27 @@
       "addedAt": "2026-07-30T15:54:30.820Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "x49wilh8",
-      "slug": "create-design-n-decor",
-      "name": "Create: Design n' Decor",
       "summary": "a create addon that adds decor blocks to spice up your factory!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp",
-      "versionId": "uQsIRky8",
-      "versionNumber": "2.2b",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "x49wilh8",
+      "slug": "create-design-n-decor",
+      "name": "Create: Design n' Decor",
+      "icon": "https://cdn.modrinth.com/data/x49wilh8/c52e15692d7911bd7a74413ca97d4e98ece0cefb_96.webp",
+      "versionId": "uQsIRky8",
+      "versionNumber": "2.2b",
       "filename": "Design-n-Decor-1.21.1-2.2b.jar",
       "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
       "size": 6329899,
@@ -6265,28 +6265,28 @@
       "addedAt": "2026-07-30T15:54:31.982Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc",
-        "T9PomCSv"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "oWaK0Q19",
-      "slug": "create-aeronautics",
-      "name": "Create Aeronautics",
       "summary": "Build anything from airships to planes and cars!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
-      "versionId": "w7zlLnea",
-      "versionNumber": "1.3.0+mc1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc",
+        "T9PomCSv"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "oWaK0Q19",
+      "slug": "create-aeronautics",
+      "name": "Create Aeronautics",
+      "icon": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
+      "versionId": "w7zlLnea",
+      "versionNumber": "1.3.0+mc1.21.1",
       "filename": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/w7zlLnea/create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "size": 33120013,
@@ -6301,25 +6301,25 @@
       "addedAt": "2026-07-30T15:54:32.759Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "sMvUb4Rb",
-      "slug": "create-deco",
-      "name": "Create Deco",
       "summary": "Industrial decoration themed around the aesthetics of the Create mod.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/sMvUb4Rb/b60e1330b10bd1d7b1f2c0b7337a25f73b0eb555_96.webp",
-      "versionId": "qrcMVoBD",
-      "versionNumber": "2.1.3",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "sMvUb4Rb",
+      "slug": "create-deco",
+      "name": "Create Deco",
+      "icon": "https://cdn.modrinth.com/data/sMvUb4Rb/b60e1330b10bd1d7b1f2c0b7337a25f73b0eb555_96.webp",
+      "versionId": "qrcMVoBD",
+      "versionNumber": "2.1.3",
       "filename": "createdeco-2.1.3.jar",
       "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
       "size": 3328498,
@@ -6334,27 +6334,27 @@
       "addedAt": "2026-07-30T15:54:33.544Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "LNytGWDc"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "UT2M39wf",
-      "slug": "copycats",
-      "name": "Create: Copycats+",
       "summary": "All the copycats you've ever wanted, combined into a single mod!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/UT2M39wf/17960b56556c644249686a22172eda0924f8bbe0_96.webp",
-      "versionId": "kecZ0sl7",
-      "versionNumber": "3.0.4+mc.1.21.1-neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "UT2M39wf",
+      "slug": "copycats",
+      "name": "Create: Copycats+",
+      "icon": "https://cdn.modrinth.com/data/UT2M39wf/17960b56556c644249686a22172eda0924f8bbe0_96.webp",
+      "versionId": "kecZ0sl7",
+      "versionNumber": "3.0.4+mc.1.21.1-neoforge",
       "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
       "size": 1791747,
@@ -6367,7 +6367,76 @@
       "autoSide": "both",
       "addedBy": "KukikOfficial",
       "addedAt": "2026-07-30T15:54:36.771Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "r4Knci2k",
+      "slug": "interiors",
+      "name": "Create: Interiors",
+      "summary": "A complement to the Create mod that adds new furniture.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/r4Knci2k/d0dd0604c63c68eaaf9ab5aa0a7166e9904412a8_96.webp",
+      "versionId": "gBrfZy6S",
+      "versionNumber": "0.6.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
+      "size": 486912,
+      "hashes": {
+        "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940",
+        "sha512": "68b0d915e41fb0ce9d12a8c580d688a604770ded2b21e963058aa6d80cbc5661c481416d051a541395b5c79f461edcb658046e53cfcfb405179a450662ed01b5"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T15:56:24.028Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "LNytGWDc",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "L1RT5SJc",
+      "slug": "create-goggles",
+      "name": "Create Goggles",
+      "summary": "Adds Goggle Helmets and Armored Backtanks for Create Mod",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/L1RT5SJc/b06854807a8f2de721be7484c3777c8ef8d616ee_96.webp",
+      "versionId": "Co24W2FL",
+      "versionNumber": "6.1.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Co24W2FL/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar",
+      "size": 180932,
+      "hashes": {
+        "sha1": "e0285c31a2d2501439264c33c965409c422cd5b1",
+        "sha512": "bf2c4167fdee64c3f43298c6fd2d9e347951d2fb8fc12e2c2bbafc486e8d690cd7ebfd536507d13a6b4c287236713f8d796c048df2356feda36542cf5b484afc"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T15:56:25.548Z"
     }
   ],
-  "updatedAt": "2026-07-30T15:54:39.810Z"
+  "updatedAt": "2026-07-30T15:56:29.780Z"
 }
