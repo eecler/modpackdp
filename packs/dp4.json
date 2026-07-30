@@ -8624,7 +8624,470 @@
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:26:34.080Z",
       "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hg77g4Pw",
+      "slug": "no-telemetry",
+      "name": "No Telemetry",
+      "summary": "Disable the telemetry introduced in 21w38a",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hg77g4Pw/9ee939038bcd1e729d3b1ac571c5bd3935b5f7b7_96.webp",
+      "versionId": "cBEkQM9c",
+      "versionNumber": "1.10.0",
+      "gameVersions": [
+        "21w38a",
+        "21w39a",
+        "21w40a",
+        "21w41a",
+        "21w42a",
+        "21w43a",
+        "21w44a",
+        "1.18-pre1",
+        "1.18-pre2",
+        "1.18-pre3",
+        "1.18-pre4",
+        "1.18-pre5",
+        "1.18-pre6",
+        "1.18-pre7",
+        "1.18-pre8",
+        "1.18-rc1",
+        "1.18-rc2",
+        "1.18-rc3",
+        "1.18-rc4",
+        "1.18",
+        "1.18.1",
+        "22w03a",
+        "22w05a",
+        "22w06a",
+        "22w07a",
+        "1.18.2",
+        "1.19",
+        "1.19.1",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2"
+      ],
+      "loaders": [
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt"
+      ],
+      "filename": "no-telemetry-1.10.0.jar",
+      "url": "https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar",
+      "size": 96316,
+      "hashes": {
+        "sha1": "3d52342f5825d01dda6661ef7116cdbacbe49746",
+        "sha512": "a123e59ee7cb9de88669de06d56f5313cc60ee5ec80b0cc407ca0cff3b54b81255fba65e615fa7a33142b8030868e0c2a4cf9bdeadda7b3c593d707eff45576d"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:27:18.080Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "RG50cUrX",
+      "slug": "twigs",
+      "name": "Twigs",
+      "summary": "A Minecraft building blocks mod",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/RG50cUrX/5224a35ff080d8a83733e35f6e4b5522e2260b3e_96.webp",
+      "versionId": "r1egimV5",
+      "versionNumber": "1.21.1-3.1.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "forge",
+        "neoforge"
+      ],
+      "filename": "Twigs-1.21.1-3.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/RG50cUrX/versions/r1egimV5/Twigs-1.21.1-3.1.2.jar",
+      "size": 2711016,
+      "hashes": {
+        "sha1": "528c54b099afc36ae50c408ce9bfb78a28bdea8b",
+        "sha512": "8edc6ce6baa785800b72b0ffad6cffef3217573cc091600b63e616ef91f3c2ee3598bb64c17deb228b6e79d54b32769348e5f524381e4f7af4b2215c10d1ab88"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:27:56.817Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "YZlvzIFq",
+      "slug": "room-for-two",
+      "name": "Room For Two",
+      "summary": "Lets you share a bed with a villager or another player.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/YZlvzIFq/c34d5cac906429f46a40e6be57a11feb6a5499b7.png",
+      "versionId": "T7zzN9HQ",
+      "versionNumber": "0.2.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "roomfortwo-neoforge-1.21.1-0.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/YZlvzIFq/versions/T7zzN9HQ/roomfortwo-neoforge-1.21.1-0.2.0.jar",
+      "size": 27621,
+      "hashes": {
+        "sha1": "eb4ef2909caf6bc58cb7963e662c3a3a8b41215a",
+        "sha512": "fcde5bd83da3f3e537a2bac1785c58bb4c3556814879712a77da578642acb62df971be9446a54c2a2321382908cc3a6461be5eea376a57559888bce8f31a036e"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:17.815Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "iP3wH1ha",
+      "slug": "macaws-stairs",
+      "name": "Macaw's Stairs",
+      "summary": "Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/iP3wH1ha/7760df8839c395ee42099387cd9cb0fe34b2626e_96.webp",
+      "versionId": "4t8L0dGP",
+      "versionNumber": "1.0.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "size": 529082,
+      "hashes": {
+        "sha1": "1ee43d693c821efc955a74e551f94372af90a140",
+        "sha512": "51533899b5e64610a642ee9e9d89eb9f193d0877a8cba16d3bfa262789334c864128b01757bff9d3db2718bd3df1fc177f9b2d45b84f06fc0a6ee15474af2fac"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:31.333Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "cl5ec0Qm",
+        "NTi7d3Xc",
+        "kkmrDlKT"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "s4B19O5h",
+      "slug": "macaws-byg-bwg",
+      "name": "Macaw's Oh The Biomes You'll Go / We've Gone",
+      "summary": "A compatibility between Macaw's Mods and the different woods and stones of Oh The Biomes You'll Go / We've Gone",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/s4B19O5h/485d7094535895b7dcc2e3d67072be6c1fc699fc_96.webp",
+      "versionId": "UIM6ZYR1",
+      "versionNumber": "1.21.1-1.6",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcwbyg-neoforge-1.21.1-1.6.jar",
+      "url": "https://cdn.modrinth.com/data/s4B19O5h/versions/UIM6ZYR1/mcwbyg-neoforge-1.21.1-1.6.jar",
+      "size": 12774131,
+      "hashes": {
+        "sha1": "c41a4d1cbd8165b8f34cb0cb60bf3bd61f0a1fbc",
+        "sha512": "ac981abad604af2e987a9a42c84ab26396dea7b821d583db714aeb5f093d68bd7728ddb6322d6e8cab9554e5f4c328473c43fba4a87185adb6c5e9cbaf4f48c8"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:38.704Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "cl5ec0Qm",
+      "slug": "addonslib",
+      "name": "AddonsLib",
+      "summary": "A library to facilitate registration between mods, in particular macaw's bridges/roofs/fences/etc...",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/cl5ec0Qm/5321c775f2d494d75acd7b2a3fe0905e01314bfe_96.webp",
+      "versionId": "7SEGJEQj",
+      "versionNumber": "1.21.1-1.14",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "addonslib-neoforge-1.21.1-1.14.jar",
+      "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7SEGJEQj/addonslib-neoforge-1.21.1-1.14.jar",
+      "size": 131893,
+      "hashes": {
+        "sha1": "9f4eae06f0b713ed73cfcae03c668fb5b289e020",
+        "sha512": "6c5b08e0cfaa4f7e6902f6f937a955850db14fc6e09bf99881ea8ff19149644972878375a5e5dd57861d990ebf4908b03e8cd070dd166a96c2f2b8c3c72bea7f"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:39.312Z",
+      "isDependency": true
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "B8jaH3P1",
+      "slug": "macaws-roofs",
+      "name": "Macaw's Roofs",
+      "summary": "Build roofs with actual roofs instead of stairs!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/B8jaH3P1/e6652e3ddfe1cc21188c7bf354a4570292791864_96.webp",
+      "versionId": "jiXRXiSt",
+      "versionNumber": "2.3.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "size": 1784829,
+      "hashes": {
+        "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d",
+        "sha512": "c0e82a3d0a3ab2f2fac5fb0bdd7c7c228f084feaa816540d3d9524f341c8b108c3bb1afecadae2e8118e6c93f0e73280c62da1af4349aca87b6aa337e5e22ae4"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:42.278Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "kNxa8z3e",
+      "slug": "macaws-doors",
+      "name": "Macaw's Doors",
+      "summary": "Adds vanilla doors with every wood color and new unique doors!\nSuch as western, garage, shoji and more...!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/kNxa8z3e/ced8fa00264400cbe06d622b92a6d1106cedc65d_96.webp",
+      "versionId": "u7BRX44F",
+      "versionNumber": "1.1.5",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "size": 1190404,
+      "hashes": {
+        "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
+        "sha512": "43ddf00be46af91c009a95392a094f05017155214c46c7980042cbcf871864dc792416497019e688eb558897c87848bd70c282ec4a6d7b268e1ba30389ba987a"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:28:43.949Z"
+    },
+    {
+      "group": "g2tmky8",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "j6yrZogB",
+      "slug": "smooth-gui",
+      "name": "Smooth Gui",
+      "summary": "Smooth animation when opening GUI for Minecraft.\nGUI fades up when opened.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/j6yrZogB/513135473a86464be6f7e3f1218942f142698545_96.webp",
+      "versionId": "41wQBB9A",
+      "versionNumber": "2.0.1+neoforge-1.21",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "smoothgui-neoforge-2.0.1+mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/41wQBB9A/smoothgui-neoforge-2.0.1%2Bmc1.21.jar",
+      "size": 695696,
+      "hashes": {
+        "sha1": "6a33eb9f6aeb38695004b330a1ff55f7773b99d7",
+        "sha512": "d6ab61ffb8e0a113010779ab701c1f313377c9ebcf32f891a21d3ca22c95270c26b8c01f7deb4d51954764a9db7be2e8d2e07cd32fd907870f1799e55360ff87"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:29:21.399Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "gk3B4zrk",
+      "slug": "smooth-boot",
+      "name": "Smooth Boot",
+      "summary": "This mod enhances CPU scheduling in Minecraft. As an unofficial fork of the Smooth Boot (Reloaded) mod, it adds support for new game versions.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/gk3B4zrk/ab672e6e713a9b88e086b1939117955ca7c904cb_96.webp",
+      "versionId": "717SN7LP",
+      "versionNumber": "1.0.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/gk3B4zrk/versions/717SN7LP/SmoothBoot-NeoForge%2B1.21-1.0.0.jar",
+      "size": 33070,
+      "hashes": {
+        "sha1": "305cf6ea335b5a61742927642dc3bdf0c7ea55e8",
+        "sha512": "59fc3f6994f4093053241dec924d3e70e44e2d628275b8036ea9c2b5f95bb40820eb8de8679841de86a6f7c5a4dea6d3278c267f914aa404d2d5e123ad2f9822"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:29:28.861Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "1eAoo2KR"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "F4TmfqsY",
+      "slug": "tiny-takeover-backport",
+      "name": "Tiny Takeover Backport",
+      "summary": "A Minecraft mod that brings the complete Tiny Takeover drop to older Minecraft versions!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/F4TmfqsY/e21ef5f74f2f2662956547fa1aa5b3144911745a_96.webp",
+      "versionId": "HWUqGyzN",
+      "versionNumber": "1.3.0-1.21.1-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "tiny_takeover_backport-neoforge-1.21.1-1.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/F4TmfqsY/versions/HWUqGyzN/tiny_takeover_backport-neoforge-1.21.1-1.3.0.jar",
+      "size": 1410234,
+      "hashes": {
+        "sha1": "5fb7df514f774bbb4bd61e895822922a995ceb93",
+        "sha512": "c7f2e852308dc1168a62d51dab88eb5d6438f2334998eca001c7684e4b862f9f98ffac4d9da566e1c802012a19cdfa47aab298548ce0d2f392df3055828c41e3"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:30:44.565Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "FDqBVN2B",
+      "slug": "tiny-takeover-x-punchy",
+      "name": "Punchy! x Tiny Takeover",
+      "summary": "Hold your baby mobs in first person with animations, better experienced with Punchy.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/FDqBVN2B/6dfc7c0fcb0193583ebdbdcdf67c307219644137.gif",
+      "versionId": "cCgFI4X8",
+      "versionNumber": "2.0.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "punchy_puppies-2.0.1-neoforge-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/FDqBVN2B/versions/cCgFI4X8/punchy_puppies-2.0.1-neoforge-1.21.1.jar",
+      "size": 100618,
+      "hashes": {
+        "sha1": "4ebb43ac2430607c4d9d87a760d2ff730d52d1ee",
+        "sha512": "1ceef55173ea3dbca17ff80f0fac690a97a46acd70a364de15bc00b3da8202b06e4fdf015e12a865664a575ad81132890bde273321af252425bcbfb482431d76"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:30:46.695Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:26:36.937Z"
+  "updatedAt": "2026-07-30T16:30:52.214Z"
 }
