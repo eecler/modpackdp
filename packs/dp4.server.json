@@ -5733,9 +5733,146 @@
       "autoSide": "server",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:09:15.810Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "fRiHVvU7"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "sG4TqDb8",
+      "slug": "emi-ores",
+      "name": "EMI Ores",
+      "summary": "Easily view ore generation information from inside EMI.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/sG4TqDb8/c5e85bcf5c2ac92ebffbd01f0e97c38fd9bc9743.png",
+      "versionId": "V2MXZKsX",
+      "versionNumber": "1.3+1.21.1+neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "emi_ores-1.3+1.21.1+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/V2MXZKsX/emi_ores-1.3%2B1.21.1%2Bneoforge.jar",
+      "size": 116663,
+      "hashes": {
+        "sha1": "26e3f998295bae5178530d4bb217e824a2637121",
+        "sha512": "c5774be0eeda90253c4fa98aaf0006ecb50dbd62ef5027420385482cea21b3339abdfbe945ab1233101bac7f52663cd2860abde04941a818ac3da312d86fc4ee"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:09:36.413Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "TaSmHw8V",
+      "slug": "immersive-melodies",
+      "name": "Immersive Melodies",
+      "summary": "Play custom melodies on various instruments and annoy your friends!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/TaSmHw8V/0a6a64c671e15a657e18d623f2912a9b0a058809_96.webp",
+      "versionId": "FRJWinhs",
+      "versionNumber": "0.6.4+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar",
+      "size": 5521192,
+      "hashes": {
+        "sha1": "7c03c8f750bdcda75847e91d9eedde02ca6d1048",
+        "sha512": "783fda607b23d4f164623e6fcb0fe6ce7005ed6af1b66f180d7e600136abc001f3c6f2199f52a234c2dbc1c4a39399ce46b81031586e26be540ffb7117223ea1"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:10:56.418Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "eE2Db4YU",
+      "slug": "immersive-armors",
+      "name": "Immersive Armors",
+      "summary": "A lot of unique and vanilla-faithful armor sets.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/eE2Db4YU/8a30c83db6807164aba7df207c921379eff894c2_96.webp",
+      "versionId": "B2YtQYCh",
+      "versionNumber": "1.7.6+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/B2YtQYCh/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "size": 1274167,
+      "hashes": {
+        "sha1": "4c5762af46c0beac0830d1f1e9c88332b120ceaa",
+        "sha512": "875852a2d6710c1b4da43026b345154b41751e4c1f987c7a19614c5f195a4d68ebbd93811da9868db83bf245aca2d15a35432b66730c17531f5e7006882a5d95"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:11:02.444Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "Ua7DFN59"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "o1C1Dkj5",
+      "slug": "yungs-better-dungeons",
+      "name": "YUNG's Better Dungeons",
+      "summary": "A complete redesign of Minecraft's dungeons!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/o1C1Dkj5/9b54b2d932a5a5b6565c93814935c04902f3179b_96.webp",
+      "versionId": "D6aZn0Em",
+      "versionNumber": "1.21.1-NeoForge-5.1.4",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "size": 782160,
+      "hashes": {
+        "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+        "sha512": "40513bacd13fa9860abcab507b1fc09dc51649af4b615ce466e0ec361557f02d35e6e44bea1cc17cb4120805f862aad01394eb185f46611e7be63dfd97f272df"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "KukikOfficial",
+      "addedAt": "2026-07-30T16:11:08.845Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:09:17.921Z",
+  "updatedAt": "2026-07-30T16:11:13.261Z",
   "side": "server",
-  "generatedAt": "2026-07-30T16:09:17.925Z"
+  "generatedAt": "2026-07-30T16:11:13.265Z"
 }
