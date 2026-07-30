@@ -35,6 +35,14 @@
     {
       "id": "g2tmky8",
       "name": "ПО ЖЕЛАНИЮ - КЛИЕНТ"
+    },
+    {
+      "id": "gtqlqfo",
+      "name": "Генерация мира"
+    },
+    {
+      "id": "gr522fl",
+      "name": "оптимизация (сервер)"
     }
   ],
   "mods": [
@@ -823,9 +831,493 @@
       "autoSide": "client",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T13:44:46.475Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "R2OftAxM",
+      "slug": "farmers-delight",
+      "name": "Farmer's Delight",
+      "summary": "A cozy expansion to farming and cooking!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png",
+      "versionId": "GbNuOZ4S",
+      "versionNumber": "1.21.1-1.3.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar",
+      "size": 3163042,
+      "hashes": {
+        "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622",
+        "sha512": "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:45:14.724Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "MBAkmtvl"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "nPZr02ET",
+      "slug": "netherportalfix",
+      "name": "NetherPortalFix",
+      "summary": "Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/nPZr02ET/1496de70af297897258b7520aafc0886fa0ad918_96.webp",
+      "versionId": "O09BGtgh",
+      "versionNumber": "21.1.1+neoforge-1.21.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "size": 211972,
+      "hashes": {
+        "sha1": "9f1ba483216aebce1ee6185601231158684f5de8",
+        "sha512": "be26c53b4e7aa9dc27b05fe4cafdd120a3d1356410b35d25381d473bd9a7aa19ce6cec1bb982fda842f2a663d15dec5d12248b50141f9479a5e9ec33ed2ab3f7"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:45:25.521Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "MBAkmtvl",
+      "slug": "balm",
+      "name": "Balm",
+      "summary": "Abstraction Layer for Multi-Loader Mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp",
+      "versionId": "Yl3tIBea",
+      "versionNumber": "21.0.63+neoforge-1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "balm-neoforge-1.21.1-21.0.63.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yl3tIBea/balm-neoforge-1.21.1-21.0.63.jar",
+      "size": 782380,
+      "hashes": {
+        "sha1": "f0b85246a422373cc724affeaedbe2c08e88d67f",
+        "sha512": "36c8e23702ffada79f944e4bad5e9c4538fb4a8804e970dfb738e1da21065fc4ddb7a75636d327d0cb567f3e0e6c5c7a560d2f28fd070bc768aeeb849e2087fb"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:45:26.259Z",
+      "isDependency": true
+    },
+    {
+      "group": "gtqlqfo",
+      "requires": [
+        "XaDC71GB"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "8oi3bsk5",
+      "slug": "terralith",
+      "name": "Terralith",
+      "summary": "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp",
+      "versionId": "IY93YaEe",
+      "versionNumber": "2.6.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "size": 2814865,
+      "hashes": {
+        "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+        "sha512": "35298f1682567f63dc16658b04cee5498b30819f1c05f9712b4480d7f5eb17059db3b13ab14f81a05fe257149d11ced2cce2030d3727c1747edd8657c53e2a85"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:05.351Z"
+    },
+    {
+      "group": "gtqlqfo",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "XaDC71GB",
+      "slug": "lithostitched",
+      "name": "Lithostitched",
+      "summary": "Library mod with new configurability and compatibility enhancements for worldgen",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/XaDC71GB/bc3425bcb318176adc7da99b6eec48787eed98d3.png",
+      "versionId": "qPASucBM",
+      "versionNumber": "1.7.13-neoforge-21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "lithostitched-1.7.13-neoforge-21.1.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qPASucBM/lithostitched-1.7.13-neoforge-21.1.jar",
+      "size": 852541,
+      "hashes": {
+        "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
+        "sha512": "04409013edce65678d02489a7b830ba7d5e18e7c705243c8208f52661da62e7e337a09fe2797c85d7a00bc66cb50949b157b267afd216e7b900ddde9849dff32"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:05.943Z",
+      "isDependency": true
+    },
+    {
+      "group": "gtqlqfo",
+      "requires": [
+        "Ua7DFN59"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Z2mXHnxP",
+      "slug": "yungs-better-nether-fortresses",
+      "name": "YUNG's Better Nether Fortresses",
+      "summary": "A complete redesign of Minecraft's Nether fortresses!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Z2mXHnxP/3c88dd70c00b5e47addd9fdeba53a7c96076088d_96.webp",
+      "versionId": "iopJiJQp",
+      "versionNumber": "1.21.1-NeoForge-3.1.5",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "size": 609639,
+      "hashes": {
+        "sha1": "4061ece2141475227646649046fc14c2da505922",
+        "sha512": "18b461298d3df1215fa3b4d2c0cb2ef1c7ed76701d8a0bb140277b21923e31abd939f0fd9b400c5bd676d739f1cda31c43b4dc753f9187251542223f3424d336"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:13.919Z"
+    },
+    {
+      "group": "gtqlqfo",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Ua7DFN59",
+      "slug": "yungs-api",
+      "name": "YUNG's API",
+      "summary": "Library mod for YUNG's mods.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Ua7DFN59/0fab1c351bf00926a8e1c91dc64b7c88832c3e1f_96.webp",
+      "versionId": "ZB22DE9q",
+      "versionNumber": "1.21.1-NeoForge-5.1.6",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "size": 388678,
+      "hashes": {
+        "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b",
+        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:14.515Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "1eAoo2KR"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "DOUdJVEm",
+      "slug": "controlify",
+      "name": "Controlify (Controller support)",
+      "summary": "Adds the best controller support to Minecraft Java edition!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
+      "versionId": "RqsNKKLK",
+      "versionNumber": "3.0.1+lts",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "controlify-3.0.1+lts+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/RqsNKKLK/controlify-3.0.1%2Blts%2B1.21.1-neoforge.jar",
+      "size": 7981721,
+      "hashes": {
+        "sha1": "6d904472e1c95bd9d8b5e7c5421b8db628915e20",
+        "sha512": "cfffb25b9e62ca39cd6f54ab0b83902feda23a763ae9e345a11609f0138de1b6c3ab7a78c8fd5b7b309795e5c6d4911fd37cd7f8722a72cca6ad18e32cec461e"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:18.494Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "1eAoo2KR",
+      "slug": "yacl",
+      "name": "YetAnotherConfigLib (YACL)",
+      "summary": "A builder-based configuration library for Minecraft!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+      "versionId": "7TVdVtxF",
+      "versionNumber": "3.8.2+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "size": 1118651,
+      "hashes": {
+        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+        "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:18.996Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "EltpO5cN",
+      "slug": "lootr",
+      "name": "Lootr",
+      "summary": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/EltpO5cN/3dc915eb1bbcd65654c17eb3870de4aba055d0c6_96.webp",
+      "versionId": "mDyzapFj",
+      "versionNumber": "1.21.1-1.11.37.122",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mDyzapFj/lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "size": 992330,
+      "hashes": {
+        "sha1": "a5dae941acc991df3f0de56bd8367f719824f131",
+        "sha512": "b73036f27ce05864987bd5d3b6264edaf469848b0030ab484eaebdbc19644de515fd87886c3c3b80b8f87f87a87c71de810ec4f2ab481f94824a5e039ff8e752"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:39.416Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [
+        "aaRl8GiW",
+        "uy4Cnpcm"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "lOOpEntO",
+      "slug": "attributefix",
+      "name": "AttributeFix",
+      "summary": "Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/lOOpEntO/68a2de475417c87817e11f49beaa903e4774ca20_96.webp",
+      "versionId": "TyNITLDY",
+      "versionNumber": "21.1.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TyNITLDY/attributefix-neoforge-1.21.1-21.1.3.jar",
+      "size": 19809,
+      "hashes": {
+        "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+        "sha512": "09e1ff6012d5b7bef7bb701d38feaaab41db4f2fc8b9f669b820fc2c91e53098e093e401062ad80a0ce249c68aa7a6209ac9ee341518b8f640bae2393b1595ae"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:44.155Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "aaRl8GiW",
+      "slug": "prickle",
+      "name": "Prickle",
+      "summary": "Prickle is a JSON based configuration file format brought to Minecraft.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/aaRl8GiW/36749d1d2d87d14d7f703b18e8726c7b78057abb.png",
+      "versionId": "EE1FHDyD",
+      "versionNumber": "21.1.11",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812,
+      "hashes": {
+        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+        "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:44.663Z",
+      "isDependency": true
+    },
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "uy4Cnpcm",
+      "slug": "bookshelf-lib",
+      "name": "Bookshelf",
+      "summary": "An open source library for other mods!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png",
+      "versionId": "1sdJl7J1",
+      "versionNumber": "21.1.81",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "size": 328813,
+      "hashes": {
+        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+        "sha512": "78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:47:45.043Z",
+      "isDependency": true
+    },
+    {
+      "group": "gr522fl",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "l6YH9Als",
+      "slug": "spark",
+      "name": "spark",
+      "summary": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/l6YH9Als/61a777dd08a8447ac93e8b6372e6d27d48cd1e1a_96.webp",
+      "versionId": "v5qtqRQi",
+      "versionNumber": "1.10.124-neoforge-1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "spark-1.10.124-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+      "size": 3642581,
+      "hashes": {
+        "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+        "sha512": "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:48:19.933Z"
     }
   ],
-  "updatedAt": "2026-07-30T13:45:05.857Z",
+  "updatedAt": "2026-07-30T13:49:48.572Z",
   "side": "server",
-  "generatedAt": "2026-07-30T13:45:05.858Z"
+  "generatedAt": "2026-07-30T13:49:48.574Z"
 }
