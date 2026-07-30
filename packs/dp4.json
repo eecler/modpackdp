@@ -8120,7 +8120,511 @@
       "autoSide": "both",
       "addedBy": "KukikOfficial",
       "addedAt": "2026-07-30T16:21:22.436Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "5faXoLqX",
+        "1OE8wbN0"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "atHH8NyV",
+      "slug": "legendary-tooltips",
+      "name": "Legendary Tooltips",
+      "summary": "Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/atHH8NyV/bd47257c8d4aca0e04c43269e5beb7af680b144b_96.webp",
+      "versionId": "BabRJO04",
+      "versionNumber": "1.5.5",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "size": 81808,
+      "hashes": {
+        "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
+        "sha512": "3c0de6b6597a57b0fc3a134dde03ea3aeed0a7d64db63def8eda182c8bb7717293d2e4753887dcecaa27e17051c308269039eec6e74186d5eede68f98e74feeb"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:22:04.185Z"
+    },
+    {
+      "group": "gscw41m",
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "YttyNOFA",
+      "slug": "cultural-delights",
+      "name": "Cultural Delights",
+      "summary": "A Farmer's Delight addon that adds food systems from around the world.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/YttyNOFA/d857243f0e7dedd3d7f552c4371326773629e42e.png",
+      "versionId": "yNIrDVfJ",
+      "versionNumber": "0.17.8",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "culturaldelights-0.17.8.jar",
+      "url": "https://cdn.modrinth.com/data/YttyNOFA/versions/yNIrDVfJ/culturaldelights-0.17.8.jar",
+      "size": 261247,
+      "hashes": {
+        "sha1": "b3ad3bb769e4d35f13b3e1efec87aeb30222da15",
+        "sha512": "661a98c822daf15e50267395f41dcb45d1730b6834ee1accb9a67cb37371a4aee5d71606d03891bb17fb6e88940fa2eaf39f2b01a73d4cdd23038ebb76b97f33"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:22:50.959Z"
+    },
+    {
+      "group": "gscw41m",
+      "requires": [
+        "hYykXjDp"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "6txNkua3",
+      "slug": "immersive-paintings",
+      "name": "Immersive Paintings",
+      "summary": "Drag and drop, pixelate and hang up beautiful art. On servers too.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp",
+      "versionId": "DeOfrXC3",
+      "versionNumber": "0.7.8+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "size": 5500916,
+      "hashes": {
+        "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8",
+        "sha512": "f08e759ab6bbdd8b2d00ae3e1cc7044dfe3efa86d34fbbf7553d097ad1be358818d6569902b122cff2654c3a0942eb1a7406cf17ca537386b7d382aa8454b326"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:23:08.341Z"
+    },
+    {
+      "group": "g2tmky8",
+      "requires": [
+        "RH2KUdKJ"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "9wv7LuMc",
+      "slug": "immersive-ui",
+      "name": "Immersive UI",
+      "summary": "Enhance your gameplay experience with animated UI components",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/9wv7LuMc/fac59d2847d87e6b5cb384c302d6c2bcfd0d0c4b_96.webp",
+      "versionId": "wtmSnIFo",
+      "versionNumber": "0.3.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/9wv7LuMc/versions/wtmSnIFo/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar",
+      "size": 217081,
+      "hashes": {
+        "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
+        "sha512": "bff82f778fc42a88a4b5d98759498ad85f086b23527e51f5c4c717a2fe9d1bcfa583f38ae12ff2d4403580c734cdfcef2daedbe19cb470bdea203f0595a687a7"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:23:17.555Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "RH2KUdKJ",
+      "slug": "shatterbyte-lib",
+      "name": "ShatterLib | OctoLib",
+      "summary": "Collection of shared code for OctoStudios' mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp",
+      "versionId": "yVCCi6TK",
+      "versionNumber": "0.6.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "size": 544378,
+      "hashes": {
+        "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+        "sha512": "c33faa056c9d5403f06b7aa883290c86c33dcea3502f99720df98eccbd819cd3050fb2ffecf048f2dbee1b69a14e9dc6c23245f35ba3a78e46b056859666a60a"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:23:18.103Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "49C5QgTK"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "5vetjDBY",
+      "slug": "obscure-tooltips",
+      "name": "Obscure Tooltips",
+      "summary": "Stylized tooltips with beautiful effects and smooth animations!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/5vetjDBY/7d706ce2240d73d5f1480fb5dd647041c69da30a_96.webp",
+      "versionId": "sQ2dM0ur",
+      "versionNumber": "4.2.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/5vetjDBY/versions/sQ2dM0ur/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+      "size": 448523,
+      "hashes": {
+        "sha1": "c58a798e37de2ec888a730e7899755257003bdb8",
+        "sha512": "70234c7e6ade9b931025aa430f086fb8227a471e7176b7c49cbd41b70135c2ab437b5da527b46db77bd2fc2c702deace797184e12947709529cea2b8ccb4a12f"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:24:28.634Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "49C5QgTK",
+      "slug": "fragmentum",
+      "name": "Fragmentum",
+      "summary": "The lightweight framework for the Obscuria Collection cross-platform mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/49C5QgTK/f434c2e5058fa28cf87aeec43e6680a6ca48178e_96.webp",
+      "versionId": "CUGxFf8Z",
+      "versionNumber": "2.2.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "fragmentum-neoforge-1.21.1-2.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/CUGxFf8Z/fragmentum-neoforge-1.21.1-2.2.4.jar",
+      "size": 1936521,
+      "hashes": {
+        "sha1": "bba9111b9029c272afde9f102d0dac7cf5a3c77b",
+        "sha512": "f65c33210b9c973d8e2b72300a4d8549cd18a231797eb8101a70161b3d44555afee36065c2f8de9e82f2b372bf8b67a7a33502c199a07ff59e20a4543b78e1be"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:24:29.227Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "QAGBst4M"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "3wWtgZGB",
+      "slug": "held-item-tooltips",
+      "name": "Held Item Tooltips",
+      "summary": "See item enchantments, potion effects, shulker box contents and much more directly above your hotbar.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/3wWtgZGB/f0ada884305ca8f638067ee1baea94e23c0e2533_96.webp",
+      "versionId": "GLzG8UbN",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/3wWtgZGB/versions/GLzG8UbN/HeldItemTooltips-v21.1.0-1.21.1-NeoForge.jar",
+      "size": 74451,
+      "hashes": {
+        "sha1": "421392120dc8362fb1eba482c206a0ce4c825013",
+        "sha512": "e861bf33f854d97d69cc979b16b3a2c2ff8b7b6942add6883f94b4c0112ee325df5f3a7f78e98eebd5dc801131b0d660b4f103c6f156cd72896727e35d145dde"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:24:36.507Z"
+    },
+    {
+      "group": "gr522fl",
+      "requires": [
+        "e0M1UDsY"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "yQj7xqEM",
+      "slug": "inventory-totem",
+      "name": "Inventory Totem",
+      "summary": "🎴 Makes the totem of undying effect work when it's anywhere in the inventory.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/yQj7xqEM/icon.png",
+      "versionId": "uCOQDBBn",
+      "versionNumber": "1.21.1-3.4-fabric+forge+neo",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt"
+      ],
+      "filename": "inventorytotem-1.21.1-3.4.jar",
+      "url": "https://cdn.modrinth.com/data/yQj7xqEM/versions/uCOQDBBn/inventorytotem-1.21.1-3.4.jar",
+      "size": 24904,
+      "hashes": {
+        "sha1": "fcd2f54cc4c5c0368c1d8c957f76d908cec9f8a0",
+        "sha512": "5a5a7dc243d7d84da1ad7d8622ee22edc36204af731b92810f78cc7eaec16ffbb4dad85e15602fb69ad4611cc5ee3e95174e662c5fea662c8233e1319168e343"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:25:25.674Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "MBAkmtvl"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Boon8xwi",
+      "slug": "inventory-essentials",
+      "name": "Inventory Essentials",
+      "summary": "The most essential inventory tweaks. Now with sorting!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Boon8xwi/12b8c77a7db7ebe5a41caf3e0a185bfce6397e3a_96.webp",
+      "versionId": "7oG8uNtJ",
+      "versionNumber": "21.1.17+neoforge-1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "url": "https://cdn.modrinth.com/data/Boon8xwi/versions/7oG8uNtJ/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "size": 200251,
+      "hashes": {
+        "sha1": "a14454f2287be63f1e4d73dd22ce80d55e86f25f",
+        "sha512": "4acf872f3b62058308b10a546af1b243dfe0a727f858ec26994a2861fd4949c92f89e8cd08979f7bf88e8634bce9079ba7f5752882c72554be49e970df99179a"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:25:29.933Z"
+    },
+    {
+      "group": "g2tmky8",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "8aoMKplv",
+      "slug": "punchy-fpa",
+      "name": "Punchy!",
+      "summary": "A mod that adds various first person animations and visible hands with held items!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+      "versionId": "RYt48afN",
+      "versionNumber": "2.6.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "punchy-2.6.2-neoforge-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/RYt48afN/punchy-2.6.2-neoforge-1.21.1.jar",
+      "size": 1714297,
+      "hashes": {
+        "sha1": "96c094efc72a1bdcdfaae9129f6018d7215f13f7",
+        "sha512": "801945ef40f116d9db81dd21b3743e76fe1e68453f3592b034489fef361397759dc6776cb084b2ac97f5362147d7edb47edc3516e0105e857ed748f76d9fbc07"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:26:16.034Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "f4P7fNKN",
+      "slug": "longer-chat-history",
+      "name": "Longer Chat History",
+      "summary": "Makes chat history much longer",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/f4P7fNKN/3d192c8ccd5d568aa02234c647263485860077ec.png",
+      "versionId": "Une73t0n",
+      "versionNumber": "1.7",
+      "gameVersions": [
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "LongerChatHistory-neoforge-1.7.jar",
+      "url": "https://cdn.modrinth.com/data/f4P7fNKN/versions/Une73t0n/LongerChatHistory-neoforge-1.7.jar",
+      "size": 6094,
+      "hashes": {
+        "sha1": "24a373d5310ccdb7a04e61dcce18ab67e1ec6852",
+        "sha512": "8f912d2b1a85203718058d067d073872deb30ff2b031edfa70873eeaf77afee8de8a92a4e9ead3d8c8dcea9539c42297ba3cbeb91833d74b9a2f07dd65279975"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:26:30.463Z"
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "M1953qlQ",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "zCh7omyG",
+      "slug": "better-archeology",
+      "name": "Better Archeology",
+      "summary": "Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp",
+      "versionId": "vNdCUsLm",
+      "versionNumber": "1.21.1-1.3.7",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "betterarcheology-neoforge-1.21.1-1.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/zCh7omyG/versions/vNdCUsLm/betterarcheology-neoforge-1.21.1-1.3.7.jar",
+      "size": 3105868,
+      "hashes": {
+        "sha1": "24342e731d10a3d33a955e7b10b993a786171e78",
+        "sha512": "f58b90f597208e0d1bb9b165ce6e911b5e25d079b4d0b2d1eea810193a2236bf604ed7b38a77f41499311755fef20bd120363e76939a2f1a7acc9bd8a21cf619"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "helmetparty",
+      "addedAt": "2026-07-30T16:26:33.619Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "M1953qlQ",
+      "slug": "resourceful-config",
+      "name": "Resourceful Config",
+      "summary": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/M1953qlQ/cadcab644905f7e9ee92220d29f5c27113eb167b_96.webp",
+      "versionId": "lSbyRD6v",
+      "versionNumber": "3.0.11",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "size": 341009,
+      "hashes": {
+        "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+        "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:26:34.080Z",
+      "isDependency": true
     }
   ],
-  "updatedAt": "2026-07-30T16:21:31.209Z"
+  "updatedAt": "2026-07-30T16:26:36.937Z"
 }
