@@ -865,47 +865,6 @@
     },
     {
       "group": "gg5k2nb",
-      "requires": [
-        "P7dR8mSH"
-      ],
-      "incompatible": [
-        "PxQSWIcD",
-        "reCfnRvJ"
-      ],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "yBW8D80W",
-      "slug": "lambdynamiclights",
-      "name": "LambDynamicLights - Dynamic Lights",
-      "summary": "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod.",
-      "notes": "",
-      "icon": "https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp",
-      "versionId": "DZDOX6ps",
-      "versionNumber": "4.8.10+1.21.1",
-      "gameVersions": [
-        "1.21",
-        "1.21.1"
-      ],
-      "loaders": [
-        "fabric",
-        "neoforge",
-        "quilt"
-      ],
-      "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/DZDOX6ps/lambdynamiclights-4.8.10%2B1.21.1.jar",
-      "size": 2022585,
-      "hashes": {
-        "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092",
-        "sha512": "2a8ca94cd56e9e5ed046126f4b03edba2965c8fe76210ebc5ca53bb075832274dce1cb438082fbc2aea268f93986ad17b6231afad7c100359a9185bba517c4f9"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T13:40:33.257Z"
-    },
-    {
-      "group": "gg5k2nb",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -2146,9 +2105,190 @@
       "autoSide": "client",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T13:48:59.406Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "sk9knFPE"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "umyGl7zF",
+      "slug": "kubejs",
+      "name": "KubeJS",
+      "summary": "Edit recipes, add new custom items, script world events, all in JavaScript!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/umyGl7zF/ced768ee05e293837a24eacf00838061e02964a0_96.webp",
+      "versionId": "F2nzeC19",
+      "versionNumber": "2101.7.2-build.368",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar",
+      "size": 2281720,
+      "hashes": {
+        "sha1": "edf131afd474151afe076ea975ce5fec5a206ad8",
+        "sha512": "5e2f1bd1460d8f443ce4bd44ed367d27f9170e50dff2ce9430954206e89651f8969dfbe842c3100b0244f8d58f843fc5fb9c46b5c576430a07f1e5b6dd4b9f7b"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:21.206Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "sk9knFPE",
+      "slug": "rhino",
+      "name": "Rhino",
+      "summary": "A fork of Mozilla's Rhino library, modified for use in mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/sk9knFPE/fd4ab05472a7e28fbd62054e5640ef61308cc4a6_96.webp",
+      "versionId": "SqkDvOLG",
+      "versionNumber": "2101.2.8-build.91+Rhino-1.21",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "rhino-2101.2.8-build.91.jar",
+      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar",
+      "size": 980936,
+      "hashes": {
+        "sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad",
+        "sha512": "e3d92f663bc07872a83b0a6474b30a75230e9f92a2844fd98da1842ec9a79712bcb7d8e76574cc11ae3aeceb47f2933c60ddd6cf41f3ad7027bd573623730945"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:21.801Z",
+      "isDependency": true
+    },
+    {
+      "group": "gaipg5h",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Es5v4eyq",
+      "slug": "sodium-options-api",
+      "name": "Sodium Options API",
+      "summary": "Config API for adding Sodium options with a better categories menu",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp",
+      "versionId": "lrsX3TMS",
+      "versionNumber": "neoforge-1.21.1-1.0.10",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "size": 309122,
+      "hashes": {
+        "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
+        "sha512": "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:33.302Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "twkfQtEc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "6iTJugQR",
+      "slug": "amendments",
+      "name": "Amendments",
+      "summary": "Many changes to vanilla blocks",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/6iTJugQR/46e156f1c798bfc3c18bd2a55567af1086674f02_96.webp",
+      "versionId": "BoGvkmKs",
+      "versionNumber": "1.21-2.1.7",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "amendments-neoforge-1.21-2.1.7.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/BoGvkmKs/amendments-neoforge-1.21-2.1.7.jar",
+      "size": 1154863,
+      "hashes": {
+        "sha1": "69b9a6243a1513f7e40780367c40d23a4d687439",
+        "sha512": "ffa9d60ad4c024e5f0ad9b1c9f0e2cbc5eea0666d3370aeec3754f7f1568ce87fc50f1a8ce9017bda7063a1c9a62eff4b901c660631f1a8e5adaf89cf9320c59"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:54.680Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "AANobbMI",
+        "Es5v4eyq"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "PxQSWIcD",
+      "slug": "sodium-dynamic-lights",
+      "name": "Sodium Dynamic Lights",
+      "summary": "Multiloader port of LambDynLights that adds Sodium options integration",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/PxQSWIcD/a5ab5515213391934e18baaf487c87e4b24ebfa3_96.webp",
+      "versionId": "XI0WLXdn",
+      "versionNumber": "neoforge-1.21.1-1.0.10",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "size": 299353,
+      "hashes": {
+        "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+        "sha512": "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4aa0af20cb11d56c7c031d5e149b3bdf95bec6343e5bd4552450b14c0a"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:51:17.423Z"
     }
   ],
-  "updatedAt": "2026-07-30T13:49:48.572Z",
+  "updatedAt": "2026-07-30T13:51:31.937Z",
   "side": "client",
-  "generatedAt": "2026-07-30T13:49:48.573Z"
+  "generatedAt": "2026-07-30T13:51:31.938Z"
 }

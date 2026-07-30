@@ -1315,9 +1315,191 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T13:48:19.933Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "sk9knFPE"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "umyGl7zF",
+      "slug": "kubejs",
+      "name": "KubeJS",
+      "summary": "Edit recipes, add new custom items, script world events, all in JavaScript!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/umyGl7zF/ced768ee05e293837a24eacf00838061e02964a0_96.webp",
+      "versionId": "F2nzeC19",
+      "versionNumber": "2101.7.2-build.368",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar",
+      "size": 2281720,
+      "hashes": {
+        "sha1": "edf131afd474151afe076ea975ce5fec5a206ad8",
+        "sha512": "5e2f1bd1460d8f443ce4bd44ed367d27f9170e50dff2ce9430954206e89651f8969dfbe842c3100b0244f8d58f843fc5fb9c46b5c576430a07f1e5b6dd4b9f7b"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:21.206Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "sk9knFPE",
+      "slug": "rhino",
+      "name": "Rhino",
+      "summary": "A fork of Mozilla's Rhino library, modified for use in mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/sk9knFPE/fd4ab05472a7e28fbd62054e5640ef61308cc4a6_96.webp",
+      "versionId": "SqkDvOLG",
+      "versionNumber": "2101.2.8-build.91+Rhino-1.21",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "26.1.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "rhino-2101.2.8-build.91.jar",
+      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar",
+      "size": 980936,
+      "hashes": {
+        "sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad",
+        "sha512": "e3d92f663bc07872a83b0a6474b30a75230e9f92a2844fd98da1842ec9a79712bcb7d8e76574cc11ae3aeceb47f2933c60ddd6cf41f3ad7027bd573623730945"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:21.801Z",
+      "isDependency": true
+    },
+    {
+      "group": "all",
+      "requires": [
+        "Ua7DFN59"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "HjmxVlSr",
+      "slug": "yungs-better-mineshafts",
+      "name": "YUNG's Better Mineshafts",
+      "summary": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/HjmxVlSr/4e41ef8344db48b8368cd3d6f35844c8a619f446_96.webp",
+      "versionId": "Go3nbneL",
+      "versionNumber": "1.21.1-NeoForge-5.1.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/Go3nbneL/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "size": 493967,
+      "hashes": {
+        "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906",
+        "sha512": "8b01b386f53feeaa55f0c62697578b82e00501e45e428b2a68df6bda34efb6a4b3b4e3582abf13fe767ebcb61aef9368186f53c03999958bef38f31c41a7f8b2"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:38.119Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "Ua7DFN59"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "2BwBOmBQ",
+      "slug": "yungs-better-end-island",
+      "name": "YUNG's Better End Island",
+      "summary": "An overhaul of the main End Island where the dragon fight takes place!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/2BwBOmBQ/78c665ae3617a5b7e8902242b480d7f71ef04307_96.webp",
+      "versionId": "I52NZ1qK",
+      "versionNumber": "1.21.1-NeoForge-3.1.2",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "size": 398130,
+      "hashes": {
+        "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19",
+        "sha512": "02923a1a97eb81ec13d69bdc6b7e8b36dfb9e6f1a98adfcf103707ec3afde35831ccd4b210e9b3a9c7662541c38ea593a3d94c12171b4072ea7feafa75c95f96"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:49.168Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "twkfQtEc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "6iTJugQR",
+      "slug": "amendments",
+      "name": "Amendments",
+      "summary": "Many changes to vanilla blocks",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/6iTJugQR/46e156f1c798bfc3c18bd2a55567af1086674f02_96.webp",
+      "versionId": "BoGvkmKs",
+      "versionNumber": "1.21-2.1.7",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "amendments-neoforge-1.21-2.1.7.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/BoGvkmKs/amendments-neoforge-1.21-2.1.7.jar",
+      "size": 1154863,
+      "hashes": {
+        "sha1": "69b9a6243a1513f7e40780367c40d23a4d687439",
+        "sha512": "ffa9d60ad4c024e5f0ad9b1c9f0e2cbc5eea0666d3370aeec3754f7f1568ce87fc50f1a8ce9017bda7063a1c9a62eff4b901c660631f1a8e5adaf89cf9320c59"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:50:54.680Z"
     }
   ],
-  "updatedAt": "2026-07-30T13:49:48.572Z",
+  "updatedAt": "2026-07-30T13:51:31.937Z",
   "side": "server",
-  "generatedAt": "2026-07-30T13:49:48.574Z"
+  "generatedAt": "2026-07-30T13:51:31.938Z"
 }
