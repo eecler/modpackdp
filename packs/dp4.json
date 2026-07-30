@@ -8983,7 +8983,44 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T16:30:46.695Z"
+    },
+    {
+      "group": "gr522fl",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ghrZDhGW",
+      "slug": "skinrestorer",
+      "name": "Skin Restorer",
+      "summary": "A server-side mod for managing and restoring player skins.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+      "versionId": "RyUYnIVM",
+      "versionNumber": "2.9.0+1.21-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "skinrestorer-2.9.0+1.21-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/RyUYnIVM/skinrestorer-2.9.0%2B1.21-neoforge.jar",
+      "size": 257883,
+      "hashes": {
+        "sha1": "ff254aac470ef8a023596220ccf5e8cb0e4517db",
+        "sha512": "9b4efdf77465364d963978917600f7f1ec311e7500ce5823975b750742150963b086849492625314ed67db4759be656103b0e18c8fb5ab33e67e1629c9ba87c8"
+      },
+      "side": "server",
+      "sideSource": "auto",
+      "autoSide": "server",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T16:56:24.101Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:52:57.016Z"
+  "updatedAt": "2026-07-30T16:56:26.288Z"
 }
