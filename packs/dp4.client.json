@@ -43,6 +43,10 @@
     {
       "id": "gr522fl",
       "name": "оптимизация (сервер)"
+    },
+    {
+      "id": "gepvdav",
+      "name": "Аддоны Create"
     }
   ],
   "mods": [
@@ -3600,9 +3604,433 @@
       "addedBy": "eecler",
       "addedAt": "2026-07-30T14:01:42.453Z",
       "isDependency": true
+    },
+    {
+      "group": "gr522fl",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "C7I0BCni",
+      "slug": "macaws-windows",
+      "name": "Macaw's Windows",
+      "summary": "Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more...!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/C7I0BCni/7eb5e7816f887154e69a4001bee5bcc143242b32_96.webp",
+      "versionId": "rQUE4LCz",
+      "versionNumber": "2.4.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "size": 1261268,
+      "hashes": {
+        "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c",
+        "sha512": "7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:07:29.047Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "GmwLse2I",
+      "slug": "macaws-fences-and-walls",
+      "name": "Macaw's Fences and Walls",
+      "summary": "Adds new vanilla styled fences, walls and gates!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/GmwLse2I/ebe4d2375e0a402e5587665ba9da5eb50f37422a_96.webp",
+      "versionId": "jVdb0r4W",
+      "versionNumber": "1.2.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "size": 673871,
+      "hashes": {
+        "sha1": "b5580c3fc521ed8bf4db3e407bd590efc317f74d",
+        "sha512": "9bf496a8db8c6074ab32374042ae15e87fe87d897e21de29d459556fa8d7d0e73f2718f28a0236181cfb3c1bc66c776b4d079f0a7084696ad490275ab1b9eb6e"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:07:31.561Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [
+        "MBAkmtvl"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "vPNqo58Q",
+      "slug": "client-tweaks",
+      "name": "Client Tweaks",
+      "summary": "There, I fixed Minecraft for you. Various optional tweaks to improve Minecraft Quality of Life. ",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/vPNqo58Q/a9144fbd356f92c39be0e5b70d73136ac37fe0f6_96.webp",
+      "versionId": "CD0C4ftK",
+      "versionNumber": "21.1.14+neoforge-1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "clienttweaks-neoforge-1.21.1-21.1.14.jar",
+      "url": "https://cdn.modrinth.com/data/vPNqo58Q/versions/CD0C4ftK/clienttweaks-neoforge-1.21.1-21.1.14.jar",
+      "size": 177995,
+      "hashes": {
+        "sha1": "faf5d806df2dd053178045d6eee0be5fc30734e8",
+        "sha512": "8db9bbab575dba5bc7c49357e05ca726fd9dd2b9731204807be0195d2f9093871407a5da0d1e8bd4445ebc9f55365931ae6d8f77366ef852046c29aa9efa7073"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:08:12.654Z"
+    },
+    {
+      "group": "gepvdav",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "kU1G12Nn",
+      "slug": "createaddition",
+      "name": "Create Crafts & Additions",
+      "summary": "Create Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/kU1G12Nn/d8d1ec226747a800ba175f70ad00a80f37047cb6_96.webp",
+      "versionId": "qPr8V4G2",
+      "versionNumber": "neoforge-1.21.1-1.6.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "createaddition-1.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar",
+      "size": 1661802,
+      "hashes": {
+        "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
+        "sha512": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:08:28.324Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ZVzW5oNS",
+      "slug": "incendium",
+      "name": "Incendium Legacy",
+      "summary": "A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg",
+      "versionId": "7mVvV9Th",
+      "versionNumber": "5.4.4",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4"
+      ],
+      "loaders": [
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt"
+      ],
+      "filename": "Incendium_1.21.x_v5.4.4.jar",
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar",
+      "size": 4267528,
+      "hashes": {
+        "sha1": "40da6da25ec45c4d88447733255e4281b6f22fef",
+        "sha512": "ca897be9059ea691860715dac6c0ccd934720d7d42c8af45b95257e8f91a6c9470f506bfb9ef3c770e6a6c57e58885add2126150a35927848817433fd227ce0e"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:08:54.430Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "QAGBst4M"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "FzyTKtVF",
+      "slug": "stoneworks",
+      "name": "Stoneworks",
+      "summary": "Vanilla stone types in plenty of variations for all your building needs.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/FzyTKtVF/c18c5fb3daa800d5d612efac7d658eafdcf51129_96.webp",
+      "versionId": "9XTU6J5n",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "Stoneworks-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/FzyTKtVF/versions/9XTU6J5n/Stoneworks-v21.1.0-1.21.1-NeoForge.jar",
+      "size": 1996861,
+      "hashes": {
+        "sha1": "3134034decd63a5f0cd894c3b94b46df2635936e",
+        "sha512": "fd49d319599e3162d8989d5545210699745e4dd4db187331838a20909a7a9fdc9ec120d6747eb3542a6934274133bbf01435ae2fd4bbebe71118249ea3ee0a53"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:09:37.333Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "XaDC71GB"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Tkikq67H",
+      "slug": "regions-unexplored",
+      "name": "Regions Unexplored",
+      "summary": "A stack of new biomes spread across the Overworld and Nether!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Tkikq67H/e1e85f8a91f09154c2e822fd9a15e167c0230a31_96.webp",
+      "versionId": "5A8LFnXX",
+      "versionNumber": "0.6.2-neoforge-21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "regions-unexplored-0.6.2-neoforge-21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/5A8LFnXX/regions-unexplored-0.6.2-neoforge-21.1.jar",
+      "size": 6365953,
+      "hashes": {
+        "sha1": "122586c147f0aa1efdc655792b6ef24aebbbba84",
+        "sha512": "b6475d26f22a5a3ed957b76b85f3d51d3422c0fbef16f777b74bfe9d70fd1673d75cb0c4e2a2a56121f0d0d6780a9e92fdcd7023b4f1d0d2d746d54c64c12f3c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:09:40.257Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "lhGA9TYQ",
+        "hYykXjDp",
+        "6avVoBVB"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "bK3Ubu9p",
+      "slug": "simply-swords",
+      "name": "Simply Swords",
+      "summary": "Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/bK3Ubu9p/9d244d5a3b7a3a15ffa749d941fb6c40445afcdd_96.webp",
+      "versionId": "eREhvVpQ",
+      "versionNumber": "1.63.0-1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "size": 12617777,
+      "hashes": {
+        "sha1": "7dd9bdbc601f8d8a8e5bbe2d2db5343321ee2fb4",
+        "sha512": "8e52382f57806aabd4a955972b9fd5cbee5494700aa03390fa3c9d1c21dabe30c99f4ee728489e92b36f8eac9f9e3fad0a8a8c57967dab29c818963aebf6bfb6"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:09:47.799Z"
+    },
+    {
+      "group": "all",
+      "requires": [
+        "ordsPcFz"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hYykXjDp",
+      "slug": "fzzy-config",
+      "name": "Fzzy Config",
+      "summary": "Config API with automatic GUIs, powerful validation options, server-client sync, and more!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+      "versionId": "MAPG6cXE",
+      "versionNumber": "0.7.6+1.21+neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "size": 2369895,
+      "hashes": {
+        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+        "sha512": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:09:48.287Z",
+      "isDependency": true
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "6avVoBVB",
+      "slug": "simply-tooltips",
+      "name": "Simply Tooltips",
+      "summary": "Modern data driven tooltip rendering",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/6avVoBVB/c040fc973fff175c90ebc4382ee29d86fec98884_96.webp",
+      "versionId": "Ic73EcJ6",
+      "versionNumber": "0.1.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "SimplyTooltips-neoforge-0.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar",
+      "size": 5320037,
+      "hashes": {
+        "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746",
+        "sha512": "de69a684be47c7e25e6f8612f4aabe0fbf12816a40a8432eb9176b7f2d766e866dd96efbc0952e9dd683e97747ee15e1fe4d62cec1485c5c8dde9e58eef673ad"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:09:48.513Z",
+      "isDependency": true
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "kKwy3HU9",
+      "slug": "better-beds",
+      "name": "Better Beds",
+      "summary": "Changes the renderer of the bed to use json models instead of a block entity renderer! ",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/kKwy3HU9/395c523ddb3d0de6eb37a218a4f515693d0846a1_96.webp",
+      "versionId": "aAzXjG13",
+      "versionNumber": "1.4.0-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "betterbeds-1.4.0.jar",
+      "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/aAzXjG13/betterbeds-1.4.0.jar",
+      "size": 65708,
+      "hashes": {
+        "sha1": "48f215da24598e4ad93efc7d0ca0a6f91660069f",
+        "sha512": "950a61a1d60cb28b97f9d6e83a78b7943986ae10dba0d30f2f61a4967f9acdc6c8548d4d5b7446c6695f3145583d50bb10e06555d24fabca7e3816381e397517"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:11:28.812Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [
+        "twkfQtEc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "z3TzcquW",
+      "slug": "fast-paintings",
+      "name": "Fast Paintings",
+      "summary": "Fixes painting rendering, increasing their performance and allowing them to have custom models",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/z3TzcquW/607a27538c10ba588108eb9717c975a21801a8f9_96.webp",
+      "versionId": "PQ155hbf",
+      "versionNumber": "neoforge_1.21-1.3.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "fastpaintings-1.21-1.3.0-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/PQ155hbf/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "size": 155810,
+      "hashes": {
+        "sha1": "6df81c4fe659eaee718cb0856c79e4cfa272e9ea",
+        "sha512": "7785533061b4c53bf26c79629016bbc584a10fee7cd50b0159b617ff9dc6751f0cc8185435cf2c81a0443af0c44bc4d2a58ce021778d93ec7f50318862a2b046"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:11:38.358Z"
     }
   ],
-  "updatedAt": "2026-07-30T14:06:09.416Z",
+  "updatedAt": "2026-07-30T15:11:44.167Z",
   "side": "client",
-  "generatedAt": "2026-07-30T14:06:09.418Z"
+  "generatedAt": "2026-07-30T15:11:44.169Z"
 }
