@@ -36,6 +36,11 @@
       "id": "gaipg5h",
       "name": "Твики",
       "enabled": true
+    },
+    {
+      "id": "g2tmky8",
+      "name": "ПО ЖЕЛАНИЮ - КЛИЕНТ",
+      "enabled": true
     }
   ],
   "mods": [
@@ -821,7 +826,403 @@
       "autoSide": "client",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T13:39:57.014Z"
+    },
+    {
+      "group": "g2tmky8",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "qyVF9oeo",
+      "slug": "sound-physics-remastered",
+      "name": "Sound Physics Remastered",
+      "summary": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+      "versionId": "Dd2tmpsk",
+      "versionNumber": "neoforge-1.21.1-1.5.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "size": 202454,
+      "hashes": {
+        "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
+        "sha512": "ff7e9f0b968eeb2ba0e833328a122813cad0434cfe2d5c3d527c1c0d564504f13a737fc05f22d3fea562a2f86568d31b95212bf5347dd10da36cd49ad56143a6"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:40:21.213Z"
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [
+        "P7dR8mSH"
+      ],
+      "incompatible": [
+        "PxQSWIcD",
+        "reCfnRvJ"
+      ],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "yBW8D80W",
+      "slug": "lambdynamiclights",
+      "name": "LambDynamicLights - Dynamic Lights",
+      "summary": "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp",
+      "versionId": "DZDOX6ps",
+      "versionNumber": "4.8.10+1.21.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "neoforge",
+        "quilt"
+      ],
+      "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/DZDOX6ps/lambdynamiclights-4.8.10%2B1.21.1.jar",
+      "size": 2022585,
+      "hashes": {
+        "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092",
+        "sha512": "2a8ca94cd56e9e5ed046126f4b03edba2965c8fe76210ebc5ca53bb075832274dce1cb438082fbc2aea268f93986ad17b6231afad7c100359a9185bba517c4f9"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:40:33.257Z"
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Wb5oqrBJ",
+      "slug": "chat-heads",
+      "name": "Chat Heads",
+      "summary": "See who you're chatting with!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png",
+      "versionId": "BBw4KFaY",
+      "versionNumber": "0.15.3",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "chat_heads-0.15.3-neoforge-1.21.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BBw4KFaY/chat_heads-0.15.3-neoforge-1.21.jar",
+      "size": 89367,
+      "hashes": {
+        "sha1": "de821ac64b3c8694b1a27e0acd05742660c6af3f",
+        "sha512": "b05c8edeb6cda61e9aef7a7ae29574bdb487e1589e7b58ac7ac69b2c2c34e021e03c8cb26a43f6af7c2c99efa23586976e11fa9416654de8fab5ecb9a5565f3f"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:41:16.224Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "g96Z4WVZ",
+      "slug": "badoptimizations",
+      "name": "BadOptimizations",
+      "summary": "Optimization mod that focuses on things other than rendering",
+      "notes": "",
+      "icon": null,
+      "versionId": "S2qthD5S",
+      "versionNumber": "2.4.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "fabric",
+        "neoforge"
+      ],
+      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
+      "size": 283566,
+      "hashes": {
+        "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+        "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:41:24.824Z"
+    },
+    {
+      "group": "g2tmky8",
+      "requires": [
+        "ordsPcFz",
+        "onSQdWhM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "O7RBXm3n",
+      "slug": "inventory-profiles-next",
+      "name": "Inventory Profiles Next",
+      "summary": "Take control over your inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp",
+      "versionId": "vjuNnHLv",
+      "versionNumber": "neoforge-1.21.1-2.2.5",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/vjuNnHLv/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "size": 1295466,
+      "hashes": {
+        "sha1": "b09d7c0820c233ea34af54d0a3ab7ed510b32dcc",
+        "sha512": "521296cc7e4fa48e06eb0c00d430968c7b879946db5b02e632cc724672759ac152e11bd9d320bd09f7418edd6fe4ece521a1a2cac49d7f5687519c69a0bcbf12"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:41:47.341Z"
+    },
+    {
+      "group": "lib",
+      "requires": [
+        "ordsPcFz"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "onSQdWhM",
+      "slug": "libipn",
+      "name": "libIPN",
+      "summary": "Inventory Profiles Next GUI/Config library",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp",
+      "versionId": "BGe4KMlE",
+      "versionNumber": "neoforge-1.21.1-6.6.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "size": 626146,
+      "hashes": {
+        "sha1": "baab9e8cae3d2b77b5e172b5694e465ee9f30d4a",
+        "sha512": "89383465eb8dfa296e7518dd0e6ddc1a242f4537a3183425f2319c79a3e97843ded0f5e13f86b095f2f09beacd2a1f249f554e0f4e18291209720826031a8b93"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:41:47.943Z",
+      "isDependency": true
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ordsPcFz",
+      "slug": "kotlin-for-forge",
+      "name": "Kotlin for Forge",
+      "summary": "Adds a Kotlin language loader and provides some optional utilities.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ordsPcFz/064b8f129b776eb303f7f8b1a610e21d153c74b9_96.webp",
+      "versionId": "uhJhCT7X",
+      "versionNumber": "5.12.0",
+      "gameVersions": [
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "loaders": [
+        "forge",
+        "neoforge"
+      ],
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "size": 7279264,
+      "hashes": {
+        "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+        "sha512": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:41:48.184Z",
+      "isDependency": true
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [
+        "9s6osm5g"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "8shC1gFX",
+      "slug": "betterf3",
+      "name": "BetterF3",
+      "summary": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com//data/8shC1gFX/icon.png",
+      "versionId": "maXNB1dn",
+      "versionNumber": "11.0.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "size": 481646,
+      "hashes": {
+        "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+        "sha512": "59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:42:13.584Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "9s6osm5g",
+      "slug": "cloth-config",
+      "name": "Cloth Config API",
+      "summary": "Configuration Library for Minecraft Mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "versionId": "izKINKFg",
+      "versionNumber": "15.0.140+neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "hashes": {
+        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:42:14.208Z",
+      "isDependency": true
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "QdG47OkI",
+      "slug": "modelfix",
+      "name": "Model Gap Fix",
+      "summary": "Fixes gaps in Block Models and Item Models",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/QdG47OkI/5a8203e120985d11616614e11ad7b888997000d8.png",
+      "versionId": "X2U8ceG9",
+      "versionNumber": "1.21-1.10",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "modelfix-1.21-1.10.jar",
+      "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
+      "size": 47035,
+      "hashes": {
+        "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
+        "sha512": "647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152674b5a3a653e3b36f517f5c1bff4c25db37dd789df9eeb1e1d799c07"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:42:17.608Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "fRiHVvU7",
+      "slug": "emi",
+      "name": "EMI",
+      "summary": "A featureful and accessible item and recipe viewer",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp",
+      "versionId": "5sIPA1To",
+      "versionNumber": "1.1.24+1.21.1+neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "emi-1.1.24+1.21.1+neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+      "size": 1111538,
+      "hashes": {
+        "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+        "sha512": "f4c45ed686fe617311d6debadcb6ace5963e66f8cfe0cfed398231f081f87407070efc7a73c8b695d158f1d87a97180737b9107a46771e77df2bc9a7dc715ebd"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:42:27.127Z"
     }
   ],
-  "updatedAt": "2026-07-30T13:40:04.314Z"
+  "updatedAt": "2026-07-30T13:42:28.356Z"
 }
