@@ -4983,39 +4983,6 @@
       "addedAt": "2026-07-30T15:58:28.993Z"
     },
     {
-      "summary": "Adding Radars (& more) to Create!",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "all",
-      "projectId": "BLu2Yqfq",
-      "slug": "create-radars",
-      "name": "Create: Radars",
-      "icon": "https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp",
-      "versionId": "AntNFNAx",
-      "versionNumber": "0.4.9.4-1.21.1",
-      "filename": "create_radar-0.4.9.4-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar",
-      "size": 2990812,
-      "hashes": {
-        "sha1": "9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6",
-        "sha512": "9ce111ea7e39fe979a6d423766820bbdd8c7e61ecf72db35b94539330aadc0cd45b5eed469ef4bbfeb36b1c558209e048019f5a4a253b43f3b6b3bd4fbc8ac63"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "KukikOfficial",
-      "addedAt": "2026-07-30T15:58:29.764Z"
-    },
-    {
       "summary": "Heavy Engineering & Oil For The Create Mod",
       "notes": "",
       "gameVersions": [
@@ -6839,7 +6806,7 @@
       "addedAt": "2026-07-30T16:30:46.695Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:30:52.214Z",
+  "updatedAt": "2026-07-30T16:52:57.016Z",
   "side": "server",
-  "generatedAt": "2026-07-30T16:30:52.219Z"
+  "generatedAt": "2026-07-30T16:52:57.020Z"
 }

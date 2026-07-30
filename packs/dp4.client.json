@@ -476,41 +476,6 @@
       "addedAt": "2026-07-30T13:33:53.864Z"
     },
     {
-      "summary": "Alternative Options Menu for Sodium",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [
-        "AANobbMI"
-      ],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "gg5k2nb",
-      "projectId": "Bh37bMuy",
-      "slug": "reeses-sodium-options",
-      "name": "Reese's Sodium Options",
-      "icon": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
-      "versionId": "KYgu9tXl",
-      "versionNumber": "mc1.21.1-2.2.3+neoforge",
-      "filename": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar",
-      "size": 260876,
-      "hashes": {
-        "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
-        "sha512": "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T13:34:32.240Z"
-    },
-    {
       "summary": "A Minecraft mod that allows for efficient connected textures",
       "notes": "",
       "gameVersions": [
@@ -3910,42 +3875,6 @@
       "isDependency": true
     },
     {
-      "summary": "Changes the renderer of the bed to use json models instead of a block entity renderer! ",
-      "notes": "",
-      "gameVersions": [
-        "1.21",
-        "1.21.1",
-        "1.21.2",
-        "1.21.3"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "gg5k2nb",
-      "projectId": "kKwy3HU9",
-      "slug": "better-beds",
-      "name": "Better Beds",
-      "icon": "https://cdn.modrinth.com/data/kKwy3HU9/395c523ddb3d0de6eb37a218a4f515693d0846a1_96.webp",
-      "versionId": "aAzXjG13",
-      "versionNumber": "1.4.0-neoforge",
-      "filename": "betterbeds-1.4.0.jar",
-      "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/aAzXjG13/betterbeds-1.4.0.jar",
-      "size": 65708,
-      "hashes": {
-        "sha1": "48f215da24598e4ad93efc7d0ca0a6f91660069f",
-        "sha512": "950a61a1d60cb28b97f9d6e83a78b7943986ae10dba0d30f2f61a4967f9acdc6c8548d4d5b7446c6695f3145583d50bb10e06555d24fabca7e3816381e397517"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T15:11:28.812Z"
-    },
-    {
       "summary": "Fixes painting rendering, increasing their performance and allowing them to have custom models",
       "notes": "",
       "gameVersions": [
@@ -6050,39 +5979,6 @@
       "autoSide": "both",
       "addedBy": "KukikOfficial",
       "addedAt": "2026-07-30T15:58:28.993Z"
-    },
-    {
-      "summary": "Adding Radars (& more) to Create!",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "all",
-      "projectId": "BLu2Yqfq",
-      "slug": "create-radars",
-      "name": "Create: Radars",
-      "icon": "https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp",
-      "versionId": "AntNFNAx",
-      "versionNumber": "0.4.9.4-1.21.1",
-      "filename": "create_radar-0.4.9.4-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar",
-      "size": 2990812,
-      "hashes": {
-        "sha1": "9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6",
-        "sha512": "9ce111ea7e39fe979a6d423766820bbdd8c7e61ecf72db35b94539330aadc0cd45b5eed469ef4bbfeb36b1c558209e048019f5a4a253b43f3b6b3bd4fbc8ac63"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "KukikOfficial",
-      "addedAt": "2026-07-30T15:58:29.764Z"
     },
     {
       "summary": "Heavy Engineering & Oil For The Create Mod",
@@ -8422,7 +8318,7 @@
       "addedAt": "2026-07-30T16:30:46.695Z"
     }
   ],
-  "updatedAt": "2026-07-30T16:30:52.214Z",
+  "updatedAt": "2026-07-30T16:52:57.016Z",
   "side": "client",
-  "generatedAt": "2026-07-30T16:30:52.217Z"
+  "generatedAt": "2026-07-30T16:52:57.018Z"
 }
