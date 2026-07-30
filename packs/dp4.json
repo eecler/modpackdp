@@ -6117,7 +6117,43 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T15:30:46.023Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ONZm0H7Y",
+      "slug": "better-block-entities",
+      "name": "Better Block Entities",
+      "summary": "A Minecraft optimization mod for Fabric-Sodium that improves framerates by improving block entity rendering via a hybrid renderer",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
+      "versionId": "RPhK79hl",
+      "versionNumber": "1.3.4-beta.3+mc1.21.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/RPhK79hl/bbe-neoforge-1.3.4-beta.3%2Bmc1.21.1.jar",
+      "size": 177123,
+      "hashes": {
+        "sha1": "e715ca1236ea641345b6ac4746e564f44899675b",
+        "sha512": "978c6a260e651633e5aa4191e724d550dc4179a396371438e8a8cb218a55e22bece9c5dbac859a60dc7ced3e630de592660bcd1c2f625cd6cd36d7c4ce0f1e0c"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:34:02.305Z"
     }
   ],
-  "updatedAt": "2026-07-30T15:31:19.700Z"
+  "updatedAt": "2026-07-30T15:34:03.114Z"
 }
