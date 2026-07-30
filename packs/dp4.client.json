@@ -47,6 +47,26 @@
     {
       "id": "gepvdav",
       "name": "Аддоны Create"
+    },
+    {
+      "id": "gy6lpg7",
+      "name": "CC Аддоны"
+    },
+    {
+      "id": "gfb0vas",
+      "name": "AE2 АДДОНЫ"
+    },
+    {
+      "id": "gr3lbnn",
+      "name": "KubeJS"
+    },
+    {
+      "id": "gkceso1",
+      "name": "Exposure Аддоны"
+    },
+    {
+      "id": "gscw41m",
+      "name": "Farmers Delight Аддоны"
     }
   ],
   "mods": [
@@ -369,7 +389,7 @@
       "incompatible": [],
       "type": "mod",
       "source": "modrinth",
-      "group": "all",
+      "group": "gaipg5h",
       "projectId": "EsAfCjCV",
       "slug": "appleskin",
       "name": "AppleSkin",
@@ -664,7 +684,7 @@
       "addedAt": "2026-07-30T13:35:17.314Z"
     },
     {
-      "group": "all",
+      "group": "gaipg5h",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -698,7 +718,7 @@
       "addedAt": "2026-07-30T13:39:08.709Z"
     },
     {
-      "group": "all",
+      "group": "gaipg5h",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -1156,7 +1176,7 @@
       "addedAt": "2026-07-30T13:42:17.608Z"
     },
     {
-      "group": "all",
+      "group": "gaipg5h",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -1659,7 +1679,7 @@
       "addedAt": "2026-07-30T13:47:05.351Z"
     },
     {
-      "group": "gtqlqfo",
+      "group": "lib",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -1730,7 +1750,7 @@
       "addedAt": "2026-07-30T13:47:18.494Z"
     },
     {
-      "group": "gaipg5h",
+      "group": "lib",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -1902,7 +1922,7 @@
       "isDependency": true
     },
     {
-      "group": "g0ableu",
+      "group": "lib",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -2111,7 +2131,7 @@
       "addedAt": "2026-07-30T13:48:59.406Z"
     },
     {
-      "group": "all",
+      "group": "gr3lbnn",
       "requires": [
         "sk9knFPE"
       ],
@@ -2327,7 +2347,7 @@
       "addedAt": "2026-07-30T13:52:28.063Z"
     },
     {
-      "group": "all",
+      "group": "lib",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -2674,7 +2694,7 @@
       "addedAt": "2026-07-30T13:54:05.244Z"
     },
     {
-      "group": "g2tmky8",
+      "group": "gaipg5h",
       "requires": [
         "QAGBst4M"
       ],
@@ -2776,7 +2796,7 @@
       "addedAt": "2026-07-30T13:54:26.489Z"
     },
     {
-      "group": "gg5k2nb",
+      "group": "gaipg5h",
       "requires": [
         "rLLJ1OZM"
       ],
@@ -3571,7 +3591,7 @@
       "addedAt": "2026-07-30T14:01:41.852Z"
     },
     {
-      "group": "g2tmky8",
+      "group": "lib",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -3606,7 +3626,7 @@
       "isDependency": true
     },
     {
-      "group": "gr522fl",
+      "group": "all",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -3780,7 +3800,7 @@
       "addedAt": "2026-07-30T15:08:54.430Z"
     },
     {
-      "group": "all",
+      "group": "gaipg5h",
       "requires": [
         "QAGBst4M"
       ],
@@ -3887,7 +3907,7 @@
       "addedAt": "2026-07-30T15:09:47.799Z"
     },
     {
-      "group": "all",
+      "group": "lib",
       "requires": [
         "ordsPcFz"
       ],
@@ -4030,7 +4050,7 @@
       "addedAt": "2026-07-30T15:11:38.358Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [
         "R2OftAxM",
         "NTi7d3Xc"
@@ -4066,7 +4086,7 @@
       "addedAt": "2026-07-30T15:12:16.195Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [
         "R2OftAxM",
         "Tkikq67H"
@@ -4102,7 +4122,7 @@
       "addedAt": "2026-07-30T15:12:29.945Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [
         "LNytGWDc",
         "R2OftAxM"
@@ -4174,7 +4194,7 @@
       "addedAt": "2026-07-30T15:13:07.313Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -4207,7 +4227,7 @@
       "addedAt": "2026-07-30T15:13:13.898Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [
         "R2OftAxM"
       ],
@@ -4242,7 +4262,7 @@
       "addedAt": "2026-07-30T15:13:24.855Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -4275,7 +4295,7 @@
       "addedAt": "2026-07-30T15:13:36.423Z"
     },
     {
-      "group": "all",
+      "group": "gscw41m",
       "requires": [
         "R2OftAxM"
       ],
@@ -4415,7 +4435,7 @@
       "addedAt": "2026-07-30T15:15:24.240Z"
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd",
         "LNytGWDc"
@@ -4451,7 +4471,7 @@
       "addedAt": "2026-07-30T15:15:27.182Z"
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd"
       ],
@@ -4486,7 +4506,7 @@
       "addedAt": "2026-07-30T15:15:40.235Z"
     },
     {
-      "group": "gepvdav",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd",
         "T9PomCSv"
@@ -4556,7 +4576,7 @@
       "isDependency": true
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd"
       ],
@@ -4591,7 +4611,7 @@
       "addedAt": "2026-07-30T15:16:31.887Z"
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -4626,7 +4646,7 @@
       "addedAt": "2026-07-30T15:17:01.902Z"
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd",
         "LNytGWDc"
@@ -4662,7 +4682,7 @@
       "addedAt": "2026-07-30T15:17:14.465Z"
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [
         "gu7yAYhd",
         "T9PomCSv",
@@ -4699,7 +4719,7 @@
       "addedAt": "2026-07-30T15:17:30.955Z"
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "Ck4E7v7R"
       ],
@@ -4770,7 +4790,7 @@
       "isDependency": true
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "XxWD5pD3"
       ],
@@ -4805,7 +4825,7 @@
       "addedAt": "2026-07-30T15:18:01.819Z"
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "Ce6I4WUE",
         "XxWD5pD3"
@@ -4875,7 +4895,7 @@
       "isDependency": true
     },
     {
-      "group": "all",
+      "group": "gy6lpg7",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -4908,7 +4928,7 @@
       "addedAt": "2026-07-30T15:18:09.206Z"
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "XxWD5pD3",
         "SglcIh0L"
@@ -4980,7 +5000,7 @@
       "isDependency": true
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "XxWD5pD3",
         "UhW5uCKw"
@@ -5050,7 +5070,7 @@
       "isDependency": true
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [],
       "incompatible": [],
       "source": "modrinth",
@@ -5083,7 +5103,7 @@
       "addedAt": "2026-07-30T15:18:55.209Z"
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "XxWD5pD3"
       ],
@@ -5118,7 +5138,7 @@
       "addedAt": "2026-07-30T15:18:58.065Z"
     },
     {
-      "group": "all",
+      "group": "gfb0vas",
       "requires": [
         "XxWD5pD3"
       ],
@@ -5187,7 +5207,7 @@
       "addedAt": "2026-07-30T15:19:25.640Z"
     },
     {
-      "group": "all",
+      "group": "gkceso1",
       "requires": [
         "hB899VmG"
       ],
@@ -5222,7 +5242,7 @@
       "addedAt": "2026-07-30T15:19:30.634Z"
     },
     {
-      "group": "all",
+      "group": "gkceso1",
       "requires": [
         "hB899VmG"
       ],
@@ -5257,7 +5277,7 @@
       "addedAt": "2026-07-30T15:19:44.440Z"
     },
     {
-      "group": "all",
+      "group": "gr3lbnn",
       "requires": [
         "hB899VmG"
       ],
@@ -5292,7 +5312,7 @@
       "addedAt": "2026-07-30T15:19:46.569Z"
     },
     {
-      "group": "all",
+      "group": "gkceso1",
       "requires": [
         "hB899VmG",
         "lhGA9TYQ"
@@ -5328,7 +5348,7 @@
       "addedAt": "2026-07-30T15:19:57.058Z"
     },
     {
-      "group": "gepvdav",
+      "group": "gkceso1",
       "requires": [
         "lhGA9TYQ",
         "gu7yAYhd",
@@ -5363,9 +5383,254 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T15:20:14.633Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [
+        "LNytGWDc",
+        "umyGl7zF"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "T38eAZQC",
+      "slug": "kubejs-create",
+      "name": "KubeJS Create",
+      "summary": "KubeJS Create integration",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/T38eAZQC/a64dad7d028d11258640b48798614759ae1fb2a4_96.webp",
+      "versionId": "1qmcLagN",
+      "versionNumber": "2101.3.1-build.18",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "url": "https://cdn.modrinth.com/data/T38eAZQC/versions/1qmcLagN/kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "size": 38629,
+      "hashes": {
+        "sha1": "f54d9ff53909771d27e4d9d135c3707cd5d5f855",
+        "sha512": "b2c3064a06f7a06aa479c38daa72fcf88e31e753cb16c53435690b2472f71acea49fe3fcab09a1e5d6fed88b289941f9ecf3f71ba9a7b8b84397cab2b8d9801d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:09.208Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [
+        "Ce6I4WUE",
+        "umyGl7zF"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "sY2Fy24K",
+      "slug": "kubejs-mekanism",
+      "name": "KubeJS Mekanism",
+      "summary": "Mekanism integration for KubeJS",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/sY2Fy24K/57dc1f016c1e177fdfc32817e3fc00d48926680e_96.webp",
+      "versionId": "sbx1D4Jz",
+      "versionNumber": "2101.1.7-build.18",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "url": "https://cdn.modrinth.com/data/sY2Fy24K/versions/sbx1D4Jz/kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+      "size": 58054,
+      "hashes": {
+        "sha1": "e605f4ef57395cb91f4438165c59f8536223ae10",
+        "sha512": "c03228f4442db31eb7b9c485a9e2fa5e9b08f0d6faa97a8a0a905d8f8169e7efe8c04fbf82dcf3f8d5a8a46c280a54d8a608bf9897786fa8819d857af1a17e54"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:33.166Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "10UMLVgM",
+      "slug": "kubejs-diesel-generators",
+      "name": "KubeJS Diesel Generators",
+      "summary": "Create: Diesel Generators integration for KubeJS",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/10UMLVgM/bd9ccfa2babbc7fd8c9389d91bc30af0d1798936_96.webp",
+      "versionId": "QnpXNcWf",
+      "versionNumber": "1.21.1-1.2.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "dg_js-1.21.1-1.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/10UMLVgM/versions/QnpXNcWf/dg_js-1.21.1-1.2.3.jar",
+      "size": 125254,
+      "hashes": {
+        "sha1": "8db0ee749545b020d71d9db22ea5e8247cba28f5",
+        "sha512": "501d630ba2b59c042bdca1cf868215fcf79d6cc47395b71f59f24eb68b1ffef14c5b81615c6d3cf4dad74e27c53bbc08eb2372d0604e195399f5f962fb7764a9"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:35.253Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [
+        "T9PomCSv",
+        "umyGl7zF"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "aH1sOU2k",
+      "slug": "kubejsable",
+      "name": "KubeJSable",
+      "summary": "KubeJS x Sable Addon!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/aH1sOU2k/0f4909bf35e358e21ead8fe81ff57fa820afd38e_96.webp",
+      "versionId": "jxjUAAAq",
+      "versionNumber": "1.1.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejsable-1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/aH1sOU2k/versions/jxjUAAAq/kubejsable-1.1.0.jar",
+      "size": 92585,
+      "hashes": {
+        "sha1": "389ce9c541ace0130aa9f62044784f09c5335e7d",
+        "sha512": "5c92e42887781f6d5db5520a6d74c63de44e496dc01079244419778fe1ff0edc34393357dcede85e852a51461cf2f92a1cc03789d871c4675aa0b86b58258c3d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:38.328Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [
+        "R2OftAxM",
+        "umyGl7zF"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "apt5xJoR",
+      "slug": "kubejs-delight",
+      "name": "KubeJS Delight",
+      "summary": "Farmer's Delight integration with KubeJS",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/apt5xJoR/4267d8d57e132ef211a7da3b01b3228aaf04b917.png",
+      "versionId": "YM06FtFG",
+      "versionNumber": "1.21.1-1.1.6",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "kubejsdelight-1.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/apt5xJoR/versions/YM06FtFG/kubejsdelight-1.1.6.jar",
+      "size": 20406,
+      "hashes": {
+        "sha1": "66a5de83677d38828242ab3dc96bf1b6f2771198",
+        "sha512": "6e3e8d2e9b4f95cca2fd9cd068b560d9650262802ffa0cc857342a8535ecb1ab6c7e718c0b73fa15f4663a98fc9d8849d7c0a1a2e6f0f406d76ca351589ae678"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:39.206Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "HXlL9LeK",
+      "slug": "kubejs-tfmg",
+      "name": "KubeJS TFMG",
+      "summary": "KubeJS intergration for Create: The Factory Must Grow",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/HXlL9LeK/cca113248ef7fd09002580936ac80e72b297acd0_96.webp",
+      "versionId": "fJuJuW8Z",
+      "versionNumber": "1.21.1-1.0.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "tfmgjs-1.21.1-1.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/HXlL9LeK/versions/fJuJuW8Z/tfmgjs-1.21.1-1.0.1.jar",
+      "size": 209819,
+      "hashes": {
+        "sha1": "c016be15e96c4d0329bdbc546a9ddfbfc266b62d",
+        "sha512": "8b68f12448c2912b815615ce9cdffece58341d3536e8201cbe96c7f701f9fe17d55d82b4a844df38e5b885a8b89502640f2d636755b260d57479324ab57aa1ba"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:43.566Z"
+    },
+    {
+      "group": "gr3lbnn",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "i8DkrJYa",
+      "slug": "kubejs-gui",
+      "name": "KubeJS GUI Overhauled",
+      "summary": "An in-game GUI for adding custom recipes without code, modded or not!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/i8DkrJYa/1e7e4a24891e38658b1d30c4090297bf31047003.png",
+      "versionId": "n40FypoI",
+      "versionNumber": "2.0.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "streetskubegui-neoforge-1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/i8DkrJYa/versions/n40FypoI/streetskubegui-neoforge-1.0.0.jar",
+      "size": 191567,
+      "hashes": {
+        "sha1": "51a452268bac4dff7cc5db9cdba78073d8c8f857",
+        "sha512": "da71f534bc095bc7e2a71275948b3bf0218efdd74c0aed9fc5e6911e6a46e1ebc2feda05f9c4d5c0554a0b7491c5dd9c33a000f689c30560e1550414e57d8a6c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T15:30:46.023Z"
     }
   ],
-  "updatedAt": "2026-07-30T15:21:49.330Z",
+  "updatedAt": "2026-07-30T15:31:19.700Z",
   "side": "client",
-  "generatedAt": "2026-07-30T15:21:49.332Z"
+  "generatedAt": "2026-07-30T15:31:19.702Z"
 }
