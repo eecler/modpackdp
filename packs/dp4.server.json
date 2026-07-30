@@ -14,11 +14,228 @@
   "groups": [
     {
       "id": "all",
-      "name": "Все моды"
+      "name": "Основное"
+    },
+    {
+      "id": "g0ableu",
+      "name": "Оптимизация"
+    },
+    {
+      "id": "gg5k2nb",
+      "name": "Красота (клиент)"
+    },
+    {
+      "id": "lib",
+      "name": "Библиотеки"
     }
   ],
-  "mods": [],
-  "updatedAt": "2026-07-30T13:31:58.402Z",
+  "mods": [
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "uXXizFIs",
+      "slug": "ferrite-core",
+      "name": "FerriteCore",
+      "summary": "Memory usage optimizations",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+      "versionId": "x7kQWVju",
+      "versionNumber": "7.0.3-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "hashes": {
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+        "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:32:47.250Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "gvQqBUqZ",
+      "slug": "lithium",
+      "name": "Lithium",
+      "summary": "No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+      "versionId": "DDUrRVCA",
+      "versionNumber": "mc1.21.1-0.15.4-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+      "size": 774220,
+      "hashes": {
+        "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+        "sha512": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:33:10.599Z"
+    },
+    {
+      "group": "all",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "EsAfCjCV",
+      "slug": "appleskin",
+      "name": "AppleSkin",
+      "summary": "Food/hunger-related HUD improvements",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+      "versionId": "uAKA6Laj",
+      "versionNumber": "3.0.9+mc1.21",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "size": 75804,
+      "hashes": {
+        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:33:46.149Z"
+    },
+    {
+      "group": "g0ableu",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "nmDcB62a",
+      "slug": "modernfix",
+      "name": "ModernFix",
+      "summary": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/nmDcB62a/2af94de5e08ae54567ee86b968fc7ce076d9fee5_96.webp",
+      "versionId": "VsJnrw8k",
+      "versionNumber": "5.27.20+mc1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+      "size": 599474,
+      "hashes": {
+        "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
+        "sha512": "b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:33:53.864Z"
+    },
+    {
+      "group": "gg5k2nb",
+      "requires": [
+        "Aqlf1Shp"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "u58R1TMW",
+      "slug": "connector",
+      "name": "Sinytra Connector",
+      "summary": "Lets you play Fabric mods on NeoForge",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/u58R1TMW/cc0775e1d038b26b7c91144fe4c5ee3b21d3a6a3_96.webp",
+      "versionId": "kDbM9LpX",
+      "versionNumber": "2.0.0-beta.15+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "connector-2.0.0-beta.15+1.21.1-full.jar",
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/kDbM9LpX/connector-2.0.0-beta.15%2B1.21.1-full.jar",
+      "size": 4527056,
+      "hashes": {
+        "sha1": "3ca84be625bb792f796dd50963d4d21842370893",
+        "sha512": "71b9a887298d3f60c3f5ae72835a6e146f3e664184f1d60edef5e2b989e5b6ef460757526e87a3b1a162e5778ea932aa4da8223aa557ffa2178ffb574a42533d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:34:40.064Z",
+      "isDependency": true
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Aqlf1Shp",
+      "slug": "forgified-fabric-api",
+      "name": "Forgified Fabric API",
+      "summary": "Fabric API implemented on top of NeoForge",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Aqlf1Shp/bcdcfed483b0365807f75181eea89b7960cd3b1b_96.webp",
+      "versionId": "L9bk5uA9",
+      "versionNumber": "0.116.15+2.3.1+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
+      "size": 5590061,
+      "hashes": {
+        "sha1": "f3b5ff6e2ca338d8d9338acc5a1e47393e7b1ad2",
+        "sha512": "de6cc76a406371c6cab8600621ea9bf630a796baaa64afa2103a75cddcc8ab52e0a15a5c3dec9b2ed2cf3efcd7d93c622434eb3e8d007361fdd54f2504c09757"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-07-30T13:34:40.310Z",
+      "isDependency": true
+    }
+  ],
+  "updatedAt": "2026-07-30T13:35:21.931Z",
   "side": "server",
-  "generatedAt": "2026-07-30T13:31:58.403Z"
+  "generatedAt": "2026-07-30T13:35:21.932Z"
 }
