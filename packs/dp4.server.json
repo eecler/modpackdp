@@ -1100,42 +1100,6 @@
       "isDependency": true
     },
     {
-      "summary": "Adds the best controller support to Minecraft Java edition!",
-      "notes": "",
-      "gameVersions": [
-        "1.21",
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [
-        "1eAoo2KR"
-      ],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "gaipg5h",
-      "projectId": "DOUdJVEm",
-      "slug": "controlify",
-      "name": "Controlify (Controller support)",
-      "icon": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
-      "versionId": "RqsNKKLK",
-      "versionNumber": "3.0.1+lts",
-      "filename": "controlify-3.0.1+lts+1.21.1-neoforge.jar",
-      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/RqsNKKLK/controlify-3.0.1%2Blts%2B1.21.1-neoforge.jar",
-      "size": 7981721,
-      "hashes": {
-        "sha1": "6d904472e1c95bd9d8b5e7c5421b8db628915e20",
-        "sha512": "cfffb25b9e62ca39cd6f54ab0b83902feda23a763ae9e345a11609f0138de1b6c3ab7a78c8fd5b7b309795e5c6d4911fd37cd7f8722a72cca6ad18e32cec461e"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T13:47:18.494Z"
-    },
-    {
       "summary": "A builder-based configuration library for Minecraft!",
       "notes": "",
       "gameVersions": [
@@ -6182,27 +6146,27 @@
       "addedAt": "2026-07-30T16:21:22.436Z"
     },
     {
-      "group": "gscw41m",
-      "requires": [
-        "R2OftAxM"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "YttyNOFA",
-      "slug": "cultural-delights",
-      "name": "Cultural Delights",
       "summary": "A Farmer's Delight addon that adds food systems from around the world.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/YttyNOFA/d857243f0e7dedd3d7f552c4371326773629e42e.png",
-      "versionId": "yNIrDVfJ",
-      "versionNumber": "0.17.8",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gscw41m",
+      "projectId": "YttyNOFA",
+      "slug": "cultural-delights",
+      "name": "Cultural Delights",
+      "icon": "https://cdn.modrinth.com/data/YttyNOFA/d857243f0e7dedd3d7f552c4371326773629e42e.png",
+      "versionId": "yNIrDVfJ",
+      "versionNumber": "0.17.8",
       "filename": "culturaldelights-0.17.8.jar",
       "url": "https://cdn.modrinth.com/data/YttyNOFA/versions/yNIrDVfJ/culturaldelights-0.17.8.jar",
       "size": 261247,
@@ -6217,27 +6181,27 @@
       "addedAt": "2026-07-30T16:22:50.959Z"
     },
     {
-      "group": "gscw41m",
-      "requires": [
-        "hYykXjDp"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "6txNkua3",
-      "slug": "immersive-paintings",
-      "name": "Immersive Paintings",
       "summary": "Drag and drop, pixelate and hang up beautiful art. On servers too.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp",
-      "versionId": "DeOfrXC3",
-      "versionNumber": "0.7.8+1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "hYykXjDp"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gscw41m",
+      "projectId": "6txNkua3",
+      "slug": "immersive-paintings",
+      "name": "Immersive Paintings",
+      "icon": "https://cdn.modrinth.com/data/6txNkua3/8c7abdd0a185dace29d4c4a0476f2d8af29475a9_96.webp",
+      "versionId": "DeOfrXC3",
+      "versionNumber": "0.7.8+1.21.1",
       "filename": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
       "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
       "size": 5500916,
@@ -6252,25 +6216,25 @@
       "addedAt": "2026-07-30T16:23:08.341Z"
     },
     {
-      "group": "lib",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "RH2KUdKJ",
-      "slug": "shatterbyte-lib",
-      "name": "ShatterLib | OctoLib",
       "summary": "Collection of shared code for OctoStudios' mods",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp",
-      "versionId": "yVCCi6TK",
-      "versionNumber": "0.6.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "RH2KUdKJ",
+      "slug": "shatterbyte-lib",
+      "name": "ShatterLib | OctoLib",
+      "icon": "https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp",
+      "versionId": "yVCCi6TK",
+      "versionNumber": "0.6.2",
       "filename": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
       "size": 544378,
@@ -6286,25 +6250,25 @@
       "isDependency": true
     },
     {
-      "group": "lib",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "49C5QgTK",
-      "slug": "fragmentum",
-      "name": "Fragmentum",
       "summary": "The lightweight framework for the Obscuria Collection cross-platform mods",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/49C5QgTK/f434c2e5058fa28cf87aeec43e6680a6ca48178e_96.webp",
-      "versionId": "CUGxFf8Z",
-      "versionNumber": "2.2.4",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "49C5QgTK",
+      "slug": "fragmentum",
+      "name": "Fragmentum",
+      "icon": "https://cdn.modrinth.com/data/49C5QgTK/f434c2e5058fa28cf87aeec43e6680a6ca48178e_96.webp",
+      "versionId": "CUGxFf8Z",
+      "versionNumber": "2.2.4",
       "filename": "fragmentum-neoforge-1.21.1-2.2.4.jar",
       "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/CUGxFf8Z/fragmentum-neoforge-1.21.1-2.2.4.jar",
       "size": 1936521,
@@ -6320,21 +6284,8 @@
       "isDependency": true
     },
     {
-      "group": "gr522fl",
-      "requires": [
-        "e0M1UDsY"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "yQj7xqEM",
-      "slug": "inventory-totem",
-      "name": "Inventory Totem",
       "summary": "🎴 Makes the totem of undying effect work when it's anywhere in the inventory.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/yQj7xqEM/icon.png",
-      "versionId": "uCOQDBBn",
-      "versionNumber": "1.21.1-3.4-fabric+forge+neo",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6345,6 +6296,19 @@
         "neoforge",
         "quilt"
       ],
+      "requires": [
+        "e0M1UDsY"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gr522fl",
+      "projectId": "yQj7xqEM",
+      "slug": "inventory-totem",
+      "name": "Inventory Totem",
+      "icon": "https://cdn.modrinth.com/data/yQj7xqEM/icon.png",
+      "versionId": "uCOQDBBn",
+      "versionNumber": "1.21.1-3.4-fabric+forge+neo",
       "filename": "inventorytotem-1.21.1-3.4.jar",
       "url": "https://cdn.modrinth.com/data/yQj7xqEM/versions/uCOQDBBn/inventorytotem-1.21.1-3.4.jar",
       "size": 24904,
@@ -6359,27 +6323,27 @@
       "addedAt": "2026-07-30T16:25:25.674Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "MBAkmtvl"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "Boon8xwi",
-      "slug": "inventory-essentials",
-      "name": "Inventory Essentials",
       "summary": "The most essential inventory tweaks. Now with sorting!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/Boon8xwi/12b8c77a7db7ebe5a41caf3e0a185bfce6397e3a_96.webp",
-      "versionId": "7oG8uNtJ",
-      "versionNumber": "21.1.17+neoforge-1.21.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "MBAkmtvl"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "Boon8xwi",
+      "slug": "inventory-essentials",
+      "name": "Inventory Essentials",
+      "icon": "https://cdn.modrinth.com/data/Boon8xwi/12b8c77a7db7ebe5a41caf3e0a185bfce6397e3a_96.webp",
+      "versionId": "7oG8uNtJ",
+      "versionNumber": "21.1.17+neoforge-1.21.1",
       "filename": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
       "url": "https://cdn.modrinth.com/data/Boon8xwi/versions/7oG8uNtJ/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
       "size": 200251,
@@ -6394,22 +6358,8 @@
       "addedAt": "2026-07-30T16:25:29.933Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [
-        "M1953qlQ",
-        "lhGA9TYQ"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "zCh7omyG",
-      "slug": "better-archeology",
-      "name": "Better Archeology",
       "summary": "Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp",
-      "versionId": "vNdCUsLm",
-      "versionNumber": "1.21.1-1.3.7",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6417,6 +6367,20 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "M1953qlQ",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "zCh7omyG",
+      "slug": "better-archeology",
+      "name": "Better Archeology",
+      "icon": "https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp",
+      "versionId": "vNdCUsLm",
+      "versionNumber": "1.21.1-1.3.7",
       "filename": "betterarcheology-neoforge-1.21.1-1.3.7.jar",
       "url": "https://cdn.modrinth.com/data/zCh7omyG/versions/vNdCUsLm/betterarcheology-neoforge-1.21.1-1.3.7.jar",
       "size": 3105868,
@@ -6431,19 +6395,8 @@
       "addedAt": "2026-07-30T16:26:33.619Z"
     },
     {
-      "group": "lib",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "M1953qlQ",
-      "slug": "resourceful-config",
-      "name": "Resourceful Config",
       "summary": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/M1953qlQ/cadcab644905f7e9ee92220d29f5c27113eb167b_96.webp",
-      "versionId": "lSbyRD6v",
-      "versionNumber": "3.0.11",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6451,6 +6404,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "M1953qlQ",
+      "slug": "resourceful-config",
+      "name": "Resourceful Config",
+      "icon": "https://cdn.modrinth.com/data/M1953qlQ/cadcab644905f7e9ee92220d29f5c27113eb167b_96.webp",
+      "versionId": "lSbyRD6v",
+      "versionNumber": "3.0.11",
       "filename": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "size": 341009,
@@ -6466,19 +6430,8 @@
       "isDependency": true
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "RG50cUrX",
-      "slug": "twigs",
-      "name": "Twigs",
       "summary": "A Minecraft building blocks mod",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/RG50cUrX/5224a35ff080d8a83733e35f6e4b5522e2260b3e_96.webp",
-      "versionId": "r1egimV5",
-      "versionNumber": "1.21.1-3.1.2",
       "gameVersions": [
         "1.21.1"
       ],
@@ -6486,6 +6439,17 @@
         "forge",
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "RG50cUrX",
+      "slug": "twigs",
+      "name": "Twigs",
+      "icon": "https://cdn.modrinth.com/data/RG50cUrX/5224a35ff080d8a83733e35f6e4b5522e2260b3e_96.webp",
+      "versionId": "r1egimV5",
+      "versionNumber": "1.21.1-3.1.2",
       "filename": "Twigs-1.21.1-3.1.2.jar",
       "url": "https://cdn.modrinth.com/data/RG50cUrX/versions/r1egimV5/Twigs-1.21.1-3.1.2.jar",
       "size": 2711016,
@@ -6500,19 +6464,8 @@
       "addedAt": "2026-07-30T16:27:56.817Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "YZlvzIFq",
-      "slug": "room-for-two",
-      "name": "Room For Two",
       "summary": "Lets you share a bed with a villager or another player.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/YZlvzIFq/c34d5cac906429f46a40e6be57a11feb6a5499b7.png",
-      "versionId": "T7zzN9HQ",
-      "versionNumber": "0.2.0",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6520,6 +6473,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "YZlvzIFq",
+      "slug": "room-for-two",
+      "name": "Room For Two",
+      "icon": "https://cdn.modrinth.com/data/YZlvzIFq/c34d5cac906429f46a40e6be57a11feb6a5499b7.png",
+      "versionId": "T7zzN9HQ",
+      "versionNumber": "0.2.0",
       "filename": "roomfortwo-neoforge-1.21.1-0.2.0.jar",
       "url": "https://cdn.modrinth.com/data/YZlvzIFq/versions/T7zzN9HQ/roomfortwo-neoforge-1.21.1-0.2.0.jar",
       "size": 27621,
@@ -6534,25 +6498,25 @@
       "addedAt": "2026-07-30T16:28:17.815Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "iP3wH1ha",
-      "slug": "macaws-stairs",
-      "name": "Macaw's Stairs",
       "summary": "Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/iP3wH1ha/7760df8839c395ee42099387cd9cb0fe34b2626e_96.webp",
-      "versionId": "4t8L0dGP",
-      "versionNumber": "1.0.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "iP3wH1ha",
+      "slug": "macaws-stairs",
+      "name": "Macaw's Stairs",
+      "icon": "https://cdn.modrinth.com/data/iP3wH1ha/7760df8839c395ee42099387cd9cb0fe34b2626e_96.webp",
+      "versionId": "4t8L0dGP",
+      "versionNumber": "1.0.2",
       "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
       "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
       "size": 529082,
@@ -6567,29 +6531,29 @@
       "addedAt": "2026-07-30T16:28:31.333Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "cl5ec0Qm",
-        "NTi7d3Xc",
-        "kkmrDlKT"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "s4B19O5h",
-      "slug": "macaws-byg-bwg",
-      "name": "Macaw's Oh The Biomes You'll Go / We've Gone",
       "summary": "A compatibility between Macaw's Mods and the different woods and stones of Oh The Biomes You'll Go / We've Gone",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/s4B19O5h/485d7094535895b7dcc2e3d67072be6c1fc699fc_96.webp",
-      "versionId": "UIM6ZYR1",
-      "versionNumber": "1.21.1-1.6",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "cl5ec0Qm",
+        "NTi7d3Xc",
+        "kkmrDlKT"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "s4B19O5h",
+      "slug": "macaws-byg-bwg",
+      "name": "Macaw's Oh The Biomes You'll Go / We've Gone",
+      "icon": "https://cdn.modrinth.com/data/s4B19O5h/485d7094535895b7dcc2e3d67072be6c1fc699fc_96.webp",
+      "versionId": "UIM6ZYR1",
+      "versionNumber": "1.21.1-1.6",
       "filename": "mcwbyg-neoforge-1.21.1-1.6.jar",
       "url": "https://cdn.modrinth.com/data/s4B19O5h/versions/UIM6ZYR1/mcwbyg-neoforge-1.21.1-1.6.jar",
       "size": 12774131,
@@ -6604,25 +6568,25 @@
       "addedAt": "2026-07-30T16:28:38.704Z"
     },
     {
-      "group": "lib",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "cl5ec0Qm",
-      "slug": "addonslib",
-      "name": "AddonsLib",
       "summary": "A library to facilitate registration between mods, in particular macaw's bridges/roofs/fences/etc...",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/cl5ec0Qm/5321c775f2d494d75acd7b2a3fe0905e01314bfe_96.webp",
-      "versionId": "7SEGJEQj",
-      "versionNumber": "1.21.1-1.14",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "lib",
+      "projectId": "cl5ec0Qm",
+      "slug": "addonslib",
+      "name": "AddonsLib",
+      "icon": "https://cdn.modrinth.com/data/cl5ec0Qm/5321c775f2d494d75acd7b2a3fe0905e01314bfe_96.webp",
+      "versionId": "7SEGJEQj",
+      "versionNumber": "1.21.1-1.14",
       "filename": "addonslib-neoforge-1.21.1-1.14.jar",
       "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7SEGJEQj/addonslib-neoforge-1.21.1-1.14.jar",
       "size": 131893,
@@ -6638,25 +6602,25 @@
       "isDependency": true
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "B8jaH3P1",
-      "slug": "macaws-roofs",
-      "name": "Macaw's Roofs",
       "summary": "Build roofs with actual roofs instead of stairs!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/B8jaH3P1/e6652e3ddfe1cc21188c7bf354a4570292791864_96.webp",
-      "versionId": "jiXRXiSt",
-      "versionNumber": "2.3.2",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "B8jaH3P1",
+      "slug": "macaws-roofs",
+      "name": "Macaw's Roofs",
+      "icon": "https://cdn.modrinth.com/data/B8jaH3P1/e6652e3ddfe1cc21188c7bf354a4570292791864_96.webp",
+      "versionId": "jiXRXiSt",
+      "versionNumber": "2.3.2",
       "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
       "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
       "size": 1784829,
@@ -6671,25 +6635,25 @@
       "addedAt": "2026-07-30T16:28:42.278Z"
     },
     {
-      "group": "all",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "kNxa8z3e",
-      "slug": "macaws-doors",
-      "name": "Macaw's Doors",
       "summary": "Adds vanilla doors with every wood color and new unique doors!\nSuch as western, garage, shoji and more...!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/kNxa8z3e/ced8fa00264400cbe06d622b92a6d1106cedc65d_96.webp",
-      "versionId": "u7BRX44F",
-      "versionNumber": "1.1.5",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "kNxa8z3e",
+      "slug": "macaws-doors",
+      "name": "Macaw's Doors",
+      "icon": "https://cdn.modrinth.com/data/kNxa8z3e/ced8fa00264400cbe06d622b92a6d1106cedc65d_96.webp",
+      "versionId": "u7BRX44F",
+      "versionNumber": "1.1.5",
       "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
       "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
       "size": 1190404,
@@ -6704,19 +6668,8 @@
       "addedAt": "2026-07-30T16:28:43.949Z"
     },
     {
-      "group": "g0ableu",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "gk3B4zrk",
-      "slug": "smooth-boot",
-      "name": "Smooth Boot",
       "summary": "This mod enhances CPU scheduling in Minecraft. As an unofficial fork of the Smooth Boot (Reloaded) mod, it adds support for new game versions.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/gk3B4zrk/ab672e6e713a9b88e086b1939117955ca7c904cb_96.webp",
-      "versionId": "717SN7LP",
-      "versionNumber": "1.0.0",
       "gameVersions": [
         "1.21",
         "1.21.1"
@@ -6724,6 +6677,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g0ableu",
+      "projectId": "gk3B4zrk",
+      "slug": "smooth-boot",
+      "name": "Smooth Boot",
+      "icon": "https://cdn.modrinth.com/data/gk3B4zrk/ab672e6e713a9b88e086b1939117955ca7c904cb_96.webp",
+      "versionId": "717SN7LP",
+      "versionNumber": "1.0.0",
       "filename": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
       "url": "https://cdn.modrinth.com/data/gk3B4zrk/versions/717SN7LP/SmoothBoot-NeoForge%2B1.21-1.0.0.jar",
       "size": 33070,
@@ -6738,27 +6702,27 @@
       "addedAt": "2026-07-30T16:29:28.861Z"
     },
     {
-      "group": "all",
-      "requires": [
-        "1eAoo2KR"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "F4TmfqsY",
-      "slug": "tiny-takeover-backport",
-      "name": "Tiny Takeover Backport",
       "summary": "A Minecraft mod that brings the complete Tiny Takeover drop to older Minecraft versions!",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/F4TmfqsY/e21ef5f74f2f2662956547fa1aa5b3144911745a_96.webp",
-      "versionId": "HWUqGyzN",
-      "versionNumber": "1.3.0-1.21.1-neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "1eAoo2KR"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "all",
+      "projectId": "F4TmfqsY",
+      "slug": "tiny-takeover-backport",
+      "name": "Tiny Takeover Backport",
+      "icon": "https://cdn.modrinth.com/data/F4TmfqsY/e21ef5f74f2f2662956547fa1aa5b3144911745a_96.webp",
+      "versionId": "HWUqGyzN",
+      "versionNumber": "1.3.0-1.21.1-neoforge",
       "filename": "tiny_takeover_backport-neoforge-1.21.1-1.3.0.jar",
       "url": "https://cdn.modrinth.com/data/F4TmfqsY/versions/HWUqGyzN/tiny_takeover_backport-neoforge-1.21.1-1.3.0.jar",
       "size": 1410234,
@@ -6773,25 +6737,25 @@
       "addedAt": "2026-07-30T16:30:44.565Z"
     },
     {
-      "group": "gaipg5h",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "FDqBVN2B",
-      "slug": "tiny-takeover-x-punchy",
-      "name": "Punchy! x Tiny Takeover",
       "summary": "Hold your baby mobs in first person with animations, better experienced with Punchy.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/FDqBVN2B/6dfc7c0fcb0193583ebdbdcdf67c307219644137.gif",
-      "versionId": "cCgFI4X8",
-      "versionNumber": "2.0.1",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gaipg5h",
+      "projectId": "FDqBVN2B",
+      "slug": "tiny-takeover-x-punchy",
+      "name": "Punchy! x Tiny Takeover",
+      "icon": "https://cdn.modrinth.com/data/FDqBVN2B/6dfc7c0fcb0193583ebdbdcdf67c307219644137.gif",
+      "versionId": "cCgFI4X8",
+      "versionNumber": "2.0.1",
       "filename": "punchy_puppies-2.0.1-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/FDqBVN2B/versions/cCgFI4X8/punchy_puppies-2.0.1-neoforge-1.21.1.jar",
       "size": 100618,
@@ -6806,19 +6770,8 @@
       "addedAt": "2026-07-30T16:30:46.695Z"
     },
     {
-      "group": "gr522fl",
-      "requires": [],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "ghrZDhGW",
-      "slug": "skinrestorer",
-      "name": "Skin Restorer",
       "summary": "A server-side mod for managing and restoring player skins.",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
-      "versionId": "RyUYnIVM",
-      "versionNumber": "2.9.0+1.21-neoforge",
       "gameVersions": [
         "1.21",
         "1.21.1",
@@ -6829,6 +6782,17 @@
       "loaders": [
         "neoforge"
       ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "gr522fl",
+      "projectId": "ghrZDhGW",
+      "slug": "skinrestorer",
+      "name": "Skin Restorer",
+      "icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+      "versionId": "RyUYnIVM",
+      "versionNumber": "2.9.0+1.21-neoforge",
       "filename": "skinrestorer-2.9.0+1.21-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/RyUYnIVM/skinrestorer-2.9.0%2B1.21-neoforge.jar",
       "size": 257883,
@@ -6843,7 +6807,7 @@
       "addedAt": "2026-07-30T16:56:24.101Z"
     }
   ],
-  "updatedAt": "2026-07-30T17:11:54.132Z",
+  "updatedAt": "2026-07-31T17:44:49.337Z",
   "side": "server",
-  "generatedAt": "2026-07-30T17:11:54.136Z"
+  "generatedAt": "2026-07-31T17:44:49.342Z"
 }
