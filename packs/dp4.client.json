@@ -2068,41 +2068,6 @@
       "isDependency": true
     },
     {
-      "summary": "Config API for adding Sodium options with a better categories menu",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [
-        "AANobbMI"
-      ],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "gaipg5h",
-      "projectId": "Es5v4eyq",
-      "slug": "sodium-options-api",
-      "name": "Sodium Options API",
-      "icon": "https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp",
-      "versionId": "lrsX3TMS",
-      "versionNumber": "neoforge-1.21.1-1.0.10",
-      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "size": 309122,
-      "hashes": {
-        "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
-        "sha512": "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T13:50:33.302Z"
-    },
-    {
       "summary": "Many changes to vanilla blocks",
       "notes": "",
       "gameVersions": [
@@ -4400,41 +4365,6 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-07-30T15:16:31.887Z"
-    },
-    {
-      "summary": "CC HQ Speakers A mod for Minecraft CC Tweaked Speaker's uses cc tweakeds speakers and adds higher quality support and most importantly mp3s",
-      "notes": "",
-      "gameVersions": [
-        "1.20.1",
-        "1.21.1"
-      ],
-      "loaders": [
-        "forge",
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "gy6lpg7",
-      "projectId": "ygA78R8l",
-      "slug": "cchq-speakers",
-      "name": "CC:HQ Speakers",
-      "icon": "https://cdn.modrinth.com/data/ygA78R8l/92b1c970f69d57ae7faba72cc5c636aaa3f7df7e_96.webp",
-      "versionId": "u5PEI5Ax",
-      "versionNumber": "1.0.1",
-      "filename": "hqspeaker-1.0.1-Forge1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/ygA78R8l/versions/u5PEI5Ax/hqspeaker-1.0.1-Forge1.20.1.jar",
-      "size": 519513,
-      "hashes": {
-        "sha1": "8bcadfd32bc34c361393250e10dd293c60aa2c4f",
-        "sha512": "8d3ff609b49874a04588c0a64953958e4e876f971abdcf4554ca29972b530d7b6c97c5b9d3f3cbda44ed01e1be8e681038b6565416e57722c490bb0f57bdd9aa"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "eecler",
-      "addedAt": "2026-07-30T15:17:01.902Z"
     },
     {
       "summary": "Adds compatibility between CC: Tweaked and Create through more peripherals!",
@@ -8248,7 +8178,7 @@
       "addedAt": "2026-07-30T16:30:46.695Z"
     }
   ],
-  "updatedAt": "2026-07-31T17:44:49.337Z",
+  "updatedAt": "2026-07-31T17:48:47.829Z",
   "side": "client",
-  "generatedAt": "2026-07-31T17:44:49.340Z"
+  "generatedAt": "2026-07-31T17:48:47.832Z"
 }
