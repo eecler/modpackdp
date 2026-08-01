@@ -1,7 +1,7 @@
 {
   "modpacked": 1,
   "id": "dplk",
-  "name": "Survival",
+  "name": "DODOPIZZA LK SEASON 4",
   "summary": "лучшая сблрка",
   "description": "лучшая сбокра. и точка",
   "version": "r",
@@ -13,12 +13,16 @@
   "author": "eecler",
   "groups": [
     {
-      "id": "all",
-      "name": "Все моды"
+      "id": "gr0mye4",
+      "name": "Оптимизация. Клиент"
+    },
+    {
+      "id": "g1xmvph",
+      "name": "Оптимизация (Клиент)"
     }
   ],
   "mods": [],
-  "updatedAt": "2026-08-01T17:34:22.284Z",
+  "updatedAt": "2026-08-01T17:35:45.037Z",
   "side": "server",
-  "generatedAt": "2026-08-01T17:34:22.284Z"
+  "generatedAt": "2026-08-01T17:35:45.037Z"
 }
