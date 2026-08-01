@@ -4588,9 +4588,855 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-08-01T18:54:24.941Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "g6sbyCTu",
+      "slug": "fruits-delight",
+      "name": "Fruits Delight",
+      "summary": "Adds fruits, jelly, juice, and fruit-based food in Farmer's Delight style",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/g6sbyCTu/4ecc5d554f260b876d21c427aa6c2bdf4457fd5c.png",
+      "versionId": "TWbuEFZt",
+      "versionNumber": "1.2.14",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "fruitsdelight-1.2.14.jar",
+      "url": "https://cdn.modrinth.com/data/g6sbyCTu/versions/TWbuEFZt/fruitsdelight-1.2.14.jar",
+      "size": 1910595,
+      "hashes": {
+        "sha1": "9e13ddd63337a180c6e69c0b3c7e622f1d27c71a",
+        "sha512": "473fd3b7cd94fd7daba34554143d70751816b6cd5bbf8b238e9a6d3ee7d80b2c2b9833840dea4c66c6ef4db35ebf0f2c03c3bad80e09b426938ea977a48dc3f5"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:55:32.018Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "gu7yAYhd",
+        "LNytGWDc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "fXt291FO",
+      "slug": "cccbridge",
+      "name": "CC:C Bridge",
+      "summary": "Adds compatibility between CC: Tweaked and Create through more peripherals!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/fXt291FO/c569721cae70f38b9599deae5576b74dd44188d6_96.webp",
+      "versionId": "MKK6cYI5",
+      "versionNumber": "1.7.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fXt291FO/versions/MKK6cYI5/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+      "size": 490733,
+      "hashes": {
+        "sha1": "2f0df007d6ed849266a505f0854ab07f55a58b41",
+        "sha512": "bcface30c088371b080ad998a521968d921b814a5d293492e9c5f37ed29630610bbaeb18f3aeaa93d48b2f2c54cd2a21a62130cfab97ce52031218ad7f415a45"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:56:40.550Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "gu7yAYhd",
+      "slug": "cc-tweaked",
+      "name": "CC: Tweaked",
+      "summary": "ComputerCraft fork adding programmable computers, turtles and more to Minecraft.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/gu7yAYhd/icon.png",
+      "versionId": "8XEJbAee",
+      "versionNumber": "1.120.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "cc-tweaked-1.21.1-forge-1.120.0.jar",
+      "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/8XEJbAee/cc-tweaked-1.21.1-forge-1.120.0.jar",
+      "size": 3126946,
+      "hashes": {
+        "sha1": "d992be398f5d28df278aa790b71dbf29f60ca5b4",
+        "sha512": "51efa19428f5815f76652fa57419133607771e0ffa023fe77b6d0fedfb894297b0b458a0de4a8ea1cfe1abddc11ce090e76e6436a1e0198bc2f1640506f9de9c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:56:40.799Z",
+      "isDependency": true
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "codAaoxh"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "bmOyRapU",
+      "slug": "better-world-loading",
+      "name": "Better World Loading",
+      "summary": "Adds more info to the world loading screen",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/bmOyRapU/2a2fbf7e9cb3cd4cbb77a39e3facab80841b8861.png",
+      "versionId": "9Nm7qDaq",
+      "versionNumber": "1.0-1.21.1-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "betterworldloadingnf21-1.0.jar",
+      "url": "https://cdn.modrinth.com/data/bmOyRapU/versions/9Nm7qDaq/betterworldloadingnf21-1.0.jar",
+      "size": 11620,
+      "hashes": {
+        "sha1": "83b2e9003981e0306ee57926cd192042ccb7cedd",
+        "sha512": "0ac39c0d03964d2414db161afd5cdcf6e7afa58095b83f4c40cf6fed2c3de060cb0bdf771901cf9cd6d0719951ecca6930ce17823f6632a059a454b840ca0cc3"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:56:54.263Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "codAaoxh",
+      "slug": "midnightlib",
+      "name": "MidnightLib",
+      "summary": "Common library providing a lightweight configuration system",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp",
+      "versionId": "6Gv5jvTB",
+      "versionNumber": "1.9.3+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar",
+      "size": 61217,
+      "hashes": {
+        "sha1": "e0c9a1ffc6a53435029a23d9c110c44620595469",
+        "sha512": "5913e7e8ebbffb72323514aa5bedce19056884416d0a33b38af1761ee74cfa600996cde9bd7d709ee2158476faa2e735b2e6ea6107296d471d2c5b7b35d9da6c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:56:54.270Z",
+      "isDependency": true
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "AN0CZD9P",
+      "slug": "petrols-parts",
+      "name": "Petrol's Parts",
+      "summary": "Unique kinetic components for Create",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/AN0CZD9P/642d649fd0ea1f4a226129205a2657c2610d9f56_96.webp",
+      "versionId": "bgJuazQk",
+      "versionNumber": "1.21.1-1.3.0-snapshot-1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "petrolsparts-1.21.1-1.3.0-snapshot-1.jar",
+      "url": "https://cdn.modrinth.com/data/AN0CZD9P/versions/bgJuazQk/petrolsparts-1.21.1-1.3.0-snapshot-1.jar",
+      "size": 868768,
+      "hashes": {
+        "sha1": "6e7169c6bec8fd22d18cd81cd9381d5cc2d1e5ea",
+        "sha512": "f90607bf46c5e87f546e1dcd042f6b93d1566ba69f18c096256d7dd54bf69b92e226f518562fc8e78074c259f0706b362e79185fee14723cd80208c6b1d05a37"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:57:40.734Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "blQC9FUr",
+      "slug": "colourful-earth",
+      "name": "Colourful Earth",
+      "summary": "You will now be able to dye any dirt block in the game, using your favorite colored dyes! In this way, you will be able to use a lot of new blocks to decorate your buildings or games.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/blQC9FUr/75b6236746017ebc947df47b717f6519e3ce3e5c_96.webp",
+      "versionId": "oGr7P3O9",
+      "versionNumber": "1.0.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "colourfulearth-1.21-1.0.0-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/blQC9FUr/versions/oGr7P3O9/colourfulearth-1.21-1.0.0-NeoForge.jar",
+      "size": 305739,
+      "hashes": {
+        "sha1": "d439b880a92df51d2ca6ecd3c951aca796bd5e28",
+        "sha512": "0a9423244a4dd2c79b02f433800021b7bbca1b97cb3ddb189cbf015734ac7f96e75c9e8c3566ca0fe80a2d67b753075c78bfda028ece55d96fba8ea9c446d943"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:58:11.597Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "9s6osm5g"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "fin1PX4m",
+      "slug": "inline",
+      "name": "Inline",
+      "summary": "A mod for inline text rendering",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/fin1PX4m/097acf6d31272fc63dc900f8cdb1175c461cd35a.png",
+      "versionId": "FhE1RJsR",
+      "versionNumber": "1.21.1-1.2.2-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "inline-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://cdn.modrinth.com/data/fin1PX4m/versions/FhE1RJsR/inline-neoforge-1.21.1-1.2.2.jar",
+      "size": 215488,
+      "hashes": {
+        "sha1": "f18ac96a7733ce3ce4d9b009d582fd2f88fe101d",
+        "sha512": "e293d0e97cdef6df28890f6b3c2cc1335b625e9c37601fb9e1be2629f8e878652de0fd8eb7027934219c5dc7081bcb39c8751b7f0aab8d446e9683003d1e33a1"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:58:52.789Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hIu9KJTT",
+      "slug": "brewin-and-chewin",
+      "name": "Brewin' And Chewin'",
+      "summary": "Fermenting addon for Farmer's Delight.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hIu9KJTT/f7c591a80046859d3d45c04ecbbc54d264483d5e.png",
+      "versionId": "MbcR48Ou",
+      "versionNumber": "4.5.0+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/MbcR48Ou/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar",
+      "size": 1575450,
+      "hashes": {
+        "sha1": "bc86c776779b16dec386f4b667ff46d9e2ecb88d",
+        "sha512": "2d4d264564d12784f5425177fb1b88b5ec0d1672c0957d6a78eb1e12ffa5e0e31a7f85f8beb9c02df0489043f5d2ae5889fc3f589e8e5f8ee7971a458ba0f34d"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T18:59:26.813Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "XaDC71GB"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Tkikq67H",
+      "slug": "regions-unexplored",
+      "name": "Regions Unexplored",
+      "summary": "A stack of new biomes spread across the Overworld and Nether!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Tkikq67H/e1e85f8a91f09154c2e822fd9a15e167c0230a31_96.webp",
+      "versionId": "5A8LFnXX",
+      "versionNumber": "0.6.2-neoforge-21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "regions-unexplored-0.6.2-neoforge-21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/5A8LFnXX/regions-unexplored-0.6.2-neoforge-21.1.jar",
+      "size": 6365953,
+      "hashes": {
+        "sha1": "122586c147f0aa1efdc655792b6ef24aebbbba84",
+        "sha512": "b6475d26f22a5a3ed957b76b85f3d51d3422c0fbef16f777b74bfe9d70fd1673d75cb0c4e2a2a56121f0d0d6780a9e92fdcd7023b4f1d0d2d746d54c64c12f3c"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:00:48.471Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "codAaoxh"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "GNxdLCoP",
+      "slug": "cull-leaves",
+      "name": "Cull Leaves",
+      "summary": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/GNxdLCoP/icon.png",
+      "versionId": "V7PU4g8I",
+      "versionNumber": "4.1.1+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "cullleaves-neoforge-4.1.1+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/V7PU4g8I/cullleaves-neoforge-4.1.1%2B1.21.1.jar",
+      "size": 94735,
+      "hashes": {
+        "sha1": "0ea35e716f486a0607e01db8928ff7bea8148b39",
+        "sha512": "743c95fce00c21c45b0ecfe0a1b82b867c05807637c3f8aae06f77f1ddd898b4f0311bcfc970b071663d477221fd7acec6c6f75d460601d709eed1f0a64087a9"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:00:54.206Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "twkfQtEc"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "z3TzcquW",
+      "slug": "fast-paintings",
+      "name": "Fast Paintings",
+      "summary": "Fixes painting rendering, increasing their performance and allowing them to have custom models",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/z3TzcquW/607a27538c10ba588108eb9717c975a21801a8f9_96.webp",
+      "versionId": "PQ155hbf",
+      "versionNumber": "neoforge_1.21-1.3.0",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "fastpaintings-1.21-1.3.0-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/PQ155hbf/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "size": 155810,
+      "hashes": {
+        "sha1": "6df81c4fe659eaee718cb0856c79e4cfa272e9ea",
+        "sha512": "7785533061b4c53bf26c79629016bbc584a10fee7cd50b0159b617ff9dc6751f0cc8185435cf2c81a0443af0c44bc4d2a58ce021778d93ec7f50318862a2b046"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:01:00.559Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "R2OftAxM"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "yHN0njMr",
+      "slug": "ends-delight",
+      "name": "End's Delight",
+      "summary": "End's Delight is an addon mod for Farmer's Delight based around adding culinary content to the end!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/yHN0njMr/bc333fa34161b1e4d3c2e185210bb558aa1d480a.png",
+      "versionId": "YTApg6Hl",
+      "versionNumber": "2.6.1+neoforge.1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "ends_delight-2.6.1+neoforge.1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yHN0njMr/versions/YTApg6Hl/ends_delight-2.6.1%2Bneoforge.1.21.1.jar",
+      "size": 258124,
+      "hashes": {
+        "sha1": "0613a535d82b7a3d51d0caf0e04b082cb4c062e9",
+        "sha512": "1cb6893f285ce3bc3b2ab19e355ca14bb409e2b078e202ee273e722357494a68b156be097cbd3ceae860e985787fe37b053446bc1258884e831d7b01b4ad76a9"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:01:02.717Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "DGiq4ZSW",
+      "slug": "oceans-delight",
+      "name": "Ocean's Delight",
+      "summary": "Ocean's Delight is an addon mod for Farmer's Delight based around adding culinary content to the ocean!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
+      "versionId": "ja5Qg1xw",
+      "versionNumber": "1.0.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "size": 117108,
+      "hashes": {
+        "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9",
+        "sha512": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:01:16.338Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Eh11TaTm",
+      "slug": "lets-do-herbalbrews",
+      "name": "[Let's Do] HerbalBrews",
+      "summary": "It's Tea Time! Brew Tea, Coffee and Flasks.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Eh11TaTm/cea48ad39e9323e9e0f5354ee1d4c160f46b50be_96.webp",
+      "versionId": "gtG21Zrn",
+      "versionNumber": "1.1.3",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/Eh11TaTm/versions/gtG21Zrn/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "size": 757160,
+      "hashes": {
+        "sha1": "7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1",
+        "sha512": "cfcfc47c24daff1b82849d36cbe5aa1d731a8bfcd814bc6afda2909ae18c4ff29e928122a3c37bb622c14738825f0a0db00547b30b54cd06cdaafb4af155e201"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:01:22.652Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "9Pk89J3g",
+      "slug": "justenoughbreeding",
+      "name": "Just Enough Breeding (JEBr)",
+      "summary": "JEI/REI/EMI plugin that displays breeding information",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png",
+      "versionId": "lVl2kVwh",
+      "versionNumber": "3.2.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/9Pk89J3g/versions/lVl2kVwh/justenoughbreeding-neoforge-1.21.1-3.2.1.jar",
+      "size": 593705,
+      "hashes": {
+        "sha1": "9b2bfac5e7aa0952dfb3da18936c0ece4beeae21",
+        "sha512": "d1e9970f615d7a0986f030259d7d16cc4ba8cbd89bb81d1a1fbf6da2d3a9c7a0376957e1b418bcd82c9e45dcbdb6eb05fde2e20cc3f5225db33d0436759baee6"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:01:29.170Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ONZm0H7Y",
+      "slug": "better-block-entities",
+      "name": "Better Block Entities",
+      "summary": "A Minecraft optimization mod for Fabric-Sodium that improves framerates by improving block entity rendering via a hybrid renderer",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
+      "versionId": "RPhK79hl",
+      "versionNumber": "1.3.4-beta.3+mc1.21.1",
+      "gameVersions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/RPhK79hl/bbe-neoforge-1.3.4-beta.3%2Bmc1.21.1.jar",
+      "size": 177123,
+      "hashes": {
+        "sha1": "e715ca1236ea641345b6ac4746e564f44899675b",
+        "sha512": "978c6a260e651633e5aa4191e724d550dc4179a396371438e8a8cb218a55e22bece9c5dbac859a60dc7ced3e630de592660bcd1c2f625cd6cd36d7c4ce0f1e0c"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:02:03.419Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "KJhXPbHQ",
+      "slug": "better-compatibility-checker",
+      "name": "Better Compatibility Checker",
+      "summary": "Changes the default server compatibility check to compare modpack versions",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/KJhXPbHQ/bac6efc73281fab7a07ddca978800a5e9172b529.png",
+      "versionId": "NYkU1ldY",
+      "versionNumber": "21.1.8",
+      "gameVersions": [
+        "1.21.1",
+        "1.21.2"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "better-compatability-checker-neoforge-21.1.8.jar",
+      "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/NYkU1ldY/better-compatability-checker-neoforge-21.1.8.jar",
+      "size": 25085,
+      "hashes": {
+        "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
+        "sha512": "43f8817abd4c48f2cf2087332a84e9840bde232bc62f838badb241f31bbabaa68ebb0b6403875ea66338cf76c0e394f13fafdee3804a37462c04f0acc7dfcd81"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:02:35.141Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "e9V6wFcR",
+      "slug": "expanded-delight",
+      "name": "Expanded Delight",
+      "summary": "An addon mod for Farmer's Delight\nthat adds many more crops and functionality to the base mod",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/e9V6wFcR/4cbbace573b20628290929948a77c74d95ed7a70.png",
+      "versionId": "RTRYPIJp",
+      "versionNumber": "0.1.4-neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "expandeddelight-0.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/RTRYPIJp/expandeddelight-0.1.4.jar",
+      "size": 547554,
+      "hashes": {
+        "sha1": "cf26fe18c3a9deec525fe0f0e7c2d3b9f4e9f484",
+        "sha512": "13a2bd17c5c184902da9eb78ce9b993073864301e8cb4a038f7fd7e596188826ef13381cf615533286f53eaeaabfc4c8b27ab91113a15ea68e4bd9f84ca16b8b"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:02:40.152Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "1eAoo2KR",
+        "8BmcQJ2H",
+        "lhGA9TYQ"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Yd4wb5wZ",
+      "slug": "critters-and-companions",
+      "name": "Critters and Companions",
+      "summary": "Adds a few new friends to your world!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Yd4wb5wZ/6a54e2ebabb89763669ba56c76a3514ca5605d3e_96.webp",
+      "versionId": "kGomvo87",
+      "versionNumber": "2.6.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+      "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/kGomvo87/crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+      "size": 1865180,
+      "hashes": {
+        "sha1": "2470c3235c5af25a67751e1a9221e8c840f4d095",
+        "sha512": "0eb106b9dba2fbb59a40a2829ac5a16fb19d9c4c35419583d08f00357448ba795853ed11e21674d25ca232c208eb9739c3da4b319c0af370fdf71fd5df42ef2f"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:02:49.937Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "5CTSrY8X",
+      "slug": "gputape",
+      "name": "GPUBooster",
+      "summary": "Provides DSA & fastest math formulas to game render system for best perfomance!\n\nCompatible with Sodium/Embeddium, Iris and shaders.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/5CTSrY8X/da829c3d25f976da539f41c3eae3d1ebe6c27e5e_96.webp",
+      "versionId": "nlerwS8N",
+      "versionNumber": "1.0.3-neo",
+      "gameVersions": [
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "size": 16669,
+      "hashes": {
+        "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59",
+        "sha512": "63056c4ebc324244720d0ac35900ca121bcaee210b8684a48b4dd53c72c471f9075a6ca2da68270c72f2c2f8dedd970df02da250d44d18b95208c7f1deff3031"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:03:38.656Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "f4P7fNKN",
+      "slug": "longer-chat-history",
+      "name": "Longer Chat History",
+      "summary": "Makes chat history much longer",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/f4P7fNKN/3d192c8ccd5d568aa02234c647263485860077ec.png",
+      "versionId": "Une73t0n",
+      "versionNumber": "1.7",
+      "gameVersions": [
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "LongerChatHistory-neoforge-1.7.jar",
+      "url": "https://cdn.modrinth.com/data/f4P7fNKN/versions/Une73t0n/LongerChatHistory-neoforge-1.7.jar",
+      "size": 6094,
+      "hashes": {
+        "sha1": "24a373d5310ccdb7a04e61dcce18ab67e1ec6852",
+        "sha512": "8f912d2b1a85203718058d067d073872deb30ff2b031edfa70873eeaf77afee8de8a92a4e9ead3d8c8dcea9539c42297ba3cbeb91833d74b9a2f07dd65279975"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:04:51.053Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "4Rh1Mobu",
+      "slug": "flerovium",
+      "name": "Flerovium",
+      "summary": "Greatly improve your fps with virtually no side-effects on graphics quality",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/4Rh1Mobu/a0e1ac73558191a743458c0254ba3fc73a242e4a_96.webp",
+      "versionId": "oU1q3eIj",
+      "versionNumber": "1.1.2",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "flerovium-neoforge-1.21.1-1.1.2-all.jar",
+      "url": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/oU1q3eIj/flerovium-neoforge-1.21.1-1.1.2-all.jar",
+      "size": 182579,
+      "hashes": {
+        "sha1": "31491e08947da57d4af6c48e8d3237cc6d4009c1",
+        "sha512": "6301ea6991768832fa983f61e1b0574336aea4920e027632a3df93c8a10f5d87041876fad516d16827d9cd13a84b5a8c334c1a0076ca04121e321939d5d6ea52"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:05:37.214Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "laNoi025",
+      "slug": "screenshot-viewer",
+      "name": "Screenshot Viewer",
+      "summary": "View your screenshots in game!",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
+      "versionId": "efjk3jeu",
+      "versionNumber": "1.21.1-neoforge-1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/laNoi025/versions/efjk3jeu/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "size": 122961,
+      "hashes": {
+        "sha1": "55eb706279d561d33c7709cfc2517a8388fb73e7",
+        "sha512": "3aa3959a518a0a5eeede72ba699d9b1974486736b8c0c6c5a624ca286f4f73dce5cea80a3e207b7e96dfe22a65a803aa5e240beb535f343459757cc474836029"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-01T19:06:07.074Z"
     }
   ],
-  "updatedAt": "2026-08-01T18:54:35.752Z",
+  "updatedAt": "2026-08-01T19:06:17.196Z",
   "side": "client",
-  "generatedAt": "2026-08-01T18:54:35.754Z"
+  "generatedAt": "2026-08-01T19:06:17.198Z"
 }
