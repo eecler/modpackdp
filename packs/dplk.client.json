@@ -2402,42 +2402,6 @@
       "addedAt": "2026-08-01T18:45:48.149Z"
     },
     {
-      "summary": "Config API for adding Sodium options with a better categories menu",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [
-        "AANobbMI"
-      ],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "g1xmvph",
-      "projectId": "Es5v4eyq",
-      "slug": "sodium-options-api",
-      "name": "Sodium Options API",
-      "icon": "https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp",
-      "versionId": "lrsX3TMS",
-      "versionNumber": "neoforge-1.21.1-1.0.10",
-      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "size": 309122,
-      "hashes": {
-        "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
-        "sha512": "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
-      },
-      "side": "client",
-      "sideSource": "auto",
-      "autoSide": "client",
-      "addedBy": "eecler",
-      "addedAt": "2026-08-01T18:45:48.154Z",
-      "isDependency": true
-    },
-    {
       "summary": "An astounding sequel to the original BYG mod for 1.20.1+ with over 50+ biomes ranging from the magical to the realistic and all breathtaking!",
       "notes": "",
       "gameVersions": [
@@ -5639,9 +5603,44 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-08-02T01:09:25.691Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "Bh37bMuy",
+      "slug": "reeses-sodium-options",
+      "name": "Reese's Sodium Options",
+      "summary": "Alternative Options Menu for Sodium",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
+      "versionId": "KYgu9tXl",
+      "versionNumber": "mc1.21.1-2.2.3+neoforge",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar",
+      "size": 260876,
+      "hashes": {
+        "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
+        "sha512": "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:21:41.210Z"
     }
   ],
-  "updatedAt": "2026-08-02T01:18:12.322Z",
+  "updatedAt": "2026-08-02T01:21:47.687Z",
   "side": "client",
-  "generatedAt": "2026-08-02T01:18:12.324Z"
+  "generatedAt": "2026-08-02T01:21:47.689Z"
 }
