@@ -1537,39 +1537,6 @@
       "addedAt": "2026-08-01T17:51:26.315Z"
     },
     {
-      "summary": "Village Pest Control",
-      "notes": "",
-      "gameVersions": [
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "g1xmvph",
-      "projectId": "H1sntfo8",
-      "slug": "guard-villagers",
-      "name": "Guard Villagers",
-      "icon": "https://cdn.modrinth.com/data/H1sntfo8/b95a237f1b05eb3aa8e27b16b756db99d327c37f_96.webp",
-      "versionId": "PR6QZtjY",
-      "versionNumber": "2.4.10",
-      "filename": "guardvillagers-2.4.10-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/H1sntfo8/versions/PR6QZtjY/guardvillagers-2.4.10-1.21.1.jar",
-      "size": 283467,
-      "hashes": {
-        "sha1": "3367fcfe8b72a2358cb4be83ac0b7f0470831a92",
-        "sha512": "47521375c14b916b8ab912ae4c24c405fa02ae75788f5fe4edd1020164b15c577735a1f039aff91507bad4fc82ba9adb52695bd2c2765fc844253aa6d5f575f4"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "eecler",
-      "addedAt": "2026-08-01T17:51:26.315Z"
-    },
-    {
       "summary": "Performance improvements for vanilla AI, with  the ability to turn off certain AI behaviors",
       "notes": "",
       "gameVersions": [
@@ -6411,5 +6378,5 @@
       "addedAt": "2026-08-02T01:23:01.318Z"
     }
   ],
-  "updatedAt": "2026-08-02T01:29:38.611Z"
+  "updatedAt": "2026-08-02T01:55:34.798Z"
 }
