@@ -416,14 +416,14 @@
       "slug": "jei",
       "name": "Just Enough Items (JEI)",
       "icon": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
-      "versionId": "pSsBRqU0",
-      "versionNumber": "19.43.0.392",
-      "filename": "jei-1.21.1-neoforge-19.43.0.392.jar",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/pSsBRqU0/jei-1.21.1-neoforge-19.43.0.392.jar",
-      "size": 1685019,
+      "versionId": "zHNxmOqp",
+      "versionNumber": "19.39.0.372",
+      "filename": "jei-1.21.1-neoforge-19.39.0.372.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zHNxmOqp/jei-1.21.1-neoforge-19.39.0.372.jar",
+      "size": 1572695,
       "hashes": {
-        "sha1": "5924c9b36345c95078269b6acebf1f5efa5c01f8",
-        "sha512": "c3344721fedf0cdf5ba086325a48128b88615a8f5958b46c856106b06ea7741379f31f80a2759694922c5830064d8793850813df7f9ba940f8e74e2e5a47aa18"
+        "sha1": "6e703a82a229d269855c3e0260c38aebc7f01abb",
+        "sha512": "27ce1556b304ecfa828f1440b6142d0672f285c860436182328e9dd3e7f8011d0f962109553a59b1944494af70f784b9b16ce626fd011cc9ee54cda39650a0f5"
       },
       "side": "both",
       "sideSource": "auto",
@@ -6334,27 +6334,27 @@
       "addedAt": "2026-08-02T01:09:25.691Z"
     },
     {
-      "group": "g1xmvph",
-      "requires": [
-        "AANobbMI"
-      ],
-      "incompatible": [],
-      "source": "modrinth",
-      "type": "mod",
-      "projectId": "Bh37bMuy",
-      "slug": "reeses-sodium-options",
-      "name": "Reese's Sodium Options",
       "summary": "Alternative Options Menu for Sodium",
       "notes": "",
-      "icon": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
-      "versionId": "KYgu9tXl",
-      "versionNumber": "mc1.21.1-2.2.3+neoforge",
       "gameVersions": [
         "1.21.1"
       ],
       "loaders": [
         "neoforge"
       ],
+      "requires": [
+        "AANobbMI"
+      ],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g1xmvph",
+      "projectId": "Bh37bMuy",
+      "slug": "reeses-sodium-options",
+      "name": "Reese's Sodium Options",
+      "icon": "https://cdn.modrinth.com/data/Bh37bMuy/icon.png",
+      "versionId": "KYgu9tXl",
+      "versionNumber": "mc1.21.1-2.2.3+neoforge",
       "filename": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar",
       "size": 260876,
@@ -6367,7 +6367,83 @@
       "autoSide": "client",
       "addedBy": "eecler",
       "addedAt": "2026-08-02T01:21:41.210Z"
+    },
+    {
+      "summary": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+      "notes": "",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "requires": [],
+      "incompatible": [],
+      "type": "mod",
+      "source": "modrinth",
+      "group": "g1xmvph",
+      "projectId": "Ck4E7v7R",
+      "slug": "guideme",
+      "name": "GuideME",
+      "icon": "https://cdn.modrinth.com/data/Ck4E7v7R/04e8cbe7daff69feb20bf114074475001d9c7be5.png",
+      "versionId": "rduAfwb7",
+      "versionNumber": "21.1.17",
+      "filename": "guideme-21.1.17.jar",
+      "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/rduAfwb7/guideme-21.1.17.jar",
+      "size": 9309396,
+      "hashes": {
+        "sha1": "060e374f578db694a0b8f3ad409bd424cae86359",
+        "sha512": "8b5d8cf7592d7b4759f5347c5acd1b0eb46403437b10b900f535e4cdde59ab1b37d57b71f3f67cdc99a66d55ad5d760f51b55ba2bc50aecf538f8572003e4cbf"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:21:57.365Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "ik2WZkTZ",
+      "slug": "petrolpark",
+      "name": "Petrolpark's Library",
+      "summary": "A library of shared features and utilities for my mods",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/ik2WZkTZ/3bb407298ce168f786b56e0ddc62a7539e94846f.png",
+      "versionId": "3A7Utwm4",
+      "versionNumber": "1.21.1-1.5.0",
+      "gameVersions": [
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "petrolpark-1.21.1-1.5.0.jar",
+      "url": "https://cdn.modrinth.com/data/ik2WZkTZ/versions/3A7Utwm4/petrolpark-1.21.1-1.5.0.jar",
+      "size": 6902865,
+      "hashes": {
+        "sha1": "308b49b9a638710f44d2976021fae02067587b9b",
+        "sha512": "a2202066a1795841051b9ff5d072f4cc89e15b4e8e59d3ed03031f2f32ee533f352462d367ada9a1eb94b55bb5755e411443b7f320331815ffb8e69bbb16513f"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:23:01.318Z"
     }
   ],
-  "updatedAt": "2026-08-02T01:21:47.687Z"
+  "updatedAt": "2026-08-02T01:24:52.858Z"
 }
