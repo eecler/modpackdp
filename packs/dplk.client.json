@@ -5434,9 +5434,79 @@
       "autoSide": "client",
       "addedBy": "eecler",
       "addedAt": "2026-08-01T19:06:07.074Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [
+        "YL57xq9U"
+      ],
+      "incompatible": [
+        "ndHYMY2K"
+      ],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "BzHgFoGz",
+      "slug": "colorwheel",
+      "name": "Colorwheel",
+      "summary": "Allows you to use Iris Shaders with Flywheel",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/BzHgFoGz/a2808297ead0419d38d9ec23c5c1e594bc757eed_96.webp",
+      "versionId": "Uhs2KYar",
+      "versionNumber": "1.2.9+mc1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/Uhs2KYar/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar",
+      "size": 398004,
+      "hashes": {
+        "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
+        "sha512": "d2473439fdb26ff6a217808beea389f81e4cb387a9d7fde084660c432e70b8689d960c8e269820932632e6cefb7c11c1e24de758dceee723d93a83035927ccdc"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:00:43.387Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "fX4dIQCo",
+      "slug": "scholar",
+      "name": "Scholar",
+      "summary": "Two-page book editing/viewing, easy formatting, colored books, literate mobs and other book-related improvements",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/fX4dIQCo/a859aee72bc023682d50f4d42501765eed8887e3.png",
+      "versionId": "5ekGrx8w",
+      "versionNumber": "1.2.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "scholar-neoforge-1.21.1-1.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/5ekGrx8w/scholar-neoforge-1.21.1-1.2.4.jar",
+      "size": 927095,
+      "hashes": {
+        "sha1": "c00a239520937aff35fe4660786f4d1b22d6d42e",
+        "sha512": "8045a36b0a74268c2f138b9f71ab72a41d73b09ad2ceaaa9f3539a98d3f39c998c0a1c20fec05f10fad068c495071527002766fb7736328af57e95255c572f35"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:01:47.673Z"
     }
   ],
-  "updatedAt": "2026-08-01T19:08:01.401Z",
+  "updatedAt": "2026-08-02T01:02:04.836Z",
   "side": "client",
-  "generatedAt": "2026-08-01T19:08:01.404Z"
+  "generatedAt": "2026-08-02T01:02:04.838Z"
 }

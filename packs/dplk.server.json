@@ -4747,9 +4747,42 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-08-01T19:02:49.937Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "fX4dIQCo",
+      "slug": "scholar",
+      "name": "Scholar",
+      "summary": "Two-page book editing/viewing, easy formatting, colored books, literate mobs and other book-related improvements",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/fX4dIQCo/a859aee72bc023682d50f4d42501765eed8887e3.png",
+      "versionId": "5ekGrx8w",
+      "versionNumber": "1.2.4",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "scholar-neoforge-1.21.1-1.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/5ekGrx8w/scholar-neoforge-1.21.1-1.2.4.jar",
+      "size": 927095,
+      "hashes": {
+        "sha1": "c00a239520937aff35fe4660786f4d1b22d6d42e",
+        "sha512": "8045a36b0a74268c2f138b9f71ab72a41d73b09ad2ceaaa9f3539a98d3f39c998c0a1c20fec05f10fad068c495071527002766fb7736328af57e95255c572f35"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:01:47.673Z"
     }
   ],
-  "updatedAt": "2026-08-01T19:08:01.401Z",
+  "updatedAt": "2026-08-02T01:02:04.836Z",
   "side": "server",
-  "generatedAt": "2026-08-01T19:08:01.405Z"
+  "generatedAt": "2026-08-02T01:02:04.839Z"
 }
