@@ -225,40 +225,6 @@
       "addedAt": "2026-08-01T17:51:26.315Z"
     },
     {
-      "summary": "View Items and Recipes",
-      "notes": "",
-      "gameVersions": [
-        "1.21",
-        "1.21.1"
-      ],
-      "loaders": [
-        "neoforge"
-      ],
-      "requires": [],
-      "incompatible": [],
-      "type": "mod",
-      "source": "modrinth",
-      "group": "g1xmvph",
-      "projectId": "u6dRKJwZ",
-      "slug": "jei",
-      "name": "Just Enough Items (JEI)",
-      "icon": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
-      "versionId": "zHNxmOqp",
-      "versionNumber": "19.39.0.372",
-      "filename": "jei-1.21.1-neoforge-19.39.0.372.jar",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zHNxmOqp/jei-1.21.1-neoforge-19.39.0.372.jar",
-      "size": 1572695,
-      "hashes": {
-        "sha1": "6e703a82a229d269855c3e0260c38aebc7f01abb",
-        "sha512": "27ce1556b304ecfa828f1440b6142d0672f285c860436182328e9dd3e7f8011d0f962109553a59b1944494af70f784b9b16ce626fd011cc9ee54cda39650a0f5"
-      },
-      "side": "both",
-      "sideSource": "auto",
-      "autoSide": "both",
-      "addedBy": "eecler",
-      "addedAt": "2026-08-01T17:51:26.315Z"
-    },
-    {
       "summary": "Configuration Library for Minecraft Mods",
       "notes": "",
       "gameVersions": [
@@ -5099,7 +5065,7 @@
       "addedAt": "2026-08-02T01:23:01.318Z"
     }
   ],
-  "updatedAt": "2026-08-02T01:24:52.858Z",
+  "updatedAt": "2026-08-02T01:29:38.611Z",
   "side": "server",
-  "generatedAt": "2026-08-02T01:24:52.862Z"
+  "generatedAt": "2026-08-02T01:29:38.616Z"
 }
