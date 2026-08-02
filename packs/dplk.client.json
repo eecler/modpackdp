@@ -5504,9 +5504,150 @@
       "autoSide": "both",
       "addedBy": "eecler",
       "addedAt": "2026-08-02T01:01:47.673Z"
+    },
+    {
+      "group": "lib",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "vBbPDuOs",
+      "slug": "txnilib",
+      "name": "TxniLib",
+      "summary": "Multiversion library mod for Txni projects",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/vBbPDuOs/230624c5d6b08c340e02d2a0f67c737f759bf4e2_96.webp",
+      "versionId": "M1CyD3Uu",
+      "versionNumber": "neoforge-1.21.1-1.0.24",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "size": 6276522,
+      "hashes": {
+        "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+        "sha512": "656cd5746fe1b3a2cc7c516619d9f88556f37387e672bb0f362c8aecefc6f1d06705d3a84564c8779856fbbf69fee67b6038a24ffcf46f36f2c478a1aff43a57"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:03:35.847Z",
+      "isDependency": true
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "pSISfJ4O",
+      "slug": "quick-pack",
+      "name": "quick pack",
+      "summary": "Optimize datapack / resourcepack zip file loading times",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/pSISfJ4O/fea45444b04ec3ddb3804d0576bc7b6347243632.png",
+      "versionId": "bKdqc6Wf",
+      "versionNumber": "neoforge-1.4.0+1.21.1",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "quick-pack-neoforge-1.4.0+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/bKdqc6Wf/quick-pack-neoforge-1.4.0%2B1.21.1.jar",
+      "size": 15082,
+      "hashes": {
+        "sha1": "a725dffc3ab2e1e96326296255b4cefcc49cab61",
+        "sha512": "02f6bed8c9bd5d49ee2d085e2f9c4a11e7e4b2f59caee7159adadc226c83f14902ffd983e69516242e9e5b64ee536cec304459594e3d0f7f2b41f14f337f884b"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:04:04.238Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "zvNzKfGF",
+      "slug": "asynclogger",
+      "name": "Async Logger",
+      "summary": "Asynchronous logging and efficient filtering - performance improvements and utility for keeping your logs clean",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/zvNzKfGF/b3cd32f8aa093ca73b960e384bf4ac46ac68aaec_96.webp",
+      "versionId": "i5z8ZG27",
+      "versionNumber": "2.2.1+1.21.1-neoforge",
+      "gameVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "asynclogger-2.2.1+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/zvNzKfGF/versions/i5z8ZG27/asynclogger-2.2.1%2B1.21.1-neoforge.jar",
+      "size": 589379,
+      "hashes": {
+        "sha1": "9ec66494590b97c9e16c7b0a2af5a18ed49e80e2",
+        "sha512": "0ae31f57eee67dbc828fe045658e47195e70f971d09cd786b89320cb27eb0c81a9da56be8539392d948bbc32ebc9c838bc04c3736115e45aa0118b189bce086f"
+      },
+      "side": "client",
+      "sideSource": "auto",
+      "autoSide": "client",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:06:18.174Z"
+    },
+    {
+      "group": "g1xmvph",
+      "requires": [],
+      "incompatible": [],
+      "source": "modrinth",
+      "type": "mod",
+      "projectId": "hlVtb1H0",
+      "slug": "mods-optimizer",
+      "name": "Mods Optimizer",
+      "summary": "Automatic and real-time server bundling (one mod pack for client/server) and mod clean up for better performance and less crashes.",
+      "notes": "",
+      "icon": "https://cdn.modrinth.com/data/hlVtb1H0/ee7236127b815792936802877aeec8e56a277004_96.webp",
+      "versionId": "YsuxMxVa",
+      "versionNumber": "4.3.0",
+      "gameVersions": [
+        "1.21.1"
+      ],
+      "loaders": [
+        "neoforge"
+      ],
+      "filename": "mods_optimizer-neoforge-1.21.1-4.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/hlVtb1H0/versions/YsuxMxVa/mods_optimizer-neoforge-1.21.1-4.3.0.jar",
+      "size": 204161,
+      "hashes": {
+        "sha1": "aca8eb4deea86c005741dff87745d98ca13709d7",
+        "sha512": "afcac014cf7f24b36b0e41ec245e848892b091703523e0faa330bed4afade21e6dca3ce1dbb3829dd34f8a00cccb3e2d02672f1fa0c7602e2dbf0308ed0651de"
+      },
+      "side": "both",
+      "sideSource": "auto",
+      "autoSide": "both",
+      "addedBy": "eecler",
+      "addedAt": "2026-08-02T01:09:25.691Z"
     }
   ],
-  "updatedAt": "2026-08-02T01:02:04.836Z",
+  "updatedAt": "2026-08-02T01:10:53.773Z",
   "side": "client",
-  "generatedAt": "2026-08-02T01:02:04.838Z"
+  "generatedAt": "2026-08-02T01:10:53.775Z"
 }
